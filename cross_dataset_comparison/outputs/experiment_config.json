@@ -1,0 +1,92 @@
+{
+  "seed": 42,
+  "cv_folds": 10,
+  "cv_shuffle": true,
+  "test_size": 0.2,
+  "stratified_holdout": true,
+  "cv_scoring": "accuracy",
+  "adult_scheme": 2,
+  "classifiers": {
+    "Decision Tree": {
+      "ccp_alpha": 0.0,
+      "class_weight": null,
+      "criterion": "gini",
+      "max_depth": 8,
+      "max_features": null,
+      "max_leaf_nodes": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 1,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "monotonic_cst": null,
+      "random_state": 42,
+      "splitter": "best"
+    },
+    "Random Forest": {
+      "bootstrap": true,
+      "ccp_alpha": 0.0,
+      "class_weight": null,
+      "criterion": "gini",
+      "max_depth": null,
+      "max_features": "sqrt",
+      "max_leaf_nodes": null,
+      "max_samples": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 1,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "monotonic_cst": null,
+      "n_estimators": 200,
+      "n_jobs": -1,
+      "oob_score": false,
+      "random_state": 42,
+      "verbose": 0,
+      "warm_start": false
+    },
+    "Logistic Regression": {
+      "C": 1.0,
+      "class_weight": null,
+      "dual": false,
+      "fit_intercept": true,
+      "intercept_scaling": 1,
+      "l1_ratio": 0.0,
+      "max_iter": 1000,
+      "n_jobs": null,
+      "penalty": "deprecated",
+      "random_state": 42,
+      "solver": "lbfgs",
+      "tol": 0.0001,
+      "verbose": 0,
+      "warm_start": false
+    },
+    "SVM": {
+      "C": 1.0,
+      "break_ties": false,
+      "cache_size": 200,
+      "class_weight": null,
+      "coef0": 0.0,
+      "decision_function_shape": "ovr",
+      "degree": 3,
+      "gamma": "scale",
+      "kernel": "rbf",
+      "max_iter": -1,
+      "probability": true,
+      "random_state": 42,
+      "shrinking": true,
+      "tol": 0.001,
+      "verbose": false
+    }
+  },
+  "versions": {
+    "python": "3.14.6 | packaged by Anaconda, Inc. | (main, Jul  9 2026, 14:29:05) [MSC v.1942 64 bit (AMD64)]",
+    "sklearn": "1.9.0",
+    "numpy": "2.4.6",
+    "pandas": "3.0.3"
+  },
+  "notes": [
+    "Adult 复用正式结果，并逐一验证保存模型的全部分类器参数。",
+    "Mushroom 新增固定参数十折验证及留出评估，原五折调参结果保留。",
+    "两个数据集保留各自预处理，不把全部表现差异归因于数据集。",
+    "Adult 原有重复记录风险仍需在报告中说明。"
+  ]
+}

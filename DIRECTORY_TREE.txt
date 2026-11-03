@@ -1,0 +1,160 @@
+CDS535_Adult_Mushroom_GitHub/
+├── adult project/
+│   ├── adult/
+│   │   ├── adult.data
+│   │   ├── adult.names
+│   │   ├── adult.test
+│   │   ├── Index
+│   │   └── old.adult.names
+│   ├── outputs/
+│   │   ├── evaluation/
+│   │   │   ├── adult_comparison/
+│   │   │   │   ├── accuracy_comparison.png
+│   │   │   │   ├── adult_all_schemes_results.csv
+│   │   │   │   ├── adult_all_schemes_results.xlsx
+│   │   │   │   ├── f1_comparison.png
+│   │   │   │   └── roc_auc_comparison.png
+│   │   │   ├── adult_scheme1/
+│   │   │   │   ├── confusion_matrices.png
+│   │   │   │   ├── decision_tree.png
+│   │   │   │   ├── metrics.csv
+│   │   │   │   ├── metrics.xlsx
+│   │   │   │   └── roc_curves.png
+│   │   │   ├── scheme2/
+│   │   │   │   ├── scheme2_confusion_matrices.png
+│   │   │   │   ├── scheme2_results.csv
+│   │   │   │   ├── scheme2_results.xlsx
+│   │   │   │   ├── scheme2_roc.png
+│   │   │   │   └── scheme2_tree.png
+│   │   │   └── scheme3/
+│   │   │       ├── scheme3_confusion_matrices.png
+│   │   │       ├── scheme3_results.csv
+│   │   │       ├── scheme3_results.xlsx
+│   │   │       ├── scheme3_roc.png
+│   │   │       └── scheme3_tree.png
+│   │   ├── models/
+│   │   │   ├── adult_apriori/
+│   │   │   │   ├── adult_apriori_frequent_itemsets.csv
+│   │   │   │   ├── adult_apriori_rules.csv
+│   │   │   │   └── adult_apriori_summary.csv
+│   │   │   ├── scheme1.joblib
+│   │   │   ├── scheme2.joblib
+│   │   │   └── scheme3.joblib
+│   │   └── preprocessing/
+│   │       ├── figures/
+│   │       │   ├── 01_missing_values.png
+│   │       │   ├── 02_income_distribution.png
+│   │       │   ├── 03_numeric_distributions.png
+│   │       │   └── 04_numeric_correlations.png
+│   │       ├── cleaned_data.csv
+│   │       ├── processed_data.joblib
+│   │       ├── scheme1.joblib
+│   │       ├── scheme2.joblib
+│   │       └── scheme3.joblib
+│   ├── presentation/
+│   │   ├── Adult_Evaluation_Final.pptx
+│   │   └── Adult_Evaluation_逐页演讲稿.md
+│   ├── evaluation.py
+│   ├── evaluation_demo.md
+│   ├── models.py
+│   ├── preprocessing.py
+│   ├── README.md
+│   └── requirements.txt
+├── cross_dataset_comparison/
+│   ├── outputs/
+│   │   ├── mushroom/
+│   │   │   ├── confusion_matrices.csv
+│   │   │   ├── confusion_matrices.png
+│   │   │   ├── cv_scores_10fold.csv
+│   │   │   ├── metrics_10fold_holdout.csv
+│   │   │   ├── models.joblib
+│   │   │   ├── split_and_cv_assignments.csv
+│   │   │   └── test_predictions.csv
+│   │   ├── adult_scheme2_reference.csv
+│   │   ├── cross_dataset_cv_accuracy.png
+│   │   ├── cross_dataset_metrics.csv
+│   │   ├── cross_dataset_metrics.png
+│   │   ├── experiment_config.json
+│   │   ├── run_manifest.json
+│   │   └── source_preservation.json
+│   ├── compare_baselines.py
+│   ├── README.md
+│   └── 跨数据集分析_报告正文.md
+├── Data mining project/
+│   ├── mushroom_preprocessing/
+│   │   ├── data/
+│   │   │   ├── agaricus-lepiota.data
+│   │   │   └── agaricus-lepiota.names
+│   │   ├── output/
+│   │   │   ├── data/
+│   │   │   │   ├── mushroom_audit_with_missing.csv
+│   │   │   │   ├── mushroom_complete_cases.csv
+│   │   │   │   ├── mushroom_modeling_base.csv
+│   │   │   │   └── mushroom_without_stalk_root.csv
+│   │   │   ├── figures/
+│   │   │   │   ├── class_by_odor.png
+│   │   │   │   ├── class_distribution.png
+│   │   │   │   ├── confusion_matrix_decision_tree.png
+│   │   │   │   ├── confusion_matrix_decision_tree_normalized.png
+│   │   │   │   ├── confusion_matrix_linear_svm.png
+│   │   │   │   ├── confusion_matrix_linear_svm_normalized.png
+│   │   │   │   ├── confusion_matrix_logistic_regression.png
+│   │   │   │   ├── confusion_matrix_logistic_regression_normalized.png
+│   │   │   │   ├── confusion_matrix_random_forest.png
+│   │   │   │   ├── confusion_matrix_random_forest_normalized.png
+│   │   │   │   ├── decision_tree_structure.png
+│   │   │   │   ├── missing_values.png
+│   │   │   │   └── roc_curve_comparison.png
+│   │   │   └── tables/
+│   │   │       ├── apriori_class_rules.csv
+│   │   │       ├── apriori_frequent_itemsets.csv
+│   │   │       ├── apriori_rules.csv
+│   │   │       ├── apriori_support_confidence_grid.csv
+│   │   │       ├── audit_summary.csv
+│   │   │       ├── class_distribution.csv
+│   │   │       ├── confusion_matrix_decision_tree.csv
+│   │   │       ├── confusion_matrix_decision_tree_normalized.csv
+│   │   │       ├── confusion_matrix_linear_svm.csv
+│   │   │       ├── confusion_matrix_linear_svm_normalized.csv
+│   │   │       ├── confusion_matrix_logistic_regression.csv
+│   │   │       ├── confusion_matrix_logistic_regression_normalized.csv
+│   │   │       ├── confusion_matrix_random_forest.csv
+│   │   │       ├── confusion_matrix_random_forest_normalized.csv
+│   │   │       ├── constant_attributes.csv
+│   │   │       ├── missing_values_summary.csv
+│   │   │       ├── model_metrics.csv
+│   │   │       ├── schema_and_missingness.csv
+│   │   │       ├── tuning_baseline_vs_tuned.csv
+│   │   │       ├── tuning_best_params.csv
+│   │   │       ├── tuning_cv_results_decision_tree.csv
+│   │   │       ├── tuning_cv_results_linear_svm.csv
+│   │   │       ├── tuning_cv_results_logistic_regression.csv
+│   │   │       └── tuning_cv_results_random_forest.csv
+│   │   ├── association_rules.py
+│   │   ├── evaluate_models.py
+│   │   ├── linear_svm_models.py
+│   │   ├── model_tuning.py
+│   │   ├── preprocess_mushroom.py
+│   │   └── tree_models.py
+│   └── requirements.txt
+├── docs/
+│   ├── DATA_PROVENANCE.md
+│   ├── GITHUB_UPLOAD_zh.md
+│   ├── KNOWN_ISSUES.md
+│   ├── PACKAGING_SELECTION.json
+│   ├── VALIDATION.md
+│   └── VALIDATION_RESULTS.json
+├── reports/
+│   ├── CDS535_Adult_Mushroom_Report_Chinese_Members.docx
+│   ├── CDS535_Group_TeamName_Template_Members.docx
+│   └── README.md
+├── .gitattributes
+├── .gitignore
+├── CHECKSUMS.sha256
+├── CODE_PRESERVATION.json
+├── DIRECTORY_TREE.txt
+├── FILE_MANIFEST.json
+├── README.md
+├── README_zh.md
+├── requirements.txt
+└── verify_files.ps1

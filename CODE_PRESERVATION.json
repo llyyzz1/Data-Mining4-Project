@@ -1,0 +1,68 @@
+{
+  "code_files": 10,
+  "all_copied_byte_for_byte": true,
+  "new_python_files_in_package": 0,
+  "algorithm_or_parameter_changes_for_packaging": false,
+  "files": [
+    {
+      "path": "adult project/evaluation.py",
+      "source": "adult project/evaluation.py",
+      "bytes": 18263,
+      "sha256": "c2c4bab65a6426170fd425f659d4a21d43fa5a6e84a5bd5eeea75b71019de170"
+    },
+    {
+      "path": "adult project/models.py",
+      "source": "adult project/models.py",
+      "bytes": 11606,
+      "sha256": "1324ff06f62320e8837604464025e5111277c90353e4e038d43010dd0c98b4b6"
+    },
+    {
+      "path": "adult project/preprocessing.py",
+      "source": "adult project/preprocessing.py",
+      "bytes": 26856,
+      "sha256": "ac46b2c4406c58b7b95423f989536321398981512fcf732b8209370aaa85175d"
+    },
+    {
+      "path": "cross_dataset_comparison/compare_baselines.py",
+      "source": "cross_dataset_comparison/compare_baselines.py",
+      "bytes": 16625,
+      "sha256": "d223693455114913e8d4d3ac3929e65a52371b7f33afb2943512a5e9729aae5f"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/association_rules.py",
+      "source": "Data mining project/mushroom_preprocessing/association_rules.py",
+      "bytes": 9394,
+      "sha256": "c128765e8d3f4d2a27171d5c8fd82d5d80575acb8257a2f176a050783b09aae4"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/evaluate_models.py",
+      "source": "Data mining project/mushroom_preprocessing/evaluate_models.py",
+      "bytes": 24524,
+      "sha256": "2f879716babc850e32421c18712187d8d50d4495479db76b62f75995e8012cea"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/linear_svm_models.py",
+      "source": "Data mining project/mushroom_preprocessing/linear_svm_models.py",
+      "bytes": 2578,
+      "sha256": "ba660fe891a85ea0208f9f02d63e5b6b8d2a6fb161d1f2fe0ddf22ecdc064188"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/model_tuning.py",
+      "source": "Data mining project/mushroom_preprocessing/model_tuning.py",
+      "bytes": 7966,
+      "sha256": "e67cc54e74b8586696dcac9ec4ef6e9b26566739c210465ed7106a475eff78dd"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/preprocess_mushroom.py",
+      "source": "Data mining project/mushroom_preprocessing/preprocess_mushroom.py",
+      "bytes": 10174,
+      "sha256": "8ad07b09dbcf1001abbbf9bd81bb91c6eedceb236f80d3a10ea630233f9d2ccd"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/tree_models.py",
+      "source": "Data mining project/mushroom_preprocessing/tree_models.py",
+      "bytes": 3471,
+      "sha256": "708385b3dce0fdc4a75c818e647ec4508e9129ceecf680eb83e11553e2932f83"
+    }
+  ]
+}

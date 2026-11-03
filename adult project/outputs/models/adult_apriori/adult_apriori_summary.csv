@@ -1,0 +1,2 @@
+dataset,instances,min_support,min_confidence,frequent_itemsets,rules,income_rules,max_lift
+Adult,48842,0.05,0.6,1886,1864,208,18.382386149793

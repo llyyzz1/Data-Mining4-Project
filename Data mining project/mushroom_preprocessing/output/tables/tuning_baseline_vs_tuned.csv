@@ -1,0 +1,5 @@
+model,baseline_test_accuracy,tuned_test_accuracy,delta_accuracy,baseline_test_f1,tuned_test_f1,delta_f1,baseline_test_roc_auc,tuned_test_roc_auc,delta_roc_auc
+Decision Tree,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0
+Random Forest,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0
+Logistic Regression,0.9993846153846154,1.0,0.0006153846153845732,0.9993610223642172,1.0,0.0006389776357828003,1.0,1.0,0.0
+Linear SVM,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0

@@ -1,0 +1,41 @@
+Dataset,Model,Fold,Accuracy,Fit seconds
+Mushroom,Decision Tree,1,1.0,0.12027478218078613
+Mushroom,Decision Tree,2,0.9969230769230769,0.1162252426147461
+Mushroom,Decision Tree,3,1.0,0.08428812026977539
+Mushroom,Decision Tree,4,1.0,0.08426952362060547
+Mushroom,Decision Tree,5,1.0,0.0887002944946289
+Mushroom,Decision Tree,6,1.0,0.08444809913635254
+Mushroom,Decision Tree,7,1.0,0.09084534645080566
+Mushroom,Decision Tree,8,1.0,0.08412504196166992
+Mushroom,Decision Tree,9,1.0,0.08358430862426758
+Mushroom,Decision Tree,10,1.0,0.08223104476928711
+Mushroom,Random Forest,1,1.0,0.6175382137298584
+Mushroom,Random Forest,2,1.0,0.6168224811553955
+Mushroom,Random Forest,3,1.0,0.6323647499084473
+Mushroom,Random Forest,4,1.0,0.6240553855895996
+Mushroom,Random Forest,5,1.0,0.6191110610961914
+Mushroom,Random Forest,6,1.0,0.6132919788360596
+Mushroom,Random Forest,7,1.0,0.6533162593841553
+Mushroom,Random Forest,8,1.0,0.648918628692627
+Mushroom,Random Forest,9,1.0,0.6733372211456299
+Mushroom,Random Forest,10,1.0,0.6653690338134766
+Mushroom,Logistic Regression,1,1.0,0.16556715965270996
+Mushroom,Logistic Regression,2,0.9938461538461538,0.18914341926574707
+Mushroom,Logistic Regression,3,1.0,0.13842988014221191
+Mushroom,Logistic Regression,4,1.0,0.13118815422058105
+Mushroom,Logistic Regression,5,1.0,0.1174616813659668
+Mushroom,Logistic Regression,6,1.0,0.1538553237915039
+Mushroom,Logistic Regression,7,1.0,0.12950706481933594
+Mushroom,Logistic Regression,8,1.0,0.15630197525024414
+Mushroom,Logistic Regression,9,1.0,0.12023377418518066
+Mushroom,Logistic Regression,10,1.0,0.10985422134399414
+Mushroom,SVM,1,1.0,2.987852096557617
+Mushroom,SVM,2,0.9938461538461538,2.978505849838257
+Mushroom,SVM,3,1.0,2.8698227405548096
+Mushroom,SVM,4,1.0,2.9353764057159424
+Mushroom,SVM,5,1.0,3.075894832611084
+Mushroom,SVM,6,1.0,2.984876871109009
+Mushroom,SVM,7,1.0,2.7987782955169678
+Mushroom,SVM,8,1.0,2.8395183086395264
+Mushroom,SVM,9,1.0,3.085721492767334
+Mushroom,SVM,10,1.0,3.048567295074463

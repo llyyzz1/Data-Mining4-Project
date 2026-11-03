@@ -1,0 +1,889 @@
+itemset,length,support_count,support
+veil-color=w,1,7924,0.9753815854258986
+gill-attachment=f,1,7914,0.9741506646971935
+"gill-attachment=f, veil-color=w",2,7906,0.9731659281142294
+ring-number=o,1,7488,0.9217134416543574
+"gill-attachment=f, ring-number=o",2,7296,0.8980797636632201
+"gill-attachment=f, ring-number=o, veil-color=w",3,7288,0.897095027080256
+"ring-number=o, veil-color=w",2,7288,0.897095027080256
+gill-spacing=c,1,6812,0.8385032003938946
+"gill-spacing=c, veil-color=w",2,6620,0.8148695224027572
+"gill-attachment=f, gill-spacing=c",2,6602,0.8126538650910882
+"gill-attachment=f, gill-spacing=c, veil-color=w",3,6602,0.8126538650910882
+"gill-spacing=c, ring-number=o",2,6464,0.7956671590349581
+"gill-attachment=f, gill-spacing=c, ring-number=o",3,6272,0.7720334810438207
+"gill-attachment=f, gill-spacing=c, ring-number=o, veil-color=w",4,6272,0.7720334810438207
+"gill-spacing=c, ring-number=o, veil-color=w",3,6272,0.7720334810438207
+gill-size=b,1,5612,0.690792712949286
+"gill-size=b, veil-color=w",2,5420,0.6671590349581487
+"gill-attachment=f, gill-size=b",2,5402,0.6649433776464796
+"gill-attachment=f, gill-size=b, veil-color=w",3,5402,0.6649433776464796
+stalk-surface-above-ring=s,1,5176,0.637124569177745
+"gill-attachment=f, stalk-surface-above-ring=s",2,4984,0.6134908911866076
+"gill-attachment=f, stalk-surface-above-ring=s, veil-color=w",3,4984,0.6134908911866076
+"stalk-surface-above-ring=s, veil-color=w",2,4984,0.6134908911866076
+"gill-size=b, ring-number=o",2,4976,0.6125061546036435
+stalk-surface-below-ring=s,1,4936,0.6075824716888233
+"gill-attachment=f, gill-size=b, ring-number=o",3,4784,0.5888724766125062
+"gill-attachment=f, gill-size=b, ring-number=o, veil-color=w",4,4784,0.5888724766125062
+"gill-size=b, ring-number=o, veil-color=w",3,4784,0.5888724766125062
+bruises=f,1,4748,0.5844411619891678
+"gill-attachment=f, stalk-surface-below-ring=s",2,4744,0.5839487936976858
+"gill-attachment=f, stalk-surface-below-ring=s, veil-color=w",3,4744,0.5839487936976858
+"stalk-surface-below-ring=s, veil-color=w",2,4744,0.5839487936976858
+"ring-number=o, stalk-surface-above-ring=s",2,4736,0.5829640571147218
+"gill-attachment=f, ring-number=o, stalk-shape=t",3,4608,0.5672082717872969
+"gill-attachment=f, ring-number=o, stalk-shape=t, veil-color=w",4,4608,0.5672082717872969
+"gill-attachment=f, stalk-shape=t",2,4608,0.5672082717872969
+"gill-attachment=f, stalk-shape=t, veil-color=w",3,4608,0.5672082717872969
+"ring-number=o, stalk-shape=t",2,4608,0.5672082717872969
+"ring-number=o, stalk-shape=t, veil-color=w",3,4608,0.5672082717872969
+stalk-shape=t,1,4608,0.5672082717872969
+"stalk-shape=t, veil-color=w",2,4608,0.5672082717872969
+"gill-size=b, gill-spacing=c",2,4556,0.5608074839980305
+"bruises=f, veil-color=w",2,4548,0.5598227474150664
+"gill-attachment=f, ring-number=o, stalk-surface-above-ring=s",3,4544,0.5593303791235844
+"gill-attachment=f, ring-number=o, stalk-surface-above-ring=s, veil-color=w",4,4544,0.5593303791235844
+"ring-number=o, stalk-surface-above-ring=s, veil-color=w",3,4544,0.5593303791235844
+"bruises=f, gill-attachment=f",2,4538,0.5585918266863614
+"bruises=f, gill-attachment=f, veil-color=w",3,4530,0.5576070901033974
+"ring-number=o, stalk-surface-below-ring=s",2,4496,0.5534219596258001
+"gill-attachment=f, stalk-color-above-ring=w",2,4464,0.5494830132939439
+"gill-attachment=f, stalk-color-above-ring=w, veil-color=w",3,4464,0.5494830132939439
+stalk-color-above-ring=w,1,4464,0.5494830132939439
+"stalk-color-above-ring=w, veil-color=w",2,4464,0.5494830132939439
+"gill-spacing=c, stalk-surface-above-ring=s",2,4424,0.5445593303791236
+"bruises=f, ring-number=o",2,4408,0.5425898572131955
+"gill-attachment=f, stalk-color-below-ring=w",2,4384,0.5396356474643033
+"gill-attachment=f, stalk-color-below-ring=w, veil-color=w",3,4384,0.5396356474643033
+stalk-color-below-ring=w,1,4384,0.5396356474643033
+"stalk-color-below-ring=w, veil-color=w",2,4384,0.5396356474643033
+"gill-size=b, gill-spacing=c, veil-color=w",3,4364,0.5371738060068931
+"gill-attachment=f, gill-size=b, gill-spacing=c",3,4346,0.5349581486952241
+"gill-attachment=f, gill-size=b, gill-spacing=c, veil-color=w",4,4346,0.5349581486952241
+"gill-attachment=f, ring-number=o, stalk-surface-below-ring=s",3,4304,0.5297882816346627
+"gill-attachment=f, ring-number=o, stalk-surface-below-ring=s, veil-color=w",4,4304,0.5297882816346627
+"ring-number=o, stalk-surface-below-ring=s, veil-color=w",3,4304,0.5297882816346627
+"gill-attachment=f, gill-spacing=c, stalk-surface-above-ring=s",3,4232,0.5209256523879862
+"gill-attachment=f, gill-spacing=c, stalk-surface-above-ring=s, veil-color=w",4,4232,0.5209256523879862
+"gill-spacing=c, stalk-surface-above-ring=s, veil-color=w",3,4232,0.5209256523879862
+"bruises=f, gill-attachment=f, ring-number=o",3,4216,0.5189561792220581
+"bruises=f, gill-attachment=f, ring-number=o, veil-color=w",4,4208,0.517971442639094
+"bruises=f, ring-number=o, veil-color=w",3,4208,0.517971442639094
+class=e,1,4208,0.517971442639094
+"gill-size=b, gill-spacing=c, ring-number=o",3,4208,0.517971442639094
+"gill-spacing=c, stalk-surface-below-ring=s",2,4184,0.5150172328902018
+"stalk-surface-above-ring=s, stalk-surface-below-ring=s",2,4156,0.5115706548498277
+"gill-spacing=c, ring-number=o, stalk-surface-above-ring=s",3,4128,0.5081240768094535
+population=v,1,4040,0.49729197439684886
+"class=e, gill-attachment=f",2,4016,0.49433776464795665
+"class=e, gill-attachment=f, veil-color=w",3,4016,0.49433776464795665
+"class=e, veil-color=w",2,4016,0.49433776464795665
+"gill-attachment=f, gill-size=b, gill-spacing=c, ring-number=o",4,4016,0.49433776464795665
+"gill-size=b, gill-spacing=c, ring-number=o, veil-color=w",4,4016,0.49433776464795665
+"gill-attachment=f, gill-spacing=c, stalk-surface-below-ring=s",3,3992,0.4913835548990645
+"gill-attachment=f, gill-spacing=c, stalk-surface-below-ring=s, veil-color=w",4,3992,0.4913835548990645
+"gill-spacing=c, stalk-surface-below-ring=s, veil-color=w",3,3992,0.4913835548990645
+"gill-attachment=f, ring-number=o, stalk-color-above-ring=w",3,3976,0.4894140817331364
+"gill-attachment=f, ring-number=o, stalk-color-above-ring=w, veil-color=w",4,3976,0.4894140817331364
+"ring-number=o, stalk-color-above-ring=w",2,3976,0.4894140817331364
+"ring-number=o, stalk-color-above-ring=w, veil-color=w",3,3976,0.4894140817331364
+ring-type=p,1,3968,0.48842934515017233
+"gill-attachment=f, stalk-surface-above-ring=s, stalk-surface-below-ring=s",3,3964,0.4879369768586903
+"gill-attachment=f, stalk-surface-above-ring=s, stalk-surface-below-ring=s, veil-color=w",4,3964,0.4879369768586903
+"stalk-surface-above-ring=s, stalk-surface-below-ring=s, veil-color=w",3,3964,0.4879369768586903
+"population=v, ring-number=o",2,3952,0.48645987198424423
+"gill-attachment=f, population=v",2,3944,0.4854751354012802
+"gill-attachment=f, population=v, veil-color=w",3,3944,0.4854751354012802
+"population=v, veil-color=w",2,3944,0.4854751354012802
+"gill-attachment=f, gill-spacing=c, ring-number=o, stalk-surface-above-ring=s",4,3936,0.4844903988183161
+"gill-spacing=c, ring-number=o, stalk-surface-above-ring=s, veil-color=w",4,3936,0.4844903988183161
+"class=e, gill-size=b",2,3920,0.48252092565238797
+class=p,1,3916,0.48202855736090594
+"class=p, veil-color=w",2,3908,0.4810438207779419
+"class=p, gill-attachment=f",2,3898,0.4798129000492368
+"gill-attachment=f, ring-number=o, stalk-color-below-ring=w",3,3896,0.4795667159034958
+"gill-attachment=f, ring-number=o, stalk-color-below-ring=w, veil-color=w",4,3896,0.4795667159034958
+"ring-number=o, stalk-color-below-ring=w",2,3896,0.4795667159034958
+"ring-number=o, stalk-color-below-ring=w, veil-color=w",3,3896,0.4795667159034958
+"class=p, gill-attachment=f, veil-color=w",3,3890,0.47882816346627277
+"gill-spacing=c, ring-number=o, stalk-surface-below-ring=s",3,3888,0.47858197932053176
+"gill-attachment=f, population=v, ring-number=o",3,3856,0.47464303298867555
+"gill-attachment=f, population=v, ring-number=o, veil-color=w",4,3856,0.47464303298867555
+"population=v, ring-number=o, veil-color=w",3,3856,0.47464303298867555
+"gill-spacing=c, population=v",2,3848,0.4736582964057115
+"class=p, gill-attachment=f, ring-number=o",3,3808,0.4687346134908912
+"class=p, ring-number=o",2,3808,0.4687346134908912
+"class=p, gill-spacing=c",2,3804,0.46824224519940916
+"class=p, gill-spacing=c, veil-color=w",3,3804,0.46824224519940916
+"class=p, gill-attachment=f, ring-number=o, veil-color=w",4,3800,0.46774987690792713
+"class=p, ring-number=o, veil-color=w",3,3800,0.46774987690792713
+"ring-number=o, stalk-surface-above-ring=s, stalk-surface-below-ring=s",3,3788,0.46627277203348105
+"class=p, gill-attachment=f, gill-spacing=c",3,3786,0.46602658788774004
+"class=p, gill-attachment=f, gill-spacing=c, veil-color=w",4,3786,0.46602658788774004
+"gill-attachment=f, ring-type=p",2,3776,0.464795667159035
+"gill-attachment=f, ring-type=p, veil-color=w",3,3776,0.464795667159035
+"gill-attachment=f, stalk-root=b",2,3776,0.464795667159035
+"gill-attachment=f, stalk-root=b, veil-color=w",3,3776,0.464795667159035
+"ring-type=p, veil-color=w",2,3776,0.464795667159035
+stalk-root=b,1,3776,0.464795667159035
+"stalk-root=b, veil-color=w",2,3776,0.464795667159035
+"gill-spacing=c, population=v, ring-number=o",3,3760,0.46282619399310687
+"gill-attachment=f, gill-spacing=c, population=v",3,3752,0.46184145741014276
+"gill-attachment=f, gill-spacing=c, population=v, veil-color=w",4,3752,0.46184145741014276
+"gill-spacing=c, population=v, veil-color=w",3,3752,0.46184145741014276
+"gill-attachment=f, gill-spacing=c, ring-number=o, stalk-shape=t",4,3744,0.4608567208271787
+"gill-attachment=f, gill-spacing=c, stalk-shape=t",3,3744,0.4608567208271787
+"gill-attachment=f, gill-spacing=c, stalk-shape=t, veil-color=w",4,3744,0.4608567208271787
+"gill-spacing=c, ring-number=o, stalk-shape=t",3,3744,0.4608567208271787
+"gill-spacing=c, ring-number=o, stalk-shape=t, veil-color=w",4,3744,0.4608567208271787
+"gill-spacing=c, stalk-shape=t",2,3744,0.4608567208271787
+"gill-spacing=c, stalk-shape=t, veil-color=w",3,3744,0.4608567208271787
+"class=e, gill-attachment=f, gill-size=b",3,3728,0.4588872476612506
+"class=e, gill-attachment=f, gill-size=b, veil-color=w",4,3728,0.4588872476612506
+"class=e, gill-size=b, veil-color=w",3,3728,0.4588872476612506
+"class=p, gill-attachment=f, gill-spacing=c, ring-number=o",4,3696,0.4549483013293944
+"class=p, gill-spacing=c, ring-number=o",3,3696,0.4549483013293944
+"class=p, gill-spacing=c, ring-number=o, veil-color=w",4,3696,0.4549483013293944
+"gill-attachment=f, gill-spacing=c, ring-number=o, stalk-surface-below-ring=s",4,3696,0.4549483013293944
+"gill-spacing=c, ring-number=o, stalk-surface-below-ring=s, veil-color=w",4,3696,0.4549483013293944
+"class=e, ring-number=o",2,3680,0.4529788281634663
+"gill-spacing=c, stalk-surface-above-ring=s, stalk-surface-below-ring=s",3,3680,0.4529788281634663
+"gill-attachment=f, gill-spacing=c, population=v, ring-number=o",4,3664,0.45100935499753814
+"gill-spacing=c, population=v, ring-number=o, veil-color=w",4,3664,0.45100935499753814
+"ring-type=p, stalk-surface-above-ring=s",2,3664,0.45100935499753814
+cap-shape=x,1,3656,0.4500246184145741
+"gill-attachment=f, ring-number=o, stalk-root=b",3,3656,0.4500246184145741
+"gill-attachment=f, ring-number=o, stalk-root=b, veil-color=w",4,3656,0.4500246184145741
+"ring-number=o, stalk-root=b",2,3656,0.4500246184145741
+"ring-number=o, stalk-root=b, veil-color=w",3,3656,0.4500246184145741
+"class=e, stalk-surface-above-ring=s",2,3640,0.448055145248646
+"cap-shape=x, veil-color=w",2,3608,0.4441161989167898
+"cap-shape=x, gill-attachment=f",2,3602,0.44337764647956673
+"cap-shape=x, gill-attachment=f, veil-color=w",3,3602,0.44337764647956673
+"gill-attachment=f, ring-number=o, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,3596,0.4426390940423437
+"ring-number=o, stalk-surface-above-ring=s, stalk-surface-below-ring=s, veil-color=w",4,3596,0.4426390940423437
+"gill-size=b, stalk-surface-above-ring=s",2,3592,0.44214672575086167
+"ring-number=o, ring-type=p",2,3560,0.4382077794190054
+"bruises=f, gill-spacing=c",2,3540,0.4357459379615953
+"gill-attachment=f, gill-spacing=c, stalk-root=b",3,3528,0.4342688330871492
+"gill-attachment=f, gill-spacing=c, stalk-root=b, veil-color=w",4,3528,0.4342688330871492
+"gill-spacing=c, stalk-root=b",2,3528,0.4342688330871492
+"gill-spacing=c, stalk-root=b, veil-color=w",3,3528,0.4342688330871492
+odor=n,1,3528,0.4342688330871492
+"gill-attachment=f, stalk-color-above-ring=w, stalk-color-below-ring=w",3,3520,0.43328409650418515
+"gill-attachment=f, stalk-color-above-ring=w, stalk-color-below-ring=w, veil-color=w",4,3520,0.43328409650418515
+"stalk-color-above-ring=w, stalk-color-below-ring=w",2,3520,0.43328409650418515
+"stalk-color-above-ring=w, stalk-color-below-ring=w, veil-color=w",3,3520,0.43328409650418515
+stalk-shape=e,1,3516,0.4327917282127031
+"bruises=f, gill-spacing=c, ring-number=o",3,3488,0.4293451501723289
+"class=e, gill-attachment=f, ring-number=o",3,3488,0.4293451501723289
+"class=e, gill-attachment=f, ring-number=o, veil-color=w",4,3488,0.4293451501723289
+"class=e, ring-number=o, veil-color=w",3,3488,0.4293451501723289
+"gill-attachment=f, gill-spacing=c, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,3488,0.4293451501723289
+"gill-spacing=c, stalk-surface-above-ring=s, stalk-surface-below-ring=s, veil-color=w",4,3488,0.4293451501723289
+"gill-spacing=c, ring-type=p",2,3480,0.42836041358936483
+"gill-attachment=f, ring-type=p, stalk-surface-above-ring=s",3,3472,0.4273756770064008
+"gill-attachment=f, ring-type=p, stalk-surface-above-ring=s, veil-color=w",4,3472,0.4273756770064008
+"ring-type=p, stalk-surface-above-ring=s, veil-color=w",3,3472,0.4273756770064008
+"ring-type=p, stalk-surface-below-ring=s",2,3472,0.4273756770064008
+"cap-shape=x, ring-number=o",2,3464,0.4263909404234367
+"class=e, gill-attachment=f, stalk-surface-above-ring=s",3,3448,0.4244214672575086
+"class=e, gill-attachment=f, stalk-surface-above-ring=s, veil-color=w",4,3448,0.4244214672575086
+"class=e, stalk-surface-above-ring=s, veil-color=w",3,3448,0.4244214672575086
+"gill-attachment=f, gill-size=b, gill-spacing=c, stalk-root=b",4,3432,0.4224519940915805
+"gill-attachment=f, gill-size=b, stalk-root=b",3,3432,0.4224519940915805
+"gill-attachment=f, gill-size=b, stalk-root=b, veil-color=w",4,3432,0.4224519940915805
+"gill-size=b, gill-spacing=c, stalk-root=b",3,3432,0.4224519940915805
+"gill-size=b, gill-spacing=c, stalk-root=b, veil-color=w",4,3432,0.4224519940915805
+"gill-size=b, stalk-root=b",2,3432,0.4224519940915805
+"gill-size=b, stalk-root=b, veil-color=w",3,3432,0.4224519940915805
+"cap-shape=x, gill-attachment=f, ring-number=o",3,3416,0.4204825209256524
+"cap-shape=x, gill-attachment=f, ring-number=o, veil-color=w",4,3416,0.4204825209256524
+"cap-shape=x, ring-number=o, veil-color=w",3,3416,0.4204825209256524
+"ring-number=o, ring-type=p, stalk-surface-above-ring=s",3,3416,0.4204825209256524
+"class=e, odor=n",2,3408,0.4194977843426883
+"gill-attachment=f, gill-spacing=c, ring-number=o, stalk-root=b",4,3408,0.4194977843426883
+"gill-spacing=c, ring-number=o, stalk-root=b",3,3408,0.4194977843426883
+"gill-spacing=c, ring-number=o, stalk-root=b, veil-color=w",4,3408,0.4194977843426883
+"class=e, stalk-surface-below-ring=s",2,3400,0.41851304775972425
+"gill-attachment=f, gill-size=b, stalk-surface-above-ring=s",3,3400,0.41851304775972425
+"gill-attachment=f, gill-size=b, stalk-surface-above-ring=s, veil-color=w",4,3400,0.41851304775972425
+"gill-size=b, stalk-surface-above-ring=s, veil-color=w",3,3400,0.41851304775972425
+"gill-size=b, stalk-surface-below-ring=s",2,3400,0.41851304775972425
+"class=e, gill-size=b, ring-number=o",3,3392,0.4175283111767602
+"gill-spacing=c, ring-number=o, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,3384,0.41654357459379615
+bruises=t,1,3376,0.4155588380108321
+"bruises=t, gill-attachment=f",2,3376,0.4155588380108321
+"bruises=t, gill-attachment=f, veil-color=w",3,3376,0.4155588380108321
+"bruises=t, veil-color=w",2,3376,0.4155588380108321
+"class=e, gill-size=b, stalk-surface-above-ring=s",3,3376,0.4155588380108321
+"gill-attachment=f, ring-number=o, ring-type=p",3,3368,0.41457410142786805
+"gill-attachment=f, ring-number=o, ring-type=p, veil-color=w",4,3368,0.41457410142786805
+"ring-number=o, ring-type=p, veil-color=w",3,3368,0.41457410142786805
+"gill-spacing=c, ring-number=o, ring-type=p",3,3360,0.413589364844904
+"bruises=f, gill-spacing=c, veil-color=w",3,3348,0.4121122599704579
+"gill-attachment=f, odor=n",2,3336,0.41063515509601184
+"bruises=f, gill-attachment=f, gill-spacing=c",3,3330,0.4098966026587888
+"bruises=f, gill-attachment=f, gill-spacing=c, veil-color=w",4,3330,0.4098966026587888
+"gill-attachment=f, odor=n, veil-color=w",3,3328,0.4096504185130478
+"odor=n, veil-color=w",2,3328,0.4096504185130478
+"ring-type=p, stalk-surface-above-ring=s, stalk-surface-below-ring=s",3,3328,0.4096504185130478
+"gill-size=b, ring-type=p",2,3320,0.4086656819300837
+"gill-spacing=c, ring-type=p, stalk-surface-above-ring=s",3,3320,0.4086656819300837
+"stalk-shape=e, veil-color=w",2,3316,0.40817331363860165
+"gill-attachment=f, gill-size=b, ring-number=o, stalk-root=b",4,3312,0.4076809453471196
+"gill-size=b, gill-spacing=c, ring-number=o, stalk-root=b",4,3312,0.4076809453471196
+"gill-size=b, ring-number=o, stalk-root=b",3,3312,0.4076809453471196
+"gill-size=b, ring-number=o, stalk-root=b, veil-color=w",4,3312,0.4076809453471196
+"gill-attachment=f, stalk-shape=e",2,3306,0.4069423929098966
+"gill-attachment=f, stalk-color-above-ring=w, stalk-surface-above-ring=s",3,3304,0.4066962087641556
+"gill-attachment=f, stalk-color-above-ring=w, stalk-surface-above-ring=s, veil-color=w",4,3304,0.4066962087641556
+"stalk-color-above-ring=w, stalk-surface-above-ring=s",2,3304,0.4066962087641556
+"stalk-color-above-ring=w, stalk-surface-above-ring=s, veil-color=w",3,3304,0.4066962087641556
+"gill-attachment=f, stalk-shape=e, veil-color=w",3,3298,0.40595765632693254
+"bruises=f, gill-attachment=f, gill-spacing=c, ring-number=o",4,3296,0.4057114721811915
+"bruises=f, gill-spacing=c, ring-number=o, veil-color=w",4,3296,0.4057114721811915
+"bruises=f, class=p",2,3292,0.4052191038897095
+"gill-attachment=f, gill-spacing=c, ring-type=p",3,3288,0.40472673559822747
+"gill-attachment=f, gill-spacing=c, ring-type=p, veil-color=w",4,3288,0.40472673559822747
+"gill-size=b, odor=n",2,3288,0.40472673559822747
+"gill-spacing=c, ring-type=p, veil-color=w",3,3288,0.40472673559822747
+"bruises=f, class=p, veil-color=w",3,3284,0.40423436730674545
+"gill-attachment=f, ring-type=p, stalk-surface-below-ring=s",3,3280,0.4037419990152634
+"gill-attachment=f, ring-type=p, stalk-surface-below-ring=s, veil-color=w",4,3280,0.4037419990152634
+"gill-attachment=f, stalk-color-below-ring=w, stalk-surface-above-ring=s",3,3280,0.4037419990152634
+"gill-attachment=f, stalk-color-below-ring=w, stalk-surface-above-ring=s, veil-color=w",4,3280,0.4037419990152634
+"ring-type=p, stalk-surface-below-ring=s, veil-color=w",3,3280,0.4037419990152634
+"stalk-color-below-ring=w, stalk-surface-above-ring=s",2,3280,0.4037419990152634
+"stalk-color-below-ring=w, stalk-surface-above-ring=s, veil-color=w",3,3280,0.4037419990152634
+"bruises=f, class=p, gill-attachment=f",3,3274,0.4030034465780404
+"bruises=t, gill-attachment=f, gill-spacing=c",3,3272,0.40275726243229937
+"bruises=t, gill-attachment=f, gill-spacing=c, veil-color=w",4,3272,0.40275726243229937
+"bruises=t, gill-spacing=c",2,3272,0.40275726243229937
+"bruises=t, gill-spacing=c, veil-color=w",3,3272,0.40275726243229937
+"class=e, ring-number=o, stalk-surface-above-ring=s",3,3272,0.40275726243229937
+"bruises=f, class=p, gill-attachment=f, veil-color=w",4,3266,0.40201870999507633
+"bruises=f, class=p, gill-attachment=f, ring-number=o",4,3256,0.40078778926637126
+"bruises=f, class=p, ring-number=o",3,3256,0.40078778926637126
+"bruises=f, class=p, ring-number=o, veil-color=w",4,3248,0.3998030526834072
+cap-surface=y,1,3244,0.3993106843919252
+"cap-surface=y, veil-color=w",2,3236,0.3983259478089611
+"bruises=t, gill-attachment=f, stalk-surface-above-ring=s",3,3232,0.39783357951747905
+"bruises=t, gill-attachment=f, stalk-surface-above-ring=s, veil-color=w",4,3232,0.39783357951747905
+"bruises=t, stalk-surface-above-ring=s",2,3232,0.39783357951747905
+"bruises=t, stalk-surface-above-ring=s, veil-color=w",3,3232,0.39783357951747905
+"cap-surface=y, gill-attachment=f",2,3226,0.397095027080256
+"gill-attachment=f, ring-number=o, ring-type=p, stalk-surface-above-ring=s",4,3224,0.396848842934515
+"ring-number=o, ring-type=p, stalk-surface-above-ring=s, veil-color=w",4,3224,0.396848842934515
+"ring-number=o, ring-type=p, stalk-surface-below-ring=s",3,3224,0.396848842934515
+"cap-surface=y, gill-attachment=f, veil-color=w",3,3218,0.39611029049729196
+"class=e, gill-attachment=f, odor=n",3,3216,0.39586410635155095
+"class=e, gill-attachment=f, odor=n, veil-color=w",4,3216,0.39586410635155095
+"class=e, gill-size=b, odor=n",3,3216,0.39586410635155095
+"class=e, odor=n, veil-color=w",3,3216,0.39586410635155095
+"gill-attachment=f, ring-number=o, stalk-shape=t, stalk-surface-above-ring=s",4,3216,0.39586410635155095
+"gill-attachment=f, ring-number=o, stalk-shape=t, stalk-surface-below-ring=s",4,3216,0.39586410635155095
+"gill-attachment=f, stalk-shape=t, stalk-surface-above-ring=s",3,3216,0.39586410635155095
+"gill-attachment=f, stalk-shape=t, stalk-surface-above-ring=s, veil-color=w",4,3216,0.39586410635155095
+"gill-attachment=f, stalk-shape=t, stalk-surface-below-ring=s",3,3216,0.39586410635155095
+"gill-attachment=f, stalk-shape=t, stalk-surface-below-ring=s, veil-color=w",4,3216,0.39586410635155095
+"gill-spacing=c, ring-number=o, ring-type=p, stalk-surface-above-ring=s",4,3216,0.39586410635155095
+"ring-number=o, stalk-shape=t, stalk-surface-above-ring=s",3,3216,0.39586410635155095
+"ring-number=o, stalk-shape=t, stalk-surface-above-ring=s, veil-color=w",4,3216,0.39586410635155095
+"ring-number=o, stalk-shape=t, stalk-surface-below-ring=s",3,3216,0.39586410635155095
+"ring-number=o, stalk-shape=t, stalk-surface-below-ring=s, veil-color=w",4,3216,0.39586410635155095
+"stalk-shape=t, stalk-surface-above-ring=s",2,3216,0.39586410635155095
+"stalk-shape=t, stalk-surface-above-ring=s, veil-color=w",3,3216,0.39586410635155095
+"stalk-shape=t, stalk-surface-below-ring=s",2,3216,0.39586410635155095
+"stalk-shape=t, stalk-surface-below-ring=s, veil-color=w",3,3216,0.39586410635155095
+"cap-surface=y, gill-spacing=c",2,3208,0.3948793697685869
+"cap-surface=y, gill-spacing=c, veil-color=w",3,3208,0.3948793697685869
+"class=e, gill-attachment=f, stalk-surface-below-ring=s",3,3208,0.3948793697685869
+"class=e, gill-attachment=f, stalk-surface-below-ring=s, veil-color=w",4,3208,0.3948793697685869
+"class=e, stalk-surface-below-ring=s, veil-color=w",3,3208,0.3948793697685869
+"gill-attachment=f, gill-size=b, stalk-surface-below-ring=s",3,3208,0.3948793697685869
+"gill-attachment=f, gill-size=b, stalk-surface-below-ring=s, veil-color=w",4,3208,0.3948793697685869
+"gill-size=b, stalk-surface-below-ring=s, veil-color=w",3,3208,0.3948793697685869
+"class=e, gill-attachment=f, gill-size=b, ring-number=o",4,3200,0.39389463318562284
+"class=e, gill-size=b, ring-number=o, veil-color=w",4,3200,0.39389463318562284
+"cap-surface=y, gill-attachment=f, gill-spacing=c",3,3190,0.3926637124569178
+"cap-surface=y, gill-attachment=f, gill-spacing=c, veil-color=w",4,3190,0.3926637124569178
+"bruises=f, class=p, gill-spacing=c",3,3188,0.39241752831117677
+"bruises=f, class=p, gill-spacing=c, veil-color=w",4,3188,0.39241752831117677
+"bruises=t, gill-attachment=f, ring-type=p",3,3184,0.39192516001969474
+"bruises=t, gill-attachment=f, ring-type=p, veil-color=w",4,3184,0.39192516001969474
+"bruises=t, ring-type=p",2,3184,0.39192516001969474
+"bruises=t, ring-type=p, veil-color=w",3,3184,0.39192516001969474
+"class=e, gill-attachment=f, gill-size=b, stalk-surface-above-ring=s",4,3184,0.39192516001969474
+"class=e, gill-size=b, stalk-surface-above-ring=s, veil-color=w",4,3184,0.39192516001969474
+"class=e, gill-size=b, stalk-surface-below-ring=s",3,3184,0.39192516001969474
+"bruises=f, class=p, gill-attachment=f, gill-spacing=c",4,3170,0.39020187099950765
+"gill-attachment=f, gill-spacing=c, ring-number=o, ring-type=p",4,3168,0.38995568685376664
+"gill-spacing=c, ring-number=o, ring-type=p, veil-color=w",4,3168,0.38995568685376664
+"gill-attachment=f, gill-spacing=c, stalk-color-above-ring=w",3,3160,0.3889709502708026
+"gill-attachment=f, gill-spacing=c, stalk-color-above-ring=w, veil-color=w",4,3160,0.3889709502708026
+"gill-spacing=c, stalk-color-above-ring=w",2,3160,0.3889709502708026
+"gill-spacing=c, stalk-color-above-ring=w, veil-color=w",3,3160,0.3889709502708026
+"bruises=f, class=p, gill-spacing=c, ring-number=o",4,3152,0.3879862136878385
+cap-shape=f,1,3152,0.3879862136878385
+"class=e, ring-type=p",2,3152,0.3879862136878385
+"gill-size=b, ring-number=o, stalk-surface-above-ring=s",3,3152,0.3879862136878385
+"ring-number=o, ring-type=p, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,3152,0.3879862136878385
+habitat=d,1,3148,0.38749384539635645
+"habitat=d, veil-color=w",2,3148,0.38749384539635645
+"gill-attachment=f, ring-type=p, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,3136,0.3860167405219104
+"ring-type=p, stalk-surface-above-ring=s, stalk-surface-below-ring=s, veil-color=w",4,3136,0.3860167405219104
+"gill-attachment=f, habitat=d",2,3130,0.38527818808468733
+"gill-attachment=f, habitat=d, veil-color=w",3,3130,0.38527818808468733
+"bruises=t, gill-attachment=f, gill-spacing=c, stalk-surface-above-ring=s",4,3128,0.3850320039389463
+"bruises=t, gill-spacing=c, stalk-surface-above-ring=s",3,3128,0.3850320039389463
+"bruises=t, gill-spacing=c, stalk-surface-above-ring=s, veil-color=w",4,3128,0.3850320039389463
+"gill-attachment=f, gill-size=b, ring-type=p",3,3128,0.3850320039389463
+"gill-attachment=f, gill-size=b, ring-type=p, veil-color=w",4,3128,0.3850320039389463
+"gill-attachment=f, gill-spacing=c, ring-type=p, stalk-surface-above-ring=s",4,3128,0.3850320039389463
+"gill-attachment=f, gill-spacing=c, stalk-color-below-ring=w",3,3128,0.3850320039389463
+"gill-attachment=f, gill-spacing=c, stalk-color-below-ring=w, veil-color=w",4,3128,0.3850320039389463
+"gill-size=b, ring-type=p, veil-color=w",3,3128,0.3850320039389463
+"gill-spacing=c, ring-type=p, stalk-surface-above-ring=s, veil-color=w",4,3128,0.3850320039389463
+"gill-spacing=c, ring-type=p, stalk-surface-below-ring=s",3,3128,0.3850320039389463
+"gill-spacing=c, stalk-color-below-ring=w",2,3128,0.3850320039389463
+"gill-spacing=c, stalk-color-below-ring=w, veil-color=w",3,3128,0.3850320039389463
+"class=e, stalk-surface-above-ring=s, stalk-surface-below-ring=s",3,3124,0.3845396356474643
+"gill-attachment=f, habitat=d, ring-number=o",3,3104,0.38207779419005417
+"gill-attachment=f, habitat=d, ring-number=o, veil-color=w",4,3104,0.38207779419005417
+"habitat=d, ring-number=o",2,3104,0.38207779419005417
+"habitat=d, ring-number=o, veil-color=w",3,3104,0.38207779419005417
+"cap-shape=f, veil-color=w",2,3102,0.38183161004431315
+"cap-shape=f, gill-attachment=f",2,3098,0.3813392417528311
+"cap-shape=f, gill-attachment=f, veil-color=w",3,3096,0.3810930576070901
+"gill-attachment=f, gill-size=b, odor=n",3,3096,0.3810930576070901
+"gill-attachment=f, gill-size=b, odor=n, veil-color=w",4,3096,0.3810930576070901
+"gill-size=b, odor=n, veil-color=w",3,3096,0.3810930576070901
+"bruises=t, gill-attachment=f, gill-spacing=c, ring-type=p",4,3080,0.379123584441162
+"bruises=t, gill-attachment=f, ring-number=o",3,3080,0.379123584441162
+"bruises=t, gill-attachment=f, ring-number=o, ring-type=p",4,3080,0.379123584441162
+"bruises=t, gill-attachment=f, ring-number=o, veil-color=w",4,3080,0.379123584441162
+"bruises=t, gill-spacing=c, ring-type=p",3,3080,0.379123584441162
+"bruises=t, gill-spacing=c, ring-type=p, veil-color=w",4,3080,0.379123584441162
+"bruises=t, ring-number=o",2,3080,0.379123584441162
+"bruises=t, ring-number=o, ring-type=p",3,3080,0.379123584441162
+"bruises=t, ring-number=o, ring-type=p, veil-color=w",4,3080,0.379123584441162
+"bruises=t, ring-number=o, veil-color=w",3,3080,0.379123584441162
+"class=e, gill-attachment=f, ring-number=o, stalk-surface-above-ring=s",4,3080,0.379123584441162
+"class=e, ring-number=o, stalk-surface-above-ring=s, veil-color=w",4,3080,0.379123584441162
+"gill-attachment=f, ring-number=o, stalk-color-above-ring=w, stalk-color-below-ring=w",4,3080,0.379123584441162
+"ring-number=o, stalk-color-above-ring=w, stalk-color-below-ring=w",3,3080,0.379123584441162
+"ring-number=o, stalk-color-above-ring=w, stalk-color-below-ring=w, veil-color=w",4,3080,0.379123584441162
+"gill-spacing=c, stalk-shape=e",2,3068,0.3776464795667159
+"gill-attachment=f, stalk-color-above-ring=w, stalk-surface-below-ring=s",3,3064,0.37715411127523385
+"gill-attachment=f, stalk-color-above-ring=w, stalk-surface-below-ring=s, veil-color=w",4,3064,0.37715411127523385
+"gill-size=b, gill-spacing=c, stalk-surface-above-ring=s",3,3064,0.37715411127523385
+"gill-size=b, stalk-surface-above-ring=s, stalk-surface-below-ring=s",3,3064,0.37715411127523385
+"stalk-color-above-ring=w, stalk-surface-below-ring=s",2,3064,0.37715411127523385
+"stalk-color-above-ring=w, stalk-surface-below-ring=s, veil-color=w",3,3064,0.37715411127523385
+"gill-spacing=c, ring-type=p, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,3056,0.3761693746922698
+"cap-surface=y, gill-attachment=f, ring-number=o",3,3052,0.37567700640078777
+"cap-surface=y, ring-number=o",2,3052,0.37567700640078777
+"cap-surface=y, gill-attachment=f, ring-number=o, veil-color=w",4,3044,0.3746922698178237
+"cap-surface=y, ring-number=o, veil-color=w",3,3044,0.3746922698178237
+"bruises=t, gill-attachment=f, ring-type=p, stalk-surface-above-ring=s",4,3040,0.3741999015263417
+"bruises=t, gill-attachment=f, stalk-surface-below-ring=s",3,3040,0.3741999015263417
+"bruises=t, gill-attachment=f, stalk-surface-below-ring=s, veil-color=w",4,3040,0.3741999015263417
+"bruises=t, ring-type=p, stalk-surface-above-ring=s",3,3040,0.3741999015263417
+"bruises=t, ring-type=p, stalk-surface-above-ring=s, veil-color=w",4,3040,0.3741999015263417
+"bruises=t, stalk-surface-below-ring=s",2,3040,0.3741999015263417
+"bruises=t, stalk-surface-below-ring=s, veil-color=w",3,3040,0.3741999015263417
+"gill-attachment=f, stalk-color-below-ring=w, stalk-surface-below-ring=s",3,3040,0.3741999015263417
+"gill-attachment=f, stalk-color-below-ring=w, stalk-surface-below-ring=s, veil-color=w",4,3040,0.3741999015263417
+"stalk-color-below-ring=w, stalk-surface-below-ring=s",2,3040,0.3741999015263417
+"stalk-color-below-ring=w, stalk-surface-below-ring=s, veil-color=w",3,3040,0.3741999015263417
+"class=e, ring-number=o, stalk-surface-below-ring=s",3,3032,0.37321516494337764
+"gill-attachment=f, ring-number=o, ring-type=p, stalk-surface-below-ring=s",4,3032,0.37321516494337764
+"gill-size=b, gill-spacing=c, ring-type=p",3,3032,0.37321516494337764
+"ring-number=o, ring-type=p, stalk-surface-below-ring=s, veil-color=w",4,3032,0.37321516494337764
+"class=e, gill-attachment=f, gill-size=b, odor=n",4,3024,0.3722304283604136
+"class=e, gill-size=b, odor=n, veil-color=w",4,3024,0.3722304283604136
+"gill-spacing=c, ring-number=o, ring-type=p, stalk-surface-below-ring=s",4,3024,0.3722304283604136
+"cap-shape=f, ring-number=o",2,3020,0.37173806006893156
+"bruises=t, gill-attachment=f, gill-size=b",3,3016,0.37124569177744954
+"bruises=t, gill-attachment=f, gill-size=b, gill-spacing=c",4,3016,0.37124569177744954
+"bruises=t, gill-attachment=f, gill-size=b, veil-color=w",4,3016,0.37124569177744954
+"bruises=t, gill-size=b",2,3016,0.37124569177744954
+"bruises=t, gill-size=b, gill-spacing=c",3,3016,0.37124569177744954
+"bruises=t, gill-size=b, gill-spacing=c, veil-color=w",4,3016,0.37124569177744954
+"bruises=t, gill-size=b, veil-color=w",3,3016,0.37124569177744954
+"cap-shape=x, gill-spacing=c",2,3016,0.37124569177744954
+"cap-surface=y, gill-attachment=f, gill-spacing=c, ring-number=o",4,3016,0.37124569177744954
+"cap-surface=y, gill-spacing=c, ring-number=o",3,3016,0.37124569177744954
+"cap-surface=y, gill-spacing=c, ring-number=o, veil-color=w",4,3016,0.37124569177744954
+"gill-size=b, ring-type=p, stalk-surface-above-ring=s",3,3016,0.37124569177744954
+"class=e, gill-size=b, ring-number=o, stalk-surface-above-ring=s",4,3008,0.3702609551944855
+"class=e, gill-spacing=c",2,3008,0.3702609551944855
+"class=e, gill-attachment=f, gill-size=b, stalk-surface-below-ring=s",4,2992,0.3682914820285574
+"class=e, gill-size=b, stalk-surface-below-ring=s, veil-color=w",4,2992,0.3682914820285574
+"class=e, gill-spacing=c, stalk-surface-above-ring=s",3,2992,0.3682914820285574
+"class=e, ring-type=p, stalk-surface-above-ring=s",3,2992,0.3682914820285574
+"bruises=t, gill-attachment=f, gill-spacing=c, ring-number=o",4,2976,0.3663220088626292
+"bruises=t, gill-spacing=c, ring-number=o",3,2976,0.3663220088626292
+"bruises=t, gill-spacing=c, ring-number=o, ring-type=p",4,2976,0.3663220088626292
+"bruises=t, gill-spacing=c, ring-number=o, veil-color=w",4,2976,0.3663220088626292
+"cap-shape=f, gill-attachment=f, ring-number=o",3,2972,0.3658296405711472
+"cap-shape=f, gill-attachment=f, ring-number=o, veil-color=w",4,2970,0.3655834564254062
+"cap-shape=f, ring-number=o, veil-color=w",3,2970,0.3655834564254062
+"bruises=t, gill-attachment=f, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,2968,0.36533727227966517
+"bruises=t, stalk-surface-above-ring=s, stalk-surface-below-ring=s",3,2968,0.36533727227966517
+"bruises=t, stalk-surface-above-ring=s, stalk-surface-below-ring=s, veil-color=w",4,2968,0.36533727227966517
+"cap-shape=x, gill-spacing=c, veil-color=w",3,2968,0.36533727227966517
+"cap-shape=x, gill-attachment=f, gill-spacing=c",3,2962,0.36459871984244213
+"cap-shape=x, gill-attachment=f, gill-spacing=c, veil-color=w",4,2962,0.36459871984244213
+"class=e, gill-attachment=f, ring-type=p",3,2960,0.3643525356967011
+"class=e, gill-attachment=f, ring-type=p, veil-color=w",4,2960,0.3643525356967011
+"class=e, gill-size=b, ring-type=p",3,2960,0.3643525356967011
+"class=e, ring-type=p, veil-color=w",3,2960,0.3643525356967011
+"gill-attachment=f, gill-size=b, ring-number=o, stalk-surface-above-ring=s",4,2960,0.3643525356967011
+"gill-attachment=f, gill-spacing=c, ring-number=o, stalk-color-above-ring=w",4,2960,0.3643525356967011
+"gill-attachment=f, ring-number=o, stalk-color-above-ring=w, stalk-surface-above-ring=s",4,2960,0.3643525356967011
+"gill-size=b, ring-number=o, stalk-surface-above-ring=s, veil-color=w",4,2960,0.3643525356967011
+"gill-size=b, ring-number=o, stalk-surface-below-ring=s",3,2960,0.3643525356967011
+"gill-spacing=c, ring-number=o, stalk-color-above-ring=w",3,2960,0.3643525356967011
+"gill-spacing=c, ring-number=o, stalk-color-above-ring=w, veil-color=w",4,2960,0.3643525356967011
+"ring-number=o, stalk-color-above-ring=w, stalk-surface-above-ring=s",3,2960,0.3643525356967011
+"ring-number=o, stalk-color-above-ring=w, stalk-surface-above-ring=s, veil-color=w",4,2960,0.3643525356967011
+"gill-spacing=c, habitat=d",2,2956,0.3638601674052191
+"gill-spacing=c, habitat=d, veil-color=w",3,2956,0.3638601674052191
+"gill-attachment=f, gill-spacing=c, habitat=d",3,2938,0.36164451009355
+"gill-attachment=f, gill-spacing=c, habitat=d, veil-color=w",4,2938,0.36164451009355
+"bruises=t, gill-attachment=f, gill-spacing=c, stalk-surface-below-ring=s",4,2936,0.36139832594780896
+"bruises=t, gill-attachment=f, ring-number=o, stalk-surface-above-ring=s",4,2936,0.36139832594780896
+"bruises=t, gill-spacing=c, ring-type=p, stalk-surface-above-ring=s",4,2936,0.36139832594780896
+"bruises=t, gill-spacing=c, stalk-surface-below-ring=s",3,2936,0.36139832594780896
+"bruises=t, gill-spacing=c, stalk-surface-below-ring=s, veil-color=w",4,2936,0.36139832594780896
+"bruises=t, ring-number=o, ring-type=p, stalk-surface-above-ring=s",4,2936,0.36139832594780896
+"bruises=t, ring-number=o, stalk-surface-above-ring=s",3,2936,0.36139832594780896
+"bruises=t, ring-number=o, stalk-surface-above-ring=s, veil-color=w",4,2936,0.36139832594780896
+"gill-attachment=f, gill-spacing=c, ring-type=p, stalk-surface-below-ring=s",4,2936,0.36139832594780896
+"gill-attachment=f, ring-number=o, stalk-color-below-ring=w, stalk-surface-above-ring=s",4,2936,0.36139832594780896
+"gill-spacing=c, ring-type=p, stalk-surface-below-ring=s, veil-color=w",4,2936,0.36139832594780896
+"ring-number=o, stalk-color-below-ring=w, stalk-surface-above-ring=s",3,2936,0.36139832594780896
+"ring-number=o, stalk-color-below-ring=w, stalk-surface-above-ring=s, veil-color=w",4,2936,0.36139832594780896
+"class=e, gill-attachment=f, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,2932,0.36090595765632694
+"class=e, stalk-surface-above-ring=s, stalk-surface-below-ring=s, veil-color=w",4,2932,0.36090595765632694
+"gill-attachment=f, gill-spacing=c, ring-number=o, stalk-color-below-ring=w",4,2928,0.3604135893648449
+"gill-spacing=c, ring-number=o, stalk-color-below-ring=w",3,2928,0.3604135893648449
+"gill-spacing=c, ring-number=o, stalk-color-below-ring=w, veil-color=w",4,2928,0.3604135893648449
+"odor=n, ring-number=o",2,2928,0.3604135893648449
+"cap-shape=x, gill-spacing=c, ring-number=o",3,2920,0.35942885278188086
+"class=e, gill-size=b, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,2920,0.35942885278188086
+"odor=n, stalk-surface-above-ring=s",2,2920,0.35942885278188086
+"gill-attachment=f, gill-spacing=c, habitat=d, ring-number=o",4,2912,0.3584441161989168
+"gill-size=b, gill-spacing=c, ring-number=o, ring-type=p",4,2912,0.3584441161989168
+"gill-size=b, ring-number=o, ring-type=p",3,2912,0.3584441161989168
+"gill-spacing=c, habitat=d, ring-number=o",3,2912,0.3584441161989168
+"gill-spacing=c, habitat=d, ring-number=o, veil-color=w",4,2912,0.3584441161989168
+"class=e, odor=n, ring-number=o",3,2880,0.35450516986706054
+"ring-number=o, stalk-shape=e",2,2880,0.35450516986706054
+"gill-spacing=c, stalk-shape=e, veil-color=w",3,2876,0.3540128015755785
+"bruises=t, gill-attachment=f, gill-size=b, stalk-surface-above-ring=s",4,2872,0.3535204332840965
+"bruises=t, gill-size=b, gill-spacing=c, stalk-surface-above-ring=s",4,2872,0.3535204332840965
+"bruises=t, gill-size=b, stalk-surface-above-ring=s",3,2872,0.3535204332840965
+"bruises=t, gill-size=b, stalk-surface-above-ring=s, veil-color=w",4,2872,0.3535204332840965
+"cap-shape=x, gill-attachment=f, gill-spacing=c, ring-number=o",4,2872,0.3535204332840965
+"cap-shape=x, gill-spacing=c, ring-number=o, veil-color=w",4,2872,0.3535204332840965
+"gill-attachment=f, gill-size=b, gill-spacing=c, stalk-surface-above-ring=s",4,2872,0.3535204332840965
+"gill-attachment=f, gill-size=b, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,2872,0.3535204332840965
+"gill-size=b, gill-spacing=c, ring-type=p, stalk-surface-above-ring=s",4,2872,0.3535204332840965
+"gill-size=b, gill-spacing=c, stalk-surface-above-ring=s, veil-color=w",4,2872,0.3535204332840965
+"gill-size=b, gill-spacing=c, stalk-surface-below-ring=s",3,2872,0.3535204332840965
+"gill-size=b, stalk-surface-above-ring=s, stalk-surface-below-ring=s, veil-color=w",4,2872,0.3535204332840965
+"odor=n, stalk-surface-below-ring=s",2,2872,0.3535204332840965
+"bruises=t, gill-spacing=c, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,2864,0.35253569670113244
+"class=e, gill-size=b, gill-spacing=c",3,2864,0.35253569670113244
+"gill-attachment=f, gill-spacing=c, stalk-shape=e",3,2858,0.3517971442639094
+"gill-attachment=f, gill-spacing=c, stalk-shape=e, veil-color=w",4,2858,0.3517971442639094
+"bruises=t, gill-attachment=f, ring-type=p, stalk-surface-below-ring=s",4,2848,0.35056622353520434
+"bruises=t, ring-type=p, stalk-surface-below-ring=s",3,2848,0.35056622353520434
+"bruises=t, ring-type=p, stalk-surface-below-ring=s, veil-color=w",4,2848,0.35056622353520434
+"class=e, gill-size=b, gill-spacing=c, stalk-surface-above-ring=s",4,2848,0.35056622353520434
+"class=p, gill-attachment=f, population=v",3,2848,0.35056622353520434
+"class=p, gill-attachment=f, population=v, veil-color=w",4,2848,0.35056622353520434
+"class=p, population=v",2,2848,0.35056622353520434
+"class=p, population=v, veil-color=w",3,2848,0.35056622353520434
+"class=e, gill-attachment=f, ring-number=o, stalk-surface-below-ring=s",4,2840,0.3495814869522403
+"class=e, odor=n, stalk-surface-above-ring=s",3,2840,0.3495814869522403
+"class=e, ring-number=o, stalk-surface-below-ring=s, veil-color=w",4,2840,0.3495814869522403
+"gill-attachment=f, gill-size=b, gill-spacing=c, ring-type=p",4,2840,0.3495814869522403
+"gill-size=b, gill-spacing=c, ring-type=p, veil-color=w",4,2840,0.3495814869522403
+"bruises=t, gill-spacing=c, ring-number=o, stalk-surface-above-ring=s",4,2832,0.34859675036927623
+"gill-attachment=f, population=v, ring-number=o, stalk-shape=t",4,2832,0.34859675036927623
+"gill-attachment=f, population=v, stalk-shape=t",3,2832,0.34859675036927623
+"gill-attachment=f, population=v, stalk-shape=t, veil-color=w",4,2832,0.34859675036927623
+"population=v, ring-number=o, stalk-shape=t",3,2832,0.34859675036927623
+"population=v, ring-number=o, stalk-shape=t, veil-color=w",4,2832,0.34859675036927623
+"population=v, stalk-shape=t",2,2832,0.34859675036927623
+"population=v, stalk-shape=t, veil-color=w",3,2832,0.34859675036927623
+"class=e, ring-number=o, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,2828,0.3481043820777942
+"gill-size=b, stalk-shape=e",2,2828,0.3481043820777942
+"bruises=t, gill-attachment=f, gill-size=b, ring-type=p",4,2824,0.3476120137863122
+"bruises=t, gill-size=b, gill-spacing=c, ring-type=p",4,2824,0.3476120137863122
+"bruises=t, gill-size=b, ring-type=p",3,2824,0.3476120137863122
+"bruises=t, gill-size=b, ring-type=p, veil-color=w",4,2824,0.3476120137863122
+"gill-attachment=f, gill-size=b, ring-type=p, stalk-surface-above-ring=s",4,2824,0.3476120137863122
+"gill-attachment=f, gill-size=b, stalk-color-above-ring=w",3,2824,0.3476120137863122
+"gill-attachment=f, gill-size=b, stalk-color-above-ring=w, veil-color=w",4,2824,0.3476120137863122
+"gill-attachment=f, gill-size=b, stalk-color-below-ring=w",3,2824,0.3476120137863122
+"gill-attachment=f, gill-size=b, stalk-color-below-ring=w, veil-color=w",4,2824,0.3476120137863122
+"gill-size=b, ring-type=p, stalk-surface-above-ring=s, veil-color=w",4,2824,0.3476120137863122
+"gill-size=b, ring-type=p, stalk-surface-below-ring=s",3,2824,0.3476120137863122
+"gill-size=b, stalk-color-above-ring=w",2,2824,0.3476120137863122
+"gill-size=b, stalk-color-above-ring=w, veil-color=w",3,2824,0.3476120137863122
+"gill-size=b, stalk-color-below-ring=w",2,2824,0.3476120137863122
+"gill-size=b, stalk-color-below-ring=w, veil-color=w",3,2824,0.3476120137863122
+"class=e, gill-attachment=f, gill-spacing=c",3,2816,0.3466272772033481
+"class=e, gill-attachment=f, gill-spacing=c, veil-color=w",4,2816,0.3466272772033481
+"class=e, gill-size=b, ring-number=o, stalk-surface-below-ring=s",4,2816,0.3466272772033481
+"class=e, gill-spacing=c, veil-color=w",3,2816,0.3466272772033481
+"class=e, ring-number=o, ring-type=p",3,2816,0.3466272772033481
+"class=e, ring-number=o, ring-type=p, stalk-surface-above-ring=s",4,2816,0.3466272772033481
+"class=e, gill-attachment=f, gill-spacing=c, stalk-surface-above-ring=s",4,2800,0.34465780403741997
+"class=e, gill-attachment=f, ring-type=p, stalk-surface-above-ring=s",4,2800,0.34465780403741997
+"class=e, gill-size=b, ring-type=p, stalk-surface-above-ring=s",4,2800,0.34465780403741997
+"class=e, gill-spacing=c, stalk-surface-above-ring=s, veil-color=w",4,2800,0.34465780403741997
+"class=e, ring-type=p, stalk-surface-above-ring=s, veil-color=w",4,2800,0.34465780403741997
+"class=e, ring-type=p, stalk-surface-below-ring=s",3,2800,0.34465780403741997
+"class=p, gill-attachment=f, gill-spacing=c, population=v",4,2800,0.34465780403741997
+"class=p, gill-spacing=c, population=v",3,2800,0.34465780403741997
+"class=p, gill-spacing=c, population=v, veil-color=w",4,2800,0.34465780403741997
+"gill-size=b, gill-spacing=c, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,2800,0.34465780403741997
+"class=e, odor=n, stalk-surface-below-ring=s",3,2792,0.3436730674544559
+"gill-attachment=f, gill-size=b, ring-number=o, stalk-shape=t",4,2784,0.34268833087149186
+"gill-attachment=f, gill-size=b, stalk-shape=t",3,2784,0.34268833087149186
+"gill-attachment=f, gill-size=b, stalk-shape=t, veil-color=w",4,2784,0.34268833087149186
+"gill-size=b, ring-number=o, stalk-shape=t",3,2784,0.34268833087149186
+"gill-size=b, ring-number=o, stalk-shape=t, veil-color=w",4,2784,0.34268833087149186
+"gill-size=b, stalk-shape=t",2,2784,0.34268833087149186
+"gill-size=b, stalk-shape=t, veil-color=w",3,2784,0.34268833087149186
+"bruises=t, ring-type=p, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,2776,0.3417035942885278
+"class=p, gill-attachment=f, population=v, ring-number=o",4,2776,0.3417035942885278
+"class=p, population=v, ring-number=o",3,2776,0.3417035942885278
+"class=p, population=v, ring-number=o, veil-color=w",4,2776,0.3417035942885278
+"gill-attachment=f, ring-type=e",2,2776,0.3417035942885278
+ring-type=e,1,2776,0.3417035942885278
+"class=e, gill-attachment=f, gill-size=b, ring-type=p",4,2768,0.34071885770556376
+"class=e, gill-size=b, ring-type=p, veil-color=w",4,2768,0.34071885770556376
+"class=e, gill-spacing=c, ring-number=o",3,2768,0.34071885770556376
+"class=e, gill-spacing=c, ring-number=o, stalk-surface-above-ring=s",4,2768,0.34071885770556376
+"class=e, gill-spacing=c, ring-type=p",3,2768,0.34071885770556376
+"gill-attachment=f, gill-size=b, ring-number=o, stalk-surface-below-ring=s",4,2768,0.34071885770556376
+"gill-attachment=f, ring-type=e, veil-color=w",3,2768,0.34071885770556376
+"gill-size=b, gill-spacing=c, ring-number=o, stalk-surface-above-ring=s",4,2768,0.34071885770556376
+"gill-size=b, ring-number=o, ring-type=p, stalk-surface-above-ring=s",4,2768,0.34071885770556376
+"gill-size=b, ring-number=o, stalk-surface-below-ring=s, veil-color=w",4,2768,0.34071885770556376
+"ring-type=e, veil-color=w",2,2768,0.34071885770556376
+"bruises=t, class=e",2,2752,0.33874938453963566
+"bruises=t, class=e, gill-attachment=f",3,2752,0.33874938453963566
+"bruises=t, class=e, gill-attachment=f, stalk-surface-above-ring=s",4,2752,0.33874938453963566
+"bruises=t, class=e, gill-attachment=f, veil-color=w",4,2752,0.33874938453963566
+"bruises=t, class=e, stalk-surface-above-ring=s",3,2752,0.33874938453963566
+"bruises=t, class=e, stalk-surface-above-ring=s, veil-color=w",4,2752,0.33874938453963566
+"bruises=t, class=e, veil-color=w",3,2752,0.33874938453963566
+"class=e, gill-attachment=f, stalk-color-above-ring=w",3,2752,0.33874938453963566
+"class=e, gill-attachment=f, stalk-color-above-ring=w, veil-color=w",4,2752,0.33874938453963566
+"class=e, gill-spacing=c, ring-type=p, stalk-surface-above-ring=s",4,2752,0.33874938453963566
+"class=e, gill-spacing=c, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,2752,0.33874938453963566
+"class=e, gill-spacing=c, stalk-surface-below-ring=s",3,2752,0.33874938453963566
+"class=e, stalk-color-above-ring=w",2,2752,0.33874938453963566
+"class=e, stalk-color-above-ring=w, veil-color=w",3,2752,0.33874938453963566
+"bruises=t, gill-attachment=f, ring-number=o, stalk-surface-below-ring=s",4,2744,0.3377646479566716
+"bruises=t, gill-spacing=c, ring-type=p, stalk-surface-below-ring=s",4,2744,0.3377646479566716
+"bruises=t, ring-number=o, ring-type=p, stalk-surface-below-ring=s",4,2744,0.3377646479566716
+"bruises=t, ring-number=o, stalk-surface-below-ring=s",3,2744,0.3377646479566716
+"bruises=t, ring-number=o, stalk-surface-below-ring=s, veil-color=w",4,2744,0.3377646479566716
+"gill-size=b, odor=n, stalk-surface-above-ring=s",3,2744,0.3377646479566716
+"gill-size=b, odor=n, stalk-surface-below-ring=s",3,2744,0.3377646479566716
+"gill-attachment=f, gill-spacing=c, population=v, stalk-shape=t",4,2736,0.33677991137370755
+"gill-attachment=f, gill-spacing=c, stalk-shape=t, stalk-surface-above-ring=s",4,2736,0.33677991137370755
+"gill-attachment=f, gill-spacing=c, stalk-shape=t, stalk-surface-below-ring=s",4,2736,0.33677991137370755
+"gill-attachment=f, odor=n, ring-number=o",3,2736,0.33677991137370755
+"gill-spacing=c, population=v, ring-number=o, stalk-shape=t",4,2736,0.33677991137370755
+"gill-spacing=c, population=v, stalk-shape=t",3,2736,0.33677991137370755
+"gill-spacing=c, population=v, stalk-shape=t, veil-color=w",4,2736,0.33677991137370755
+"gill-spacing=c, ring-number=o, stalk-shape=t, stalk-surface-above-ring=s",4,2736,0.33677991137370755
+"gill-spacing=c, ring-number=o, stalk-shape=t, stalk-surface-below-ring=s",4,2736,0.33677991137370755
+"gill-spacing=c, stalk-shape=t, stalk-surface-above-ring=s",3,2736,0.33677991137370755
+"gill-spacing=c, stalk-shape=t, stalk-surface-above-ring=s, veil-color=w",4,2736,0.33677991137370755
+"gill-spacing=c, stalk-shape=t, stalk-surface-below-ring=s",3,2736,0.33677991137370755
+"gill-spacing=c, stalk-shape=t, stalk-surface-below-ring=s, veil-color=w",4,2736,0.33677991137370755
+"class=e, ring-type=p, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,2728,0.3357951747907435
+"class=p, gill-spacing=c, population=v, ring-number=o",4,2728,0.3357951747907435
+"gill-attachment=f, odor=n, ring-number=o, veil-color=w",4,2728,0.3357951747907435
+"gill-attachment=f, odor=n, stalk-surface-above-ring=s",3,2728,0.3357951747907435
+"gill-attachment=f, odor=n, stalk-surface-above-ring=s, veil-color=w",4,2728,0.3357951747907435
+"odor=n, ring-number=o, veil-color=w",3,2728,0.3357951747907435
+"odor=n, stalk-surface-above-ring=s, veil-color=w",3,2728,0.3357951747907435
+"bruises=f, population=v",2,2720,0.3348104382077794
+"bruises=f, population=v, ring-number=o",3,2720,0.3348104382077794
+"bruises=t, gill-attachment=f, gill-size=b, ring-number=o",4,2720,0.3348104382077794
+"bruises=t, gill-size=b, gill-spacing=c, ring-number=o",4,2720,0.3348104382077794
+"bruises=t, gill-size=b, ring-number=o",3,2720,0.3348104382077794
+"bruises=t, gill-size=b, ring-number=o, ring-type=p",4,2720,0.3348104382077794
+"bruises=t, gill-size=b, ring-number=o, veil-color=w",4,2720,0.3348104382077794
+"class=e, gill-spacing=c, ring-number=o, ring-type=p",4,2720,0.3348104382077794
+"gill-attachment=f, gill-size=b, ring-number=o, ring-type=p",4,2720,0.3348104382077794
+"gill-attachment=f, ring-number=o, stalk-color-above-ring=w, stalk-surface-below-ring=s",4,2720,0.3348104382077794
+"gill-size=b, ring-number=o, ring-type=p, veil-color=w",4,2720,0.3348104382077794
+"gill-spacing=c, ring-number=o, stalk-shape=e",3,2720,0.3348104382077794
+"ring-number=o, stalk-color-above-ring=w, stalk-surface-below-ring=s",3,2720,0.3348104382077794
+"ring-number=o, stalk-color-above-ring=w, stalk-surface-below-ring=s, veil-color=w",4,2720,0.3348104382077794
+"class=e, gill-attachment=f, stalk-color-below-ring=w",3,2704,0.3328409650418513
+"class=e, gill-attachment=f, stalk-color-below-ring=w, veil-color=w",4,2704,0.3328409650418513
+"class=e, stalk-color-below-ring=w",2,2704,0.3328409650418513
+"class=e, stalk-color-below-ring=w, veil-color=w",3,2704,0.3328409650418513
+"cap-shape=f, gill-spacing=c",2,2700,0.33234859675036926
+"gill-attachment=f, ring-number=o, stalk-color-below-ring=w, stalk-surface-below-ring=s",4,2696,0.33185622845888724
+"gill-size=b, ring-number=o, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,2696,0.33185622845888724
+"ring-number=o, stalk-color-below-ring=w, stalk-surface-below-ring=s",3,2696,0.33185622845888724
+"ring-number=o, stalk-color-below-ring=w, stalk-surface-below-ring=s, veil-color=w",4,2696,0.33185622845888724
+"class=e, gill-attachment=f, odor=n, ring-number=o",4,2688,0.3308714918759232
+"class=e, gill-size=b, odor=n, ring-number=o",4,2688,0.3308714918759232
+"class=e, odor=n, ring-number=o, veil-color=w",4,2688,0.3308714918759232
+"gill-attachment=f, ring-number=o, stalk-shape=e",3,2688,0.3308714918759232
+"gill-size=b, odor=n, ring-number=o",3,2688,0.3308714918759232
+"bruises=t, gill-attachment=f, gill-size=b, stalk-surface-below-ring=s",4,2680,0.32988675529295913
+"bruises=t, gill-size=b, gill-spacing=c, stalk-surface-below-ring=s",4,2680,0.32988675529295913
+"bruises=t, gill-size=b, ring-type=p, stalk-surface-above-ring=s",4,2680,0.32988675529295913
+"bruises=t, gill-size=b, stalk-surface-below-ring=s",3,2680,0.32988675529295913
+"bruises=t, gill-size=b, stalk-surface-below-ring=s, veil-color=w",4,2680,0.32988675529295913
+"gill-attachment=f, gill-size=b, gill-spacing=c, stalk-surface-below-ring=s",4,2680,0.32988675529295913
+"gill-attachment=f, odor=n, stalk-surface-below-ring=s",3,2680,0.32988675529295913
+"gill-attachment=f, odor=n, stalk-surface-below-ring=s, veil-color=w",4,2680,0.32988675529295913
+"gill-attachment=f, ring-number=o, stalk-shape=e, veil-color=w",4,2680,0.32988675529295913
+"gill-size=b, gill-spacing=c, ring-type=p, stalk-surface-below-ring=s",4,2680,0.32988675529295913
+"gill-size=b, gill-spacing=c, stalk-surface-below-ring=s, veil-color=w",4,2680,0.32988675529295913
+"gill-size=b, ring-type=p, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,2680,0.32988675529295913
+"odor=n, stalk-surface-below-ring=s, veil-color=w",3,2680,0.32988675529295913
+"ring-number=o, stalk-shape=e, veil-color=w",3,2680,0.32988675529295913
+"bruises=t, ring-number=o, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,2672,0.3289020187099951
+"class=e, gill-attachment=f, gill-size=b, gill-spacing=c",4,2672,0.3289020187099951
+"class=e, gill-size=b, gill-spacing=c, ring-type=p",4,2672,0.3289020187099951
+"class=e, gill-size=b, gill-spacing=c, veil-color=w",4,2672,0.3289020187099951
+"class=e, gill-size=b, odor=n, stalk-surface-above-ring=s",4,2672,0.3289020187099951
+"class=e, gill-size=b, odor=n, stalk-surface-below-ring=s",4,2672,0.3289020187099951
+"bruises=t, class=e, gill-attachment=f, gill-size=b",4,2656,0.326932545544067
+"bruises=t, class=e, gill-attachment=f, gill-spacing=c",4,2656,0.326932545544067
+"bruises=t, class=e, gill-size=b",3,2656,0.326932545544067
+"bruises=t, class=e, gill-size=b, gill-spacing=c",4,2656,0.326932545544067
+"bruises=t, class=e, gill-size=b, stalk-surface-above-ring=s",4,2656,0.326932545544067
+"bruises=t, class=e, gill-size=b, veil-color=w",4,2656,0.326932545544067
+"bruises=t, class=e, gill-spacing=c",3,2656,0.326932545544067
+"bruises=t, class=e, gill-spacing=c, stalk-surface-above-ring=s",4,2656,0.326932545544067
+"bruises=t, class=e, gill-spacing=c, veil-color=w",4,2656,0.326932545544067
+"class=e, gill-size=b, gill-spacing=c, stalk-surface-below-ring=s",4,2656,0.326932545544067
+"cap-shape=f, gill-spacing=c, veil-color=w",3,2652,0.32644017725258495
+"class=e, gill-attachment=f, odor=n, stalk-surface-above-ring=s",4,2648,0.3259478089611029
+"class=e, odor=n, stalk-surface-above-ring=s, veil-color=w",4,2648,0.3259478089611029
+"cap-shape=f, gill-attachment=f, gill-spacing=c",3,2646,0.3257016248153619
+"cap-shape=f, gill-attachment=f, gill-spacing=c, veil-color=w",4,2646,0.3257016248153619
+"bruises=t, gill-spacing=c, ring-number=o, stalk-surface-below-ring=s",4,2640,0.3249630723781389
+"gill-size=b, stalk-shape=e, veil-color=w",3,2636,0.32447070408665685
+"cap-shape=x, gill-size=b",2,2632,0.32397833579517477
+"gill-attachment=f, gill-size=b, ring-type=p, stalk-surface-below-ring=s",4,2632,0.32397833579517477
+"gill-attachment=f, stalk-color-above-ring=w, stalk-color-below-ring=w, stalk-surface-above-ring=s",4,2632,0.32397833579517477
+"gill-size=b, ring-type=p, stalk-surface-below-ring=s, veil-color=w",4,2632,0.32397833579517477
+"stalk-color-above-ring=w, stalk-color-below-ring=w, stalk-surface-above-ring=s",3,2632,0.32397833579517477
+"stalk-color-above-ring=w, stalk-color-below-ring=w, stalk-surface-above-ring=s, veil-color=w",4,2632,0.32397833579517477
+"bruises=f, gill-attachment=f, population=v",3,2624,0.3229935992122107
+"bruises=f, gill-attachment=f, population=v, ring-number=o",4,2624,0.3229935992122107
+"bruises=f, gill-attachment=f, population=v, veil-color=w",4,2624,0.3229935992122107
+"bruises=f, gill-spacing=c, population=v",3,2624,0.3229935992122107
+"bruises=f, gill-spacing=c, population=v, ring-number=o",4,2624,0.3229935992122107
+"bruises=f, population=v, ring-number=o, veil-color=w",4,2624,0.3229935992122107
+"bruises=f, population=v, veil-color=w",3,2624,0.3229935992122107
+"class=e, gill-attachment=f, ring-number=o, ring-type=p",4,2624,0.3229935992122107
+"class=e, gill-size=b, gill-spacing=c, ring-number=o",4,2624,0.3229935992122107
+"class=e, gill-size=b, ring-number=o, ring-type=p",4,2624,0.3229935992122107
+"class=e, ring-number=o, ring-type=p, stalk-surface-below-ring=s",4,2624,0.3229935992122107
+"class=e, ring-number=o, ring-type=p, veil-color=w",4,2624,0.3229935992122107
+"gill-attachment=f, gill-size=b, stalk-shape=e",3,2618,0.3222550467749877
+"gill-attachment=f, gill-size=b, stalk-shape=e, veil-color=w",4,2618,0.3222550467749877
+"bruises=t, gill-size=b, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,2608,0.3210241260462826
+"class=e, gill-attachment=f, ring-type=p, stalk-surface-below-ring=s",4,2608,0.3210241260462826
+"class=e, gill-size=b, ring-type=p, stalk-surface-below-ring=s",4,2608,0.3210241260462826
+"class=e, ring-type=p, stalk-surface-below-ring=s, veil-color=w",4,2608,0.3210241260462826
+"gill-attachment=f, ring-type=p, stalk-color-above-ring=w",3,2608,0.3210241260462826
+"gill-attachment=f, ring-type=p, stalk-color-above-ring=w, veil-color=w",4,2608,0.3210241260462826
+"gill-attachment=f, ring-type=p, stalk-color-below-ring=w",3,2608,0.3210241260462826
+"gill-attachment=f, ring-type=p, stalk-color-below-ring=w, veil-color=w",4,2608,0.3210241260462826
+"ring-type=p, stalk-color-above-ring=w",2,2608,0.3210241260462826
+"ring-type=p, stalk-color-above-ring=w, veil-color=w",3,2608,0.3210241260462826
+"ring-type=p, stalk-color-below-ring=w",2,2608,0.3210241260462826
+"ring-type=p, stalk-color-below-ring=w, veil-color=w",3,2608,0.3210241260462826
+"class=e, gill-attachment=f, odor=n, stalk-surface-below-ring=s",4,2600,0.32003938946331856
+"class=e, odor=n, stalk-surface-below-ring=s, veil-color=w",4,2600,0.32003938946331856
+"bruises=f, gill-size=b",2,2596,0.31954702117183653
+"odor=n, stalk-surface-above-ring=s, stalk-surface-below-ring=s",3,2596,0.31954702117183653
+"class=e, gill-attachment=f, ring-number=o, stalk-shape=t",4,2592,0.3190546528803545
+"class=e, gill-attachment=f, stalk-shape=t",3,2592,0.3190546528803545
+"class=e, gill-attachment=f, stalk-shape=t, veil-color=w",4,2592,0.3190546528803545
+"class=e, ring-number=o, stalk-shape=t",3,2592,0.3190546528803545
+"class=e, ring-number=o, stalk-shape=t, veil-color=w",4,2592,0.3190546528803545
+"class=e, stalk-shape=t",2,2592,0.3190546528803545
+"class=e, stalk-shape=t, veil-color=w",3,2592,0.3190546528803545
+"gill-attachment=f, ring-number=o, stalk-color-above-ring=w, stalk-shape=t",4,2592,0.3190546528803545
+"gill-attachment=f, ring-number=o, stalk-color-below-ring=w, stalk-shape=t",4,2592,0.3190546528803545
+"gill-attachment=f, stalk-color-above-ring=w, stalk-shape=t",3,2592,0.3190546528803545
+"gill-attachment=f, stalk-color-above-ring=w, stalk-shape=t, veil-color=w",4,2592,0.3190546528803545
+"gill-attachment=f, stalk-color-below-ring=w, stalk-shape=t",3,2592,0.3190546528803545
+"gill-attachment=f, stalk-color-below-ring=w, stalk-shape=t, veil-color=w",4,2592,0.3190546528803545
+"ring-number=o, stalk-color-above-ring=w, stalk-shape=t",3,2592,0.3190546528803545
+"ring-number=o, stalk-color-above-ring=w, stalk-shape=t, veil-color=w",4,2592,0.3190546528803545
+"ring-number=o, stalk-color-below-ring=w, stalk-shape=t",3,2592,0.3190546528803545
+"ring-number=o, stalk-color-below-ring=w, stalk-shape=t, veil-color=w",4,2592,0.3190546528803545
+"stalk-color-above-ring=w, stalk-shape=t",2,2592,0.3190546528803545
+"stalk-color-above-ring=w, stalk-shape=t, veil-color=w",3,2592,0.3190546528803545
+"stalk-color-below-ring=w, stalk-shape=t",2,2592,0.3190546528803545
+"stalk-color-below-ring=w, stalk-shape=t, veil-color=w",3,2592,0.3190546528803545
+"bruises=f, gill-attachment=f, ring-number=o, ring-type=e",4,2584,0.31806991629739045
+"bruises=f, gill-attachment=f, ring-type=e",3,2584,0.31806991629739045
+"bruises=f, ring-number=o, ring-type=e",3,2584,0.31806991629739045
+"bruises=f, ring-type=e",2,2584,0.31806991629739045
+"cap-shape=x, gill-size=b, veil-color=w",3,2584,0.31806991629739045
+"gill-attachment=f, ring-number=o, ring-type=e",3,2584,0.31806991629739045
+"ring-number=o, ring-type=e",2,2584,0.31806991629739045
+"cap-shape=x, gill-attachment=f, gill-size=b",3,2578,0.3173313638601674
+"cap-shape=x, gill-attachment=f, gill-size=b, veil-color=w",4,2578,0.3173313638601674
+"bruises=f, gill-attachment=f, ring-type=e, veil-color=w",4,2576,0.3170851797144264
+"bruises=f, ring-number=o, ring-type=e, veil-color=w",4,2576,0.3170851797144264
+"bruises=f, ring-type=e, veil-color=w",3,2576,0.3170851797144264
+"bruises=t, gill-size=b, ring-number=o, stalk-surface-above-ring=s",4,2576,0.3170851797144264
+"class=e, gill-attachment=f, gill-spacing=c, ring-number=o",4,2576,0.3170851797144264
+"class=e, gill-attachment=f, gill-spacing=c, ring-type=p",4,2576,0.3170851797144264
+"class=e, gill-spacing=c, ring-number=o, veil-color=w",4,2576,0.3170851797144264
+"class=e, gill-spacing=c, ring-type=p, veil-color=w",4,2576,0.3170851797144264
+"gill-attachment=f, ring-number=o, ring-type=e, veil-color=w",4,2576,0.3170851797144264
+"gill-size=b, gill-spacing=c, ring-number=o, stalk-surface-below-ring=s",4,2576,0.3170851797144264
+"gill-size=b, ring-number=o, ring-type=p, stalk-surface-below-ring=s",4,2576,0.3170851797144264
+"ring-number=o, ring-type=e, veil-color=w",3,2576,0.3170851797144264
+"cap-shape=f, gill-spacing=c, ring-number=o",3,2568,0.31610044313146235
+"bruises=t, class=e, gill-attachment=f, ring-type=p",4,2560,0.3151157065484983
+"bruises=t, class=e, gill-attachment=f, stalk-surface-below-ring=s",4,2560,0.3151157065484983
+"bruises=t, class=e, ring-type=p",3,2560,0.3151157065484983
+"bruises=t, class=e, ring-type=p, stalk-surface-above-ring=s",4,2560,0.3151157065484983
+"bruises=t, class=e, ring-type=p, veil-color=w",4,2560,0.3151157065484983
+"bruises=t, class=e, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,2560,0.3151157065484983
+"bruises=t, class=e, stalk-surface-below-ring=s",3,2560,0.3151157065484983
+"bruises=t, class=e, stalk-surface-below-ring=s, veil-color=w",4,2560,0.3151157065484983
+"class=e, gill-attachment=f, gill-spacing=c, stalk-surface-below-ring=s",4,2560,0.3151157065484983
+"class=e, gill-spacing=c, ring-type=p, stalk-surface-below-ring=s",4,2560,0.3151157065484983
+"class=e, gill-spacing=c, stalk-surface-below-ring=s, veil-color=w",4,2560,0.3151157065484983
+cap-surface=s,1,2556,0.31462333825701627
+"gill-attachment=f, gill-size=b, odor=n, stalk-surface-above-ring=s",4,2552,0.31413096996553425
+"gill-attachment=f, gill-size=b, odor=n, stalk-surface-below-ring=s",4,2552,0.31413096996553425
+"gill-attachment=f, gill-spacing=c, stalk-color-above-ring=w, stalk-surface-above-ring=s",4,2552,0.31413096996553425
+"gill-attachment=f, gill-spacing=c, stalk-color-below-ring=w, stalk-surface-above-ring=s",4,2552,0.31413096996553425
+"gill-size=b, odor=n, stalk-surface-above-ring=s, veil-color=w",4,2552,0.31413096996553425
+"gill-size=b, odor=n, stalk-surface-below-ring=s, veil-color=w",4,2552,0.31413096996553425
+"gill-spacing=c, stalk-color-above-ring=w, stalk-surface-above-ring=s",3,2552,0.31413096996553425
+"gill-spacing=c, stalk-color-above-ring=w, stalk-surface-above-ring=s, veil-color=w",4,2552,0.31413096996553425
+"gill-spacing=c, stalk-color-below-ring=w, stalk-surface-above-ring=s",3,2552,0.31413096996553425
+"gill-spacing=c, stalk-color-below-ring=w, stalk-surface-above-ring=s, veil-color=w",4,2552,0.31413096996553425
+"gill-size=b, gill-spacing=c, stalk-shape=e",3,2540,0.3126538650910881
+"bruises=f, gill-attachment=f, gill-spacing=c, population=v",4,2528,0.31117676021664203
+"bruises=f, gill-spacing=c, population=v, veil-color=w",4,2528,0.31117676021664203
+"bruises=t, class=e, gill-attachment=f, ring-number=o",4,2528,0.31117676021664203
+"bruises=t, class=e, ring-number=o",3,2528,0.31117676021664203
+"bruises=t, class=e, ring-number=o, ring-type=p",4,2528,0.31117676021664203
+"bruises=t, class=e, ring-number=o, stalk-surface-above-ring=s",4,2528,0.31117676021664203
+"bruises=t, class=e, ring-number=o, veil-color=w",4,2528,0.31117676021664203
+"class=e, gill-spacing=c, ring-number=o, stalk-surface-below-ring=s",4,2528,0.31117676021664203
+"gill-attachment=f, gill-spacing=c, ring-number=o, stalk-shape=e",4,2528,0.31117676021664203
+"gill-spacing=c, ring-number=o, stalk-shape=e, veil-color=w",4,2528,0.31117676021664203
+"cap-shape=f, gill-attachment=f, gill-spacing=c, ring-number=o",4,2520,0.310192023633678
+"cap-shape=f, gill-spacing=c, ring-number=o, veil-color=w",4,2520,0.310192023633678
+"gill-attachment=f, stalk-shape=t, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,2520,0.310192023633678
+"ring-number=o, stalk-shape=t, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,2520,0.310192023633678
+"stalk-shape=t, stalk-surface-above-ring=s, stalk-surface-below-ring=s",3,2520,0.310192023633678
+"stalk-shape=t, stalk-surface-above-ring=s, stalk-surface-below-ring=s, veil-color=w",4,2520,0.310192023633678
+"class=e, odor=n, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,2516,0.30969965534219596
+"gill-attachment=f, gill-size=n",2,2512,0.30920728705071393
+"gill-attachment=f, gill-size=n, ring-number=o",3,2512,0.30920728705071393
+gill-size=n,1,2512,0.30920728705071393
+"gill-size=n, ring-number=o",2,2512,0.30920728705071393
+"bruises=f, class=p, gill-attachment=f, population=v",4,2504,0.3082225504677499
+"bruises=f, class=p, population=v",3,2504,0.3082225504677499
+"bruises=f, class=p, population=v, ring-number=o",4,2504,0.3082225504677499
+"bruises=f, class=p, population=v, veil-color=w",4,2504,0.3082225504677499
+"gill-attachment=f, gill-size=n, ring-number=o, veil-color=w",4,2504,0.3082225504677499
+"gill-attachment=f, gill-size=n, veil-color=w",3,2504,0.3082225504677499
+"gill-size=n, ring-number=o, veil-color=w",3,2504,0.3082225504677499
+"gill-size=n, veil-color=w",2,2504,0.3082225504677499
+"gill-attachment=f, stalk-color-above-ring=w, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,2500,0.30773018217626785
+"stalk-color-above-ring=w, stalk-surface-above-ring=s, stalk-surface-below-ring=s",3,2500,0.30773018217626785
+"stalk-color-above-ring=w, stalk-surface-above-ring=s, stalk-surface-below-ring=s, veil-color=w",4,2500,0.30773018217626785
+"bruises=f, gill-attachment=f, ring-number=o, stalk-shape=t",4,2496,0.3072378138847858
+"bruises=f, gill-attachment=f, ring-type=e, stalk-shape=t",4,2496,0.3072378138847858
+"bruises=f, gill-attachment=f, stalk-shape=t",3,2496,0.3072378138847858
+"bruises=f, gill-attachment=f, stalk-shape=t, veil-color=w",4,2496,0.3072378138847858
+"bruises=f, ring-number=o, ring-type=e, stalk-shape=t",4,2496,0.3072378138847858
+"bruises=f, ring-number=o, stalk-shape=t",3,2496,0.3072378138847858
+"bruises=f, ring-number=o, stalk-shape=t, veil-color=w",4,2496,0.3072378138847858
+"bruises=f, ring-type=e, stalk-shape=t",3,2496,0.3072378138847858
+"bruises=f, ring-type=e, stalk-shape=t, veil-color=w",4,2496,0.3072378138847858
+"bruises=f, stalk-shape=t",2,2496,0.3072378138847858
+"bruises=f, stalk-shape=t, veil-color=w",3,2496,0.3072378138847858
+"class=e, gill-attachment=f, gill-size=b, stalk-shape=t",4,2496,0.3072378138847858
+"class=e, gill-attachment=f, odor=n, stalk-shape=t",4,2496,0.3072378138847858
+"class=e, gill-size=b, odor=n, stalk-shape=t",4,2496,0.3072378138847858
+"class=e, gill-size=b, ring-number=o, stalk-shape=t",4,2496,0.3072378138847858
+"class=e, gill-size=b, stalk-shape=t",3,2496,0.3072378138847858
+"class=e, gill-size=b, stalk-shape=t, veil-color=w",4,2496,0.3072378138847858
+"class=e, odor=n, ring-number=o, stalk-shape=t",4,2496,0.3072378138847858
+"class=e, odor=n, stalk-shape=t",3,2496,0.3072378138847858
+"class=e, odor=n, stalk-shape=t, veil-color=w",4,2496,0.3072378138847858
+"gill-attachment=f, gill-size=b, odor=n, ring-number=o",4,2496,0.3072378138847858
+"gill-attachment=f, gill-size=b, odor=n, stalk-shape=t",4,2496,0.3072378138847858
+"gill-attachment=f, odor=n, ring-number=o, stalk-shape=t",4,2496,0.3072378138847858
+"gill-attachment=f, odor=n, stalk-shape=t",3,2496,0.3072378138847858
+"gill-attachment=f, odor=n, stalk-shape=t, veil-color=w",4,2496,0.3072378138847858
+"gill-attachment=f, ring-number=o, ring-type=e, stalk-shape=t",4,2496,0.3072378138847858
+"gill-attachment=f, ring-type=e, stalk-shape=t",3,2496,0.3072378138847858
+"gill-attachment=f, ring-type=e, stalk-shape=t, veil-color=w",4,2496,0.3072378138847858
+"gill-size=b, odor=n, ring-number=o, stalk-shape=t",4,2496,0.3072378138847858
+"gill-size=b, odor=n, ring-number=o, veil-color=w",4,2496,0.3072378138847858
+"gill-size=b, odor=n, stalk-shape=t",3,2496,0.3072378138847858
+"gill-size=b, odor=n, stalk-shape=t, veil-color=w",4,2496,0.3072378138847858
+"odor=n, ring-number=o, stalk-shape=t",3,2496,0.3072378138847858
+"odor=n, ring-number=o, stalk-shape=t, veil-color=w",4,2496,0.3072378138847858
+"odor=n, stalk-shape=t",2,2496,0.3072378138847858
+"odor=n, stalk-shape=t, veil-color=w",3,2496,0.3072378138847858
+"ring-number=o, ring-type=e, stalk-shape=t",3,2496,0.3072378138847858
+"ring-number=o, ring-type=e, stalk-shape=t, veil-color=w",4,2496,0.3072378138847858
+"ring-type=e, stalk-shape=t",2,2496,0.3072378138847858
+"ring-type=e, stalk-shape=t, veil-color=w",3,2496,0.3072378138847858
+"bruises=t, gill-size=b, ring-type=p, stalk-surface-below-ring=s",4,2488,0.3062530773018218
+"gill-attachment=f, stalk-color-below-ring=w, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,2488,0.3062530773018218
+"stalk-color-below-ring=w, stalk-surface-above-ring=s, stalk-surface-below-ring=s",3,2488,0.3062530773018218
+"stalk-color-below-ring=w, stalk-surface-above-ring=s, stalk-surface-below-ring=s, veil-color=w",4,2488,0.3062530773018218
+"gill-size=b, odor=n, stalk-surface-above-ring=s, stalk-surface-below-ring=s",4,2480,0.3052683407188577
+"odor=n, ring-number=o, stalk-surface-above-ring=s",3,2480,0.3052683407188577
+stalk-root=?,1,2480,0.3052683407188577
+"class=e, odor=n, ring-number=o, stalk-surface-above-ring=s",4,2472,0.30428360413589367
+"bruises=t, class=e, gill-size=b, ring-type=p",4,2464,0.3032988675529296
+"bruises=t, class=e, gill-size=b, stalk-surface-below-ring=s",4,2464,0.3032988675529296
+"bruises=t, class=e, gill-spacing=c, ring-type=p",4,2464,0.3032988675529296
+"bruises=t, class=e, gill-spacing=c, stalk-surface-below-ring=s",4,2464,0.3032988675529296
+"class=e, gill-attachment=f, gill-size=b, stalk-color-above-ring=w",4,2464,0.3032988675529296
+"class=e, gill-attachment=f, gill-size=b, stalk-color-below-ring=w",4,2464,0.3032988675529296
+"class=e, gill-size=b, stalk-color-above-ring=w",3,2464,0.3032988675529296
+"class=e, gill-size=b, stalk-color-above-ring=w, veil-color=w",4,2464,0.3032988675529296
+"class=e, gill-size=b, stalk-color-below-ring=w",3,2464,0.3032988675529296
+"class=e, gill-size=b, stalk-color-below-ring=w, veil-color=w",4,2464,0.3032988675529296
+"bruises=f, class=p, gill-spacing=c, population=v",4,2456,0.3023141309699655
+"gill-attachment=f, habitat=d, stalk-root=b",3,2456,0.3023141309699655
+"gill-attachment=f, habitat=d, stalk-root=b, veil-color=w",4,2456,0.3023141309699655
+"habitat=d, stalk-root=b",2,2456,0.3023141309699655
+"habitat=d, stalk-root=b, veil-color=w",3,2456,0.3023141309699655
+"gill-attachment=f, habitat=d, ring-number=o, stalk-root=b",4,2448,0.30132939438700146
+"habitat=d, ring-number=o, stalk-root=b",3,2448,0.30132939438700146
+"habitat=d, ring-number=o, stalk-root=b, veil-color=w",4,2448,0.30132939438700146
+"cap-shape=x, gill-size=b, ring-number=o",3,2440,0.3003446578040374

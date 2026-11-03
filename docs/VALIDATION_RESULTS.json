@@ -1,0 +1,109 @@
+{
+  "status": "passed",
+  "reference_environment": {
+    "python": "3.14.6 | packaged by Anaconda, Inc. | (main, Jul  9 2026, 14:29:05) [MSC v.1942 64 bit (AMD64)]",
+    "packages": {
+      "numpy": "2.4.6",
+      "pandas": "3.0.3",
+      "scikit-learn": "1.9.0",
+      "scipy": "1.18.0",
+      "matplotlib": "3.11.0",
+      "seaborn": "0.13.2",
+      "openpyxl": "3.1.5",
+      "ucimlrepo": "0.0.7",
+      "joblib": "1.5.3"
+    }
+  },
+  "checks": [
+    {
+      "check": "adult_preprocessing_help",
+      "status": "passed",
+      "seconds": 0.23
+    },
+    {
+      "check": "adult_models_help",
+      "status": "passed",
+      "seconds": 3.96
+    },
+    {
+      "check": "adult_evaluation_help",
+      "status": "passed",
+      "seconds": 0.27
+    },
+    {
+      "check": "comparison_help",
+      "status": "passed",
+      "seconds": 4.88
+    },
+    {
+      "check": "adult_full_preprocessing_relocated",
+      "status": "passed",
+      "seconds": 14.7
+    },
+    {
+      "check": "adult_three_preprocessing_states_match_packaged_snapshot",
+      "status": "passed"
+    },
+    {
+      "check": "adult_saved_model_evaluation_relocated",
+      "status": "passed",
+      "seconds": 26.11
+    },
+    {
+      "check": "adult_12_rows_metrics_match",
+      "status": "passed"
+    },
+    {
+      "check": "mushroom_full_preprocessing_relocated",
+      "status": "passed",
+      "seconds": 3.38
+    },
+    {
+      "check": "mushroom_modeling_csv_matches",
+      "status": "passed"
+    },
+    {
+      "check": "mushroom_tree_models_entry",
+      "status": "passed",
+      "seconds": 4.22
+    },
+    {
+      "check": "mushroom_linear_models_entry",
+      "status": "passed",
+      "seconds": 3.9
+    },
+    {
+      "check": "mushroom_original_four_classifier_holdout_functions",
+      "status": "passed",
+      "matches_historical_rounded_metrics": true,
+      "historical_grid_search_rerun": false
+    },
+    {
+      "check": "mushroom_apriori_entry",
+      "status": "passed",
+      "seconds": 3.44
+    },
+    {
+      "check": "adult_apriori_summary_matches",
+      "status": "passed"
+    },
+    {
+      "check": "full_cross_dataset_tenfold_holdout_relocated",
+      "status": "passed",
+      "seconds": 38.87
+    },
+    {
+      "check": "cross_dataset_8_rows_match_and_40_fold_scores",
+      "status": "passed"
+    },
+    {
+      "check": "original_sources_and_all_packaged_copies_unchanged",
+      "status": "passed",
+      "original_files_checked": 144
+    }
+  ],
+  "full_adult_training_repeated": false,
+  "historical_mushroom_grid_search_repeated": false,
+  "fresh_online_dependency_installation_tested": false,
+  "validation_uses_relocated_temporary_copy": true
+}

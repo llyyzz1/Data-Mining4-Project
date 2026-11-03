@@ -1,0 +1,5 @@
+model,candidates,cv_folds,refit_metric,best_params,cv_accuracy_mean,cv_accuracy_std,cv_f1_mean,cv_f1_std,cv_roc_auc_mean,cv_roc_auc_std,test_accuracy,test_precision,test_recall,test_f1,test_roc_auc,search_sec
+Decision Tree,12,5,accuracy,"max_depth=None, min_samples_split=2",0.9996923076923077,0.0006153846153845955,0.9996805111821085,0.0006389776357827336,0.9996810207336523,0.0006379585326953929,1.0,1.0,1.0,1.0,1.0,2.44
+Random Forest,12,5,accuracy,"max_depth=None, max_features=sqrt, n_estimators=100",1.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,3.81
+Logistic Regression,12,5,accuracy,"C=100.0, class_weight=None, l1_ratio=0.0, solver=liblinear",0.9996923076923077,0.0006153846153845955,0.9996805111821085,0.0006389776357827336,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.9
+Linear SVM,10,5,accuracy,"svc__C=1.0, svc__class_weight=None",1.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,5.91

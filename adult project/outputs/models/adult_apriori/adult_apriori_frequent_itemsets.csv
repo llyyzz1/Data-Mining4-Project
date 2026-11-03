@@ -1,0 +1,1887 @@
+itemset,length,support_count,support
+capital-loss=zero,1,46560,0.9532779165472339
+capital-gain=zero,1,44807,0.9173866754023177
+native-country=United-States,1,43832,0.8974243478973015
+"capital-gain=zero, capital-loss=zero",2,42525,0.8706645919495516
+race=White,1,41762,0.855042791040498
+"capital-loss=zero, native-country=United-States",2,41752,0.8548380492199337
+"capital-gain=zero, native-country=United-States",2,40146,0.8219565128373122
+"capital-loss=zero, race=White",2,39742,0.8136849432865157
+"native-country=United-States, race=White",2,38493,0.7881126898980386
+"capital-gain=zero, race=White",2,38184,0.7817861676426027
+"capital-gain=zero, capital-loss=zero, native-country=United-States",3,38066,0.7793702141599443
+income=<=50K,1,37155,0.7607182343065395
+"capital-loss=zero, native-country=United-States, race=White",3,36585,0.7490479505343761
+"capital-gain=zero, capital-loss=zero, race=White",3,36164,0.7404283198886205
+"capital-loss=zero, income=<=50K",2,36017,0.7374186151263257
+"capital-gain=zero, income=<=50K",2,35611,0.7291060972114164
+"capital-gain=zero, native-country=United-States, race=White",3,35140,0.7194627574628394
+"capital-gain=zero, capital-loss=zero, income=<=50K",3,34473,0.7058064780312027
+workclass=Private,1,33906,0.6941976168052086
+"income=<=50K, native-country=United-States",2,33138,0.6784734449858728
+sex=Male,1,32650,0.6684820441423365
+"capital-loss=zero, workclass=Private",2,32431,0.663998198271979
+"capital-loss=zero, income=<=50K, native-country=United-States",3,32107,0.6573645632856967
+"capital-gain=zero, income=<=50K, native-country=United-States",3,31739,0.6498300642889316
+"capital-gain=zero, workclass=Private",2,31326,0.6413742270996273
+"income=<=50K, race=White",2,31155,0.6378731419679784
+"capital-loss=zero, sex=Male",2,30922,0.6331026575488309
+"capital-loss=zero, income=<=50K, race=White",3,30180,0.6179108144629623
+"native-country=United-States, workclass=Private",2,30145,0.6171942180909873
+"capital-gain=zero, capital-loss=zero, workclass=Private",3,29851,0.6111748085663977
+"capital-gain=zero, income=<=50K, race=White",3,29825,0.6106424798329306
+"capital-gain=zero, sex=Male",2,29553,0.6050735023135826
+"native-country=United-States, sex=Male",2,29223,0.5983170222349617
+"race=White, workclass=Private",2,29024,0.5942426600057328
+"capital-loss=zero, native-country=United-States, workclass=Private",3,28803,0.5897178657712624
+"race=White, sex=Male",2,28735,0.5883256213914254
+"income=<=50K, native-country=United-States, race=White",3,28501,0.5835346627902215
+"capital-gain=zero, capital-loss=zero, sex=Male",3,27825,0.569694115720077
+hours-per-week=normal,1,27809,0.5693665288071742
+"capital-gain=zero, native-country=United-States, workclass=Private",3,27789,0.5689570451660456
+"capital-loss=zero, race=White, workclass=Private",3,27717,0.5674829040579829
+"capital-loss=zero, native-country=United-States, sex=Male",3,27651,0.5661316080422587
+"capital-loss=zero, race=White, sex=Male",3,27177,0.5564268457475123
+"capital-gain=zero, race=White, workclass=Private",3,26728,0.5472339380041767
+"capital-loss=zero, hours-per-week=normal",2,26541,0.5434052659596249
+"native-country=United-States, race=White, workclass=Private",3,26540,0.5433847917775685
+"income=<=50K, workclass=Private",2,26519,0.5429548339543835
+"native-country=United-States, race=White, sex=Male",3,26450,0.5415421153924901
+"capital-gain=zero, native-country=United-States, sex=Male",3,26404,0.5406003030178944
+"capital-gain=zero, race=White, sex=Male",3,25950,0.5313050243642766
+"capital-loss=zero, income=<=50K, workclass=Private",3,25758,0.5273739814094427
+"capital-gain=zero, hours-per-week=normal",2,25673,0.5256336759346464
+"capital-gain=zero, income=<=50K, workclass=Private",3,25477,0.5216207362515868
+"hours-per-week=normal, native-country=United-States",2,24713,0.5059784611604766
+age=middle,1,24671,0.5051185455141067
+"capital-gain=zero, capital-loss=zero, hours-per-week=normal",3,24405,0.49967241308709714
+"capital-loss=zero, hours-per-week=normal, native-country=United-States",3,23562,0.48241267761352935
+"age=middle, capital-loss=zero",2,23448,0.4800786208590967
+"income=<=50K, native-country=United-States, workclass=Private",3,23380,0.47868637647925966
+"hours-per-week=normal, race=White",2,23254,0.4761066295401499
+"capital-gain=zero, hours-per-week=normal, native-country=United-States",3,22746,0.465705745055485
+"income=<=50K, sex=Male",2,22732,0.46541910650669505
+"age=middle, capital-gain=zero",2,22624,0.46320789484460095
+marital-status=Married-civ-spouse,1,22379,0.45819172024077637
+"sex=Male, workclass=Private",2,22307,0.45671757913271366
+"income=<=50K, race=White, workclass=Private",3,22282,0.456205724581303
+"capital-loss=zero, hours-per-week=normal, race=White",3,22158,0.45366692600630604
+"capital-loss=zero, income=<=50K, sex=Male",3,21989,0.4502067892387699
+"age=middle, native-country=United-States",2,21924,0.44887596740510216
+"capital-gain=zero, income=<=50K, sex=Male",3,21715,0.44459686335530896
+"hours-per-week=normal, income=<=50K",2,21438,0.4389255149256787
+"capital-gain=zero, hours-per-week=normal, race=White",3,21403,0.43820891855370375
+"age=middle, capital-gain=zero, capital-loss=zero",3,21401,0.4381679701895909
+"hours-per-week=normal, native-country=United-States, race=White",3,21248,0.4350354203349576
+"capital-loss=zero, sex=Male, workclass=Private",3,21204,0.43413455632447484
+"capital-loss=zero, marital-status=Married-civ-spouse",2,20968,0.42930264935915813
+"age=middle, capital-loss=zero, native-country=United-States",3,20821,0.42629294459686334
+"age=middle, race=White",2,20775,0.4253511322222677
+"capital-loss=zero, hours-per-week=normal, income=<=50K",3,20750,0.42483927767085705
+"capital-gain=zero, hours-per-week=normal, income=<=50K",3,20565,0.4210515539904181
+"hours-per-week=normal, workclass=Private",2,20368,0.417018140125302
+"capital-gain=zero, sex=Male, workclass=Private",3,20322,0.41607632775070635
+"income=<=50K, native-country=United-States, sex=Male",3,20142,0.41239097498054955
+"age=middle, capital-gain=zero, native-country=United-States",3,20058,0.41067114368780966
+"marital-status=Married-civ-spouse, race=White",2,20054,0.410589246959584
+"marital-status=Married-civ-spouse, native-country=United-States",2,20003,0.4095450636747062
+"marital-status=Married-civ-spouse, sex=Male",2,19899,0.4074157487408378
+"native-country=United-States, sex=Male, workclass=Private",3,19753,0.4044265181605995
+relationship=Husband,1,19716,0.4036689734245117
+"relationship=Husband, sex=Male",2,19715,0.40364849924245527
+"marital-status=Married-civ-spouse, relationship=Husband",2,19704,0.40342328323983456
+"age=middle, capital-loss=zero, race=White",3,19704,0.40342328323983456
+"marital-status=Married-civ-spouse, relationship=Husband, sex=Male",3,19703,0.40340280905777814
+"capital-gain=zero, marital-status=Married-civ-spouse",2,19696,0.40325948978338316
+"income=<=50K, race=White, sex=Male",3,19670,0.40272716104991607
+"race=White, sex=Male, workclass=Private",3,19602,0.40133491667007903
+"capital-loss=zero, hours-per-week=normal, workclass=Private",3,19510,0.39945129192088774
+"age=middle, native-country=United-States, race=White",3,19061,0.3902583841775521
+"age=middle, capital-gain=zero, race=White",3,18975,0.3884976045206994
+"capital-gain=zero, hours-per-week=normal, workclass=Private",3,18922,0.38741247287170877
+"hours-per-week=normal, income=<=50K, native-country=United-States",3,18908,0.3871258343229188
+"hours-per-week=normal, sex=Male",2,18802,0.38495557102493755
+"capital-loss=zero, marital-status=Married-civ-spouse, race=White",3,18776,0.38442324229147046
+"capital-loss=zero, marital-status=Married-civ-spouse, native-country=United-States",3,18722,0.3833176364604234
+"capital-loss=zero, marital-status=Married-civ-spouse, sex=Male",3,18636,0.3815568568035707
+"marital-status=Married-civ-spouse, native-country=United-States, race=White",3,18502,0.3788133164080095
+"capital-loss=zero, relationship=Husband",2,18457,0.37789197821547027
+"capital-loss=zero, relationship=Husband, sex=Male",3,18456,0.37787150403341385
+"capital-loss=zero, marital-status=Married-civ-spouse, relationship=Husband",3,18445,0.37764628803079314
+"capital-gain=zero, capital-loss=zero, marital-status=Married-civ-spouse",3,18285,0.37437041890176487
+"age=middle, income=<=50K",2,18161,0.3718316203267679
+"marital-status=Married-civ-spouse, race=White, sex=Male",3,17997,0.3684738544695139
+"hours-per-week=normal, native-country=United-States, workclass=Private",3,17889,0.3662626428074198
+"age=middle, workclass=Private",2,17860,0.3656688915277835
+"race=White, relationship=Husband",2,17858,0.3656279431636706
+"marital-status=Married-civ-spouse, native-country=United-States, sex=Male",3,17857,0.36560746898161417
+"race=White, relationship=Husband, sex=Male",3,17857,0.36560746898161417
+"capital-loss=zero, hours-per-week=normal, sex=Male",3,17852,0.365505098071332
+"marital-status=Married-civ-spouse, race=White, relationship=Husband",3,17848,0.36542320134310635
+"native-country=United-States, relationship=Husband",2,17733,0.3630686704066173
+"native-country=United-States, relationship=Husband, sex=Male",3,17732,0.3630481962245608
+"marital-status=Married-civ-spouse, native-country=United-States, relationship=Husband",3,17721,0.36282298022194015
+"capital-gain=zero, marital-status=Married-civ-spouse, race=White",3,17614,0.3606322427419025
+"age=middle, capital-loss=zero, income=<=50K",3,17578,0.3598951721878711
+"hours-per-week=normal, income=<=50K, race=White",3,17575,0.35983374964170184
+"capital-gain=zero, marital-status=Married-civ-spouse, native-country=United-States",3,17571,0.3597518529134761
+"capital-gain=zero, marital-status=Married-civ-spouse, sex=Male",3,17519,0.35868719544654193
+"age=middle, capital-gain=zero, income=<=50K",3,17407,0.3563940870562221
+"capital-gain=zero, relationship=Husband",2,17350,0.3552270586790058
+"capital-gain=zero, relationship=Husband, sex=Male",3,17349,0.35520658449694936
+"capital-gain=zero, marital-status=Married-civ-spouse, relationship=Husband",3,17339,0.35500184267638507
+"capital-gain=zero, hours-per-week=normal, sex=Male",3,17166,0.35145980918062325
+"hours-per-week=normal, race=White, workclass=Private",3,17160,0.3513369640882847
+"age=middle, sex=Male",2,17084,0.34978092625199625
+"age=middle, capital-loss=zero, workclass=Private",3,17003,0.34812251750542567
+"capital-loss=zero, race=White, relationship=Husband",3,16710,0.34212358216289257
+"hours-per-week=normal, native-country=United-States, sex=Male",3,16646,0.34081323451128126
+"capital-loss=zero, native-country=United-States, relationship=Husband",3,16587,0.3396052577699521
+"native-country=United-States, race=White, relationship=Husband",3,16531,0.3384587035747922
+"age=middle, capital-gain=zero, workclass=Private",3,16418,0.33614512100241595
+"hours-per-week=normal, race=White, sex=Male",3,16246,0.33262356168871055
+sex=Female,1,16192,0.33151795585766347
+"age=middle, capital-loss=zero, sex=Male",3,16141,0.3304737725727857
+marital-status=Never-married,1,16117,0.32998239220343145
+"hours-per-week=normal, income=<=50K, workclass=Private",3,16112,0.32988002129314936
+"capital-gain=zero, capital-loss=zero, relationship=Husband",3,16091,0.32945006346996436
+"income=<=50K, sex=Male, workclass=Private",3,16015,0.3278940256336759
+"age=middle, income=<=50K, native-country=United-States",3,15992,0.32742311944637814
+education-num=9,1,15784,0.32316448957864136
+education=HS-grad,1,15784,0.32316448957864136
+"education-num=9, education=HS-grad",2,15784,0.32316448957864136
+"age=middle, native-country=United-States, workclass=Private",3,15743,0.32232504811432783
+"capital-gain=zero, race=White, relationship=Husband",3,15691,0.32126039064739365
+"capital-loss=zero, sex=Female",2,15638,0.320175258998403
+"capital-loss=zero, marital-status=Never-married",2,15629,0.31999099135989517
+"capital-gain=zero, native-country=United-States, relationship=Husband",3,15582,0.31902870480324313
+"age=middle, capital-gain=zero, sex=Male",3,15521,0.3177797796978011
+"capital-gain=zero, marital-status=Never-married",2,15440,0.3161213709512305
+"income=<=50K, marital-status=Never-married",2,15384,0.3149748167560706
+"capital-gain=zero, sex=Female",2,15254,0.31231317308873513
+"capital-loss=zero, education=HS-grad",2,15195,0.3111051963474059
+"capital-loss=zero, education-num=9",2,15195,0.3111051963474059
+"capital-loss=zero, education-num=9, education=HS-grad",3,15195,0.3111051963474059
+"age=middle, hours-per-week=normal",2,15191,0.31102329961918024
+"age=middle, native-country=United-States, sex=Male",3,15134,0.3098562712419639
+"age=middle, race=White, workclass=Private",3,15114,0.3094467876008353
+"capital-loss=zero, income=<=50K, marital-status=Never-married",3,14961,0.30631423774620203
+"capital-gain=zero, capital-loss=zero, marital-status=Never-married",3,14952,0.3061299701076942
+"capital-gain=zero, income=<=50K, marital-status=Never-married",3,14929,0.3056590639203964
+"age=middle, income=<=50K, race=White",3,14912,0.3053110028254371
+"age=middle, race=White, sex=Male",3,14894,0.3049424675484214
+"capital-gain=zero, education=HS-grad",2,14755,0.3020965562425781
+"capital-gain=zero, education-num=9, education=HS-grad",3,14755,0.3020965562425781
+"capital-gain=zero, education-num=9",2,14755,0.3020965562425781
+"capital-gain=zero, capital-loss=zero, sex=Female",3,14700,0.30097047622947465
+"native-country=United-States, sex=Female",2,14609,0.2991073256623398
+"education-num=9, native-country=United-States",2,14570,0.29830883256213914
+"education-num=9, education=HS-grad, native-country=United-States",3,14570,0.29830883256213914
+"education=HS-grad, native-country=United-States",2,14570,0.29830883256213914
+"marital-status=Never-married, native-country=United-States",2,14481,0.29648663035911715
+"age=middle, capital-loss=zero, hours-per-week=normal",3,14481,0.29648663035911715
+"marital-status=Married-civ-spouse, workclass=Private",2,14473,0.29632283690266575
+"income=<=50K, sex=Female",2,14423,0.2952991277998444
+"capital-gain=zero, capital-loss=zero, education=HS-grad",3,14166,0.2900372630113427
+"capital-gain=zero, capital-loss=zero, education-num=9",3,14166,0.2900372630113427
+"capital-loss=zero, native-country=United-States, sex=Female",3,14101,0.28870644117767497
+"age=middle, capital-gain=zero, hours-per-week=normal",3,14067,0.2880103189877564
+"capital-loss=zero, marital-status=Never-married, native-country=United-States",3,14036,0.2873756193440072
+"capital-loss=zero, income=<=50K, sex=Female",3,14028,0.2872118258875558
+"capital-loss=zero, education-num=9, native-country=United-States",3,14013,0.2869047131567094
+"capital-loss=zero, education=HS-grad, native-country=United-States",3,14013,0.2869047131567094
+"capital-gain=zero, income=<=50K, sex=Female",3,13896,0.28450923385610744
+"capital-gain=zero, marital-status=Never-married, native-country=United-States",3,13857,0.2837107407559068
+"income=<=50K, marital-status=Never-married, native-country=United-States",3,13819,0.2829327218377626
+"capital-gain=zero, native-country=United-States, sex=Female",3,13742,0.2813562098194177
+"hours-per-week=normal, sex=Male, workclass=Private",3,13701,0.2805167683551042
+"capital-gain=zero, education-num=9, native-country=United-States",3,13613,0.27871504033413863
+"capital-gain=zero, education=HS-grad, native-country=United-States",3,13613,0.27871504033413863
+"capital-loss=zero, marital-status=Married-civ-spouse, workclass=Private",3,13599,0.27842840178534867
+"age=middle, hours-per-week=normal, native-country=United-States",3,13415,0.27466115228696614
+"hours-per-week=normal, income=<=50K, sex=Male",3,13396,0.274272142827894
+"education-num=9, race=White",2,13387,0.2740878751893862
+"education=HS-grad, race=White",2,13387,0.2740878751893862
+"education-num=9, education=HS-grad, race=White",3,13387,0.2740878751893862
+"age=middle, income=<=50K, workclass=Private",3,13369,0.2737193399123705
+"education=HS-grad, income=<=50K",2,13281,0.27191761189140495
+"education-num=9, education=HS-grad, income=<=50K",3,13281,0.27191761189140495
+"education-num=9, income=<=50K",2,13281,0.27191761189140495
+"marital-status=Never-married, race=White",2,13218,0.27062773842185006
+"race=White, sex=Female",2,13027,0.2667171696490725
+"income=<=50K, native-country=United-States, sex=Female",3,12996,0.2660824700053233
+"hours-per-week=normal, marital-status=Married-civ-spouse",2,12962,0.26538634781540477
+"marital-status=Married-civ-spouse, race=White, workclass=Private",3,12941,0.2649563899922198
+"capital-loss=zero, education=HS-grad, income=<=50K",3,12896,0.2640350517996806
+"capital-loss=zero, education-num=9, income=<=50K",3,12896,0.2640350517996806
+"marital-status=Married-civ-spouse, sex=Male, workclass=Private",3,12878,0.26366651652266493
+"capital-loss=zero, education=HS-grad, race=White",3,12871,0.26352319724826995
+"capital-loss=zero, education-num=9, race=White",3,12871,0.26352319724826995
+"capital-gain=zero, marital-status=Married-civ-spouse, workclass=Private",3,12825,0.2625813848736743
+"capital-loss=zero, marital-status=Never-married, race=White",3,12807,0.26221284959665864
+"marital-status=Married-civ-spouse, native-country=United-States, workclass=Private",3,12805,0.26217190123254575
+"relationship=Husband, workclass=Private",2,12746,0.2609639244912166
+"relationship=Husband, sex=Male, workclass=Private",3,12745,0.26094345030916016
+age=older,1,12741,0.26086155358093444
+"marital-status=Married-civ-spouse, relationship=Husband, workclass=Private",3,12738,0.2608001310347652
+"capital-gain=zero, education=HS-grad, income=<=50K",3,12708,0.26018590557307236
+"capital-gain=zero, education-num=9, income=<=50K",3,12708,0.26018590557307236
+"capital-gain=zero, marital-status=Never-married, race=White",3,12662,0.25924409319847674
+"education-num=9, native-country=United-States, race=White",3,12593,0.2578313746365833
+"education=HS-grad, native-country=United-States, race=White",3,12593,0.2578313746365833
+relationship=Not-in-family,1,12583,0.257626632816019
+"income=<=50K, marital-status=Never-married, race=White",3,12571,0.25738094263134187
+"capital-loss=zero, race=White, sex=Female",3,12565,0.2572580975390033
+"age=middle, hours-per-week=normal, race=White",3,12497,0.25586585315916627
+"capital-gain=zero, education-num=9, race=White",3,12468,0.2552721018795299
+"capital-gain=zero, education=HS-grad, race=White",3,12468,0.2552721018795299
+"age=middle, marital-status=Married-civ-spouse",2,12437,0.2546374022357807
+"income=<=50K, marital-status=Married-civ-spouse",2,12395,0.25377748658941074
+"age=middle, sex=Male, workclass=Private",3,12299,0.2518119651119938
+"marital-status=Never-married, workclass=Private",2,12243,0.25066541091683386
+"capital-gain=zero, race=White, sex=Female",3,12234,0.25048114327832605
+"education-num=9, income=<=50K, native-country=United-States",3,12218,0.2501535563654232
+"education=HS-grad, income=<=50K, native-country=United-States",3,12218,0.2501535563654232
+"capital-loss=zero, hours-per-week=normal, marital-status=Married-civ-spouse",3,12210,0.2499897629089718
+"marital-status=Never-married, native-country=United-States, race=White",3,12182,0.24941648581139184
+"capital-loss=zero, relationship=Not-in-family",2,12065,0.2470210065107899
+"native-country=United-States, race=White, sex=Female",3,12043,0.2465705745055485
+"age=older, capital-loss=zero",2,12009,0.24587445231563
+"capital-loss=zero, income=<=50K, marital-status=Married-civ-spouse",3,11986,0.24540354612833218
+"capital-loss=zero, relationship=Husband, workclass=Private",3,11963,0.24493263994103437
+"capital-loss=zero, marital-status=Never-married, workclass=Private",3,11905,0.2437451373817616
+"income=<=50K, marital-status=Never-married, workclass=Private",3,11755,0.24067401007329758
+"capital-gain=zero, relationship=Not-in-family",2,11750,0.24057163916301544
+"capital-gain=zero, marital-status=Never-married, workclass=Private",3,11747,0.24051021661684616
+"capital-gain=zero, income=<=50K, marital-status=Married-civ-spouse",3,11704,0.2396298267884198
+"age=middle, hours-per-week=normal, income=<=50K",3,11694,0.23942508496785553
+income=>50K,1,11687,0.23928176569346055
+"education=HS-grad, workclass=Private",2,11682,0.2391793947831784
+"education-num=9, workclass=Private",2,11682,0.2391793947831784
+"education-num=9, education=HS-grad, workclass=Private",3,11682,0.2391793947831784
+"age=middle, income=<=50K, sex=Male",3,11676,0.23905654969083986
+"age=middle, capital-loss=zero, marital-status=Married-civ-spouse",3,11654,0.23860611768559847
+"sex=Female, workclass=Private",2,11599,0.23748003767249498
+"hours-per-week=normal, marital-status=Married-civ-spouse, sex=Male",3,11594,0.23737766676221286
+"capital-gain=zero, hours-per-week=normal, marital-status=Married-civ-spouse",3,11557,0.23662012202612506
+"race=White, relationship=Husband, workclass=Private",3,11526,0.23598542238237583
+"age=middle, hours-per-week=normal, workclass=Private",3,11525,0.2359649482003194
+"age=older, native-country=United-States",2,11500,0.23545309364890873
+"income=<=50K, race=White, sex=Female",3,11485,0.23514598091806233
+"hours-per-week=normal, relationship=Husband",2,11473,0.2349002907333852
+"hours-per-week=normal, relationship=Husband, sex=Male",3,11472,0.23487981655132878
+"hours-per-week=normal, marital-status=Married-civ-spouse, relationship=Husband",3,11468,0.23479791982310308
+"hours-per-week=normal, marital-status=Married-civ-spouse, native-country=United-States",3,11451,0.2344498587281438
+"native-country=United-States, relationship=Not-in-family",2,11416,0.23373326235616887
+"hours-per-week=normal, marital-status=Married-civ-spouse, race=White",3,11407,0.23354899471766102
+"native-country=United-States, relationship=Husband, workclass=Private",3,11360,0.23258670816100896
+"age=older, capital-gain=zero",2,11330,0.23197248269931617
+"income=<=50K, relationship=Not-in-family",2,11307,0.23150157651201833
+"capital-gain=zero, relationship=Husband, workclass=Private",3,11291,0.2311739895991155
+"capital-loss=zero, education-num=9, workclass=Private",3,11276,0.23086687686826912
+"capital-loss=zero, education=HS-grad, workclass=Private",3,11276,0.23086687686826912
+"capital-gain=zero, capital-loss=zero, relationship=Not-in-family",3,11232,0.22996601285778634
+"capital-loss=zero, sex=Female, workclass=Private",3,11227,0.2298636419475042
+"age=older, race=White",2,11096,0.2271815240981123
+"education-num=9, income=<=50K, race=White",3,11086,0.226976782277548
+"education=HS-grad, income=<=50K, race=White",3,11086,0.226976782277548
+"age=middle, capital-gain=zero, marital-status=Married-civ-spouse",3,11082,0.2268948855493223
+"age=middle, marital-status=Married-civ-spouse, race=White",3,11055,0.2263420826337988
+"income=<=50K, marital-status=Married-civ-spouse, sex=Male",3,11026,0.2257483313541624
+"age=middle, marital-status=Married-civ-spouse, native-country=United-States",3,11009,0.22540027025920314
+"capital-gain=zero, sex=Female, workclass=Private",3,11004,0.225297899348921
+"capital-gain=zero, education=HS-grad, workclass=Private",3,10979,0.22478604479751033
+"capital-gain=zero, education-num=9, workclass=Private",3,10979,0.22478604479751033
+"income=<=50K, marital-status=Married-civ-spouse, race=White",3,10952,0.22423324188198682
+"capital-loss=zero, native-country=United-States, relationship=Not-in-family",3,10935,0.22388518078702757
+"age=middle, marital-status=Married-civ-spouse, sex=Male",3,10927,0.22372138733057614
+"marital-status=Never-married, native-country=United-States, workclass=Private",3,10892,0.2230047909586012
+"capital-loss=zero, income=<=50K, relationship=Not-in-family",3,10892,0.2230047909586012
+education=Some-college,1,10878,0.22271815240981122
+"education-num=10, education=Some-college",2,10878,0.22271815240981122
+education-num=10,1,10878,0.22271815240981122
+"income=<=50K, relationship=Husband",2,10870,0.22255435895335982
+"income=<=50K, relationship=Husband, sex=Male",3,10869,0.2225338847713034
+"income=<=50K, marital-status=Married-civ-spouse, native-country=United-States",3,10862,0.2223905654969084
+"income=<=50K, marital-status=Married-civ-spouse, relationship=Husband",3,10862,0.2223905654969084
+"capital-gain=zero, income=<=50K, relationship=Not-in-family",3,10846,0.22206297858400556
+"age=older, capital-loss=zero, native-country=United-States",3,10829,0.22171491748904631
+"age=middle, relationship=Husband",2,10817,0.2214692273043692
+"age=middle, relationship=Husband, sex=Male",3,10816,0.22144875312231277
+"age=middle, marital-status=Married-civ-spouse, relationship=Husband",3,10806,0.2212440113017485
+"race=White, relationship=Not-in-family",2,10805,0.22122353711969206
+"capital-loss=zero, hours-per-week=normal, relationship=Husband",3,10799,0.2211006920273535
+"education-num=9, native-country=United-States, workclass=Private",3,10735,0.21979034437574219
+"education=HS-grad, native-country=United-States, workclass=Private",3,10735,0.21979034437574219
+"income=>50K, native-country=United-States",2,10694,0.21895090291142869
+"education-num=9, sex=Male",2,10687,0.2188075836370337
+"education-num=9, education=HS-grad, sex=Male",3,10687,0.2188075836370337
+"education=HS-grad, sex=Male",2,10687,0.2188075836370337
+"capital-gain=zero, native-country=United-States, relationship=Not-in-family",3,10640,0.21784529708038164
+"income=>50K, race=White",2,10607,0.21716964907251957
+"age=older, capital-gain=zero, capital-loss=zero",3,10598,0.21698538143401172
+"capital-loss=zero, income=>50K",2,10543,0.21585930142090823
+"income=<=50K, sex=Female, workclass=Private",3,10504,0.2150608083207076
+"capital-loss=zero, income=<=50K, relationship=Husband",3,10504,0.2150608083207076
+"capital-loss=zero, education-num=10, education=Some-college",3,10438,0.21370951230498342
+"capital-loss=zero, education-num=10",2,10438,0.21370951230498342
+"capital-loss=zero, education=Some-college",2,10438,0.21370951230498342
+"age=older, capital-loss=zero, race=White",3,10433,0.21360714139470127
+"native-country=United-States, sex=Female, workclass=Private",3,10392,0.21276769993038777
+"age=middle, hours-per-week=normal, sex=Male",3,10360,0.21211252610458212
+"capital-loss=zero, race=White, relationship=Not-in-family",3,10345,0.2118054133737357
+hours-per-week=low,1,10332,0.21153924900700216
+"capital-gain=zero, income=<=50K, relationship=Husband",3,10272,0.21031079808361655
+"age=older, native-country=United-States, race=White",3,10252,0.20990131444248802
+"income=<=50K, native-country=United-States, relationship=Not-in-family",3,10248,0.20981941771426232
+"capital-loss=zero, education-num=9, sex=Male",3,10245,0.20975799516809304
+"capital-loss=zero, education=HS-grad, sex=Male",3,10245,0.20975799516809304
+"capital-gain=zero, hours-per-week=normal, relationship=Husband",3,10240,0.2096556242578109
+"age=older, capital-gain=zero, native-country=United-States",3,10213,0.2091028213422874
+"hours-per-week=normal, race=White, relationship=Husband",3,10202,0.20887760533966668
+"hours-per-week=normal, native-country=United-States, relationship=Husband",3,10194,0.20871381188321528
+"capital-gain=zero, education-num=10",2,10179,0.20840669915236887
+"capital-gain=zero, education=Some-college",2,10179,0.20840669915236887
+"capital-gain=zero, education-num=10, education=Some-college",3,10179,0.20840669915236887
+"age=middle, capital-loss=zero, relationship=Husband",3,10141,0.20762868023422465
+"marital-status=Never-married, race=White, workclass=Private",3,10134,0.20748536095982967
+"education=Some-college, native-country=United-States",2,10094,0.20666639367757259
+"education-num=10, education=Some-college, native-country=United-States",3,10094,0.20666639367757259
+"education-num=10, native-country=United-States",2,10094,0.20666639367757259
+"capital-gain=zero, race=White, relationship=Not-in-family",3,10079,0.20635928094672618
+"native-country=United-States, race=White, relationship=Not-in-family",3,10030,0.20535604602596128
+"capital-loss=zero, hours-per-week=low",2,10025,0.20525367511567913
+"income=>50K, native-country=United-States, race=White",3,9992,0.20457802710781706
+"income=>50K, marital-status=Married-civ-spouse",2,9984,0.20441423365136563
+"education=HS-grad, income=<=50K, workclass=Private",3,9983,0.2043937594693092
+"education-num=9, income=<=50K, workclass=Private",3,9983,0.2043937594693092
+"income=>50K, sex=Male",2,9918,0.20306293763564146
+"education-num=9, race=White, workclass=Private",3,9907,0.20283772163302077
+"education=HS-grad, race=White, workclass=Private",3,9907,0.20283772163302077
+"capital-gain=zero, education=HS-grad, sex=Male",3,9898,0.20265345399451293
+"capital-gain=zero, education-num=9, sex=Male",3,9898,0.20265345399451293
+"education-num=9, native-country=United-States, sex=Male",3,9888,0.20244871217394866
+"education=HS-grad, native-country=United-States, sex=Male",3,9888,0.20244871217394866
+"age=older, capital-gain=zero, race=White",3,9831,0.2012816837967323
+"education=HS-grad, hours-per-week=normal",2,9820,0.20105646779411163
+"education-num=9, education=HS-grad, hours-per-week=normal",3,9820,0.20105646779411163
+"education-num=9, hours-per-week=normal",2,9820,0.20105646779411163
+"capital-gain=zero, hours-per-week=low",2,9763,0.1998894394168953
+"income=<=50K, race=White, relationship=Husband",3,9751,0.19964374923221817
+"capital-gain=zero, capital-loss=zero, education-num=10",3,9739,0.19939805904754104
+"capital-gain=zero, capital-loss=zero, education=Some-college",3,9739,0.19939805904754104
+"age=middle, race=White, relationship=Husband",3,9738,0.19937758486548462
+"capital-loss=zero, education=Some-college, native-country=United-States",3,9687,0.19833340158060686
+"capital-loss=zero, education-num=10, native-country=United-States",3,9687,0.19833340158060686
+"income=<=50K, race=White, relationship=Not-in-family",3,9662,0.1978215470291962
+"age=middle, capital-gain=zero, relationship=Husband",3,9651,0.19759633102657548
+"capital-loss=zero, income=>50K, native-country=United-States",3,9645,0.19747348593423691
+"age=middle, native-country=United-States, relationship=Husband",3,9636,0.1972892182957291
+age=young,1,9627,0.19710495065722125
+"income=<=50K, native-country=United-States, relationship=Husband",3,9614,0.1968387862904877
+"capital-loss=zero, income=>50K, race=White",3,9562,0.1957741288235535
+"hours-per-week=low, income=<=50K",2,9468,0.19384955571024937
+"capital-loss=zero, education=HS-grad, hours-per-week=normal",3,9461,0.19370623643585438
+"capital-loss=zero, education-num=9, hours-per-week=normal",3,9461,0.19370623643585438
+"age=young, income=<=50K",2,9458,0.1936448138896851
+"capital-gain=zero, capital-loss=zero, hours-per-week=low",3,9456,0.19360386552557227
+"capital-gain=zero, education-num=10, native-country=United-States",3,9427,0.19301011424593587
+"capital-gain=zero, education=Some-college, native-country=United-States",3,9427,0.19301011424593587
+"race=White, sex=Female, workclass=Private",3,9422,0.19290774333565375
+"age=young, capital-loss=zero",2,9405,0.19255968224069447
+"education-num=9, race=White, sex=Male",3,9361,0.1916588182302117
+"education=HS-grad, race=White, sex=Male",3,9361,0.1916588182302117
+"age=young, capital-gain=zero",2,9348,0.19139265386347815
+"hours-per-week=low, native-country=United-States",2,9335,0.1911264894967446
+"education=Some-college, race=White",2,9289,0.19018467712214898
+"education-num=10, race=White",2,9289,0.19018467712214898
+"education-num=10, education=Some-college, race=White",3,9289,0.19018467712214898
+"age=young, capital-loss=zero, income=<=50K",3,9254,0.18946808075017402
+"capital-loss=zero, hours-per-week=low, income=<=50K",3,9244,0.18926333892960975
+"age=young, capital-gain=zero, income=<=50K",3,9222,0.18881290692436836
+"capital-gain=zero, education=HS-grad, hours-per-week=normal",3,9199,0.18834200073707055
+"capital-gain=zero, education-num=9, hours-per-week=normal",3,9199,0.18834200073707055
+"capital-gain=zero, income=>50K",2,9196,0.18828057819090127
+"income=>50K, marital-status=Married-civ-spouse, native-country=United-States",3,9141,0.1871544981777978
+"age=young, capital-gain=zero, capital-loss=zero",3,9126,0.1868473854469514
+"hours-per-week=normal, marital-status=Married-civ-spouse, workclass=Private",3,9122,0.1867654887187257
+"relationship=Not-in-family, workclass=Private",2,9115,0.1866221694443307
+"income=>50K, marital-status=Married-civ-spouse, race=White",3,9102,0.18635600507759714
+"capital-gain=zero, hours-per-week=low, income=<=50K",3,9099,0.18629458253142786
+"income=>50K, native-country=United-States, sex=Male",3,9081,0.1859260472544122
+"income=>50K, race=White, sex=Male",3,9065,0.18559846034150937
+"capital-loss=zero, hours-per-week=low, native-country=United-States",3,9053,0.18535277015683224
+hours-per-week=long,1,9025,0.1847794930592523
+"age=older, sex=Male",2,9019,0.18465664796691372
+"education-num=9, hours-per-week=normal, native-country=United-States",3,9019,0.18465664796691372
+"education=HS-grad, hours-per-week=normal, native-country=United-States",3,9019,0.18465664796691372
+"hours-per-week=normal, sex=Female",2,9007,0.1844109577822366
+"capital-loss=zero, income=>50K, marital-status=Married-civ-spouse",3,8982,0.18389910323082592
+"capital-loss=zero, income=>50K, sex=Male",3,8933,0.18289586831006102
+"capital-loss=zero, education-num=10, race=White",3,8901,0.18224069448425537
+"capital-loss=zero, education=Some-college, race=White",3,8901,0.18224069448425537
+"marital-status=Never-married, sex=Male",2,8899,0.1821997461201425
+"income=>50K, marital-status=Married-civ-spouse, sex=Male",3,8873,0.1816674173866754
+"income=>50K, relationship=Husband, sex=Male",3,8846,0.18111461447115187
+"income=>50K, relationship=Husband",2,8846,0.18111461447115187
+"income=>50K, marital-status=Married-civ-spouse, relationship=Husband",3,8842,0.18103271774292617
+"capital-gain=zero, hours-per-week=low, native-country=United-States",3,8819,0.18056181155562837
+"education-num=10, education=Some-college, income=<=50K",3,8815,0.18047991482740264
+"education-num=10, income=<=50K",2,8815,0.18047991482740264
+"education=Some-college, income=<=50K",2,8815,0.18047991482740264
+"education-num=10, native-country=United-States, race=White",3,8812,0.18041849228123336
+"education=Some-college, native-country=United-States, race=White",3,8812,0.18041849228123336
+"hours-per-week=low, race=White",2,8768,0.17951762827075057
+"capital-loss=zero, relationship=Not-in-family, workclass=Private",3,8763,0.17941525736046846
+"age=young, native-country=United-States",2,8742,0.17898529953728348
+"age=middle, marital-status=Married-civ-spouse, workclass=Private",3,8703,0.17818680643708285
+"capital-loss=zero, hours-per-week=normal, sex=Female",3,8689,0.17790016788829285
+"capital-gain=zero, education=Some-college, race=White",3,8669,0.17749068424716433
+"capital-gain=zero, education-num=10, race=White",3,8669,0.17749068424716433
+"capital-loss=zero, marital-status=Never-married, sex=Male",3,8621,0.17650792350845584
+"age=young, income=<=50K, native-country=United-States",3,8590,0.1758732238647066
+"hours-per-week=normal, marital-status=Never-married",2,8566,0.17538184349535235
+"capital-loss=zero, education=Some-college, income=<=50K",3,8554,0.17513615331067525
+"capital-loss=zero, education-num=10, income=<=50K",3,8554,0.17513615331067525
+"hours-per-week=low, income=<=50K, native-country=United-States",3,8544,0.17493141149011096
+"capital-gain=zero, relationship=Not-in-family, workclass=Private",3,8544,0.17493141149011096
+"age=young, capital-loss=zero, native-country=United-States",3,8535,0.17474714385160312
+"education=HS-grad, income=<=50K, sex=Male",3,8514,0.17431718602841817
+"education-num=9, income=<=50K, sex=Male",3,8514,0.17431718602841817
+"capital-gain=zero, hours-per-week=normal, sex=Female",3,8507,0.1741738667540232
+"capital-gain=zero, marital-status=Never-married, sex=Male",3,8507,0.1741738667540232
+"capital-loss=zero, hours-per-week=low, race=White",3,8501,0.17405102166168462
+"capital-gain=zero, education-num=10, income=<=50K",3,8494,0.17390770238728961
+"capital-gain=zero, education=Some-college, income=<=50K",3,8494,0.17390770238728961
+"age=young, capital-gain=zero, native-country=United-States",3,8483,0.17368248638466893
+"age=older, capital-loss=zero, sex=Male",3,8442,0.17284304492035543
+"capital-loss=zero, hours-per-week=long",2,8432,0.17263830309979117
+"income=<=50K, marital-status=Never-married, sex=Male",3,8425,0.1724949838253962
+"capital-gain=zero, income=>50K, native-country=United-States",3,8407,0.1721264485483805
+"capital-gain=zero, income=>50K, race=White",3,8359,0.171143687809672
+"capital-loss=zero, hours-per-week=normal, marital-status=Never-married",3,8291,0.16975144342983498
+"education=HS-grad, hours-per-week=normal, income=<=50K",3,8280,0.1695262274272143
+"education-num=9, hours-per-week=normal, income=<=50K",3,8280,0.1695262274272143
+"income=<=50K, relationship=Not-in-family, workclass=Private",3,8280,0.1695262274272143
+"hours-per-week=long, native-country=United-States",2,8278,0.16948527906310143
+"age=young, race=White",2,8263,0.16917816633225502
+"capital-gain=zero, hours-per-week=low, race=White",3,8259,0.16909626960402932
+"age=young, marital-status=Never-married",2,8229,0.1684820441423365
+"hours-per-week=long, race=White",2,8226,0.16842062159616722
+"native-country=United-States, relationship=Not-in-family, workclass=Private",3,8203,0.1679497154088694
+"capital-gain=zero, hours-per-week=normal, marital-status=Never-married",3,8200,0.16788829286270013
+"hours-per-week=normal, income=<=50K, marital-status=Never-married",3,8195,0.167785921952418
+"income=<=50K, marital-status=Married-civ-spouse, workclass=Private",3,8192,0.16772449940624873
+"age=older, native-country=United-States, sex=Male",3,8186,0.16760165431391016
+"education=HS-grad, hours-per-week=normal, race=White",3,8182,0.16751975758568446
+"education-num=9, hours-per-week=normal, race=White",3,8182,0.16751975758568446
+"age=young, income=<=50K, marital-status=Never-married",3,8175,0.16737643831128945
+"education=Some-college, income=<=50K, native-country=United-States",3,8155,0.16696695467016093
+"education-num=10, income=<=50K, native-country=United-States",3,8155,0.16696695467016093
+"income=>50K, native-country=United-States, relationship=Husband",3,8119,0.16622988411612957
+"hours-per-week=low, native-country=United-States, race=White",3,8118,0.16620940993407313
+"age=young, income=<=50K, race=White",3,8115,0.16614798738790384
+"income=>50K, race=White, relationship=Husband",3,8107,0.16598419393145245
+"age=older, race=White, sex=Male",3,8090,0.16563613283649317
+"age=older, income=<=50K",2,8090,0.16563613283649317
+"hours-per-week=normal, relationship=Husband, workclass=Private",3,8079,0.1654109168338725
+"age=young, capital-loss=zero, race=White",3,8073,0.16528807174153393
+"hours-per-week=normal, native-country=United-States, sex=Female",3,8067,0.16516522664919536
+"age=middle, education-num=9",2,8053,0.1648785881004054
+"age=middle, education=HS-grad",2,8053,0.1648785881004054
+"age=middle, education-num=9, education=HS-grad",3,8053,0.1648785881004054
+"capital-gain=zero, capital-loss=zero, income=>50K",3,8052,0.16485811391834895
+"age=young, capital-loss=zero, marital-status=Never-married",3,8044,0.16469432046189755
+"hours-per-week=normal, income=<=50K, sex=Female",3,8042,0.1646533720977847
+education=Bachelors,1,8025,0.16430531100282544
+"education-num=13, education=Bachelors",2,8025,0.16430531100282544
+"age=young, capital-gain=zero, race=White",3,8025,0.16430531100282544
+education-num=13,1,8025,0.16430531100282544
+"age=young, capital-gain=zero, marital-status=Never-married",3,8014,0.16408009500020473
+"capital-gain=zero, income=>50K, marital-status=Married-civ-spouse",3,7992,0.16362966299496334
+"hours-per-week=low, income=<=50K, race=White",3,7975,0.1632816019000041
+"capital-loss=zero, income=>50K, relationship=Husband",3,7953,0.1628311698947627
+"age=older, marital-status=Married-civ-spouse",2,7944,0.16264690225625486
+"marital-status=Never-married, native-country=United-States, sex=Male",3,7907,0.16188935752016706
+"race=White, relationship=Not-in-family, workclass=Private",3,7901,0.1617665124278285
+"capital-gain=zero, hours-per-week=long",2,7891,0.16156177060726423
+"age=older, capital-gain=zero, sex=Male",3,7865,0.16102944187379714
+"capital-gain=zero, income=>50K, sex=Male",3,7838,0.1604766389582736
+"age=older, capital-loss=zero, income=<=50K",3,7802,0.15973956840424225
+"education-num=9, sex=Male, workclass=Private",3,7759,0.15885917857581588
+"education=HS-grad, sex=Male, workclass=Private",3,7759,0.15885917857581588
+"age=middle, capital-loss=zero, education-num=9",3,7751,0.15869538511936448
+"age=middle, capital-loss=zero, education=HS-grad",3,7751,0.15869538511936448
+"age=older, workclass=Private",2,7749,0.15865443675525162
+"capital-loss=zero, hours-per-week=long, native-country=United-States",3,7732,0.15830637566029238
+"hours-per-week=long, native-country=United-States, race=White",3,7724,0.15814258220384095
+"age=older, capital-gain=zero, income=<=50K",3,7705,0.15775357274476884
+"capital-loss=zero, hours-per-week=long, race=White",3,7672,0.15707792473690677
+"age=young, native-country=United-States, race=White",3,7663,0.15689365709839892
+"education=HS-grad, hours-per-week=normal, workclass=Private",3,7649,0.15660701854960896
+"education-num=9, hours-per-week=normal, workclass=Private",3,7649,0.15660701854960896
+"age=older, hours-per-week=normal",2,7645,0.15652512182138323
+"age=middle, relationship=Husband, workclass=Private",3,7605,0.15570615453912617
+"hours-per-week=normal, marital-status=Never-married, native-country=United-States",3,7599,0.1555833094467876
+"age=middle, sex=Female",2,7587,0.15533761926211048
+relationship=Own-child,1,7581,0.15521477416977192
+"age=young, workclass=Private",2,7557,0.15472339380041766
+"age=middle, capital-gain=zero, education=HS-grad",3,7552,0.15462102289013555
+"age=middle, capital-gain=zero, education-num=9",3,7552,0.15462102289013555
+"education-num=10, education=Some-college, workclass=Private",3,7535,0.15427296179517627
+"education-num=10, workclass=Private",2,7535,0.15427296179517627
+"education=Some-college, workclass=Private",2,7535,0.15427296179517627
+"age=young, marital-status=Never-married, native-country=United-States",3,7506,0.1536792105155399
+"hours-per-week=long, sex=Male",2,7501,0.15357683960525778
+"capital-loss=zero, education=Bachelors",2,7494,0.15343352033086277
+"capital-loss=zero, education-num=13, education=Bachelors",3,7494,0.15343352033086277
+"capital-loss=zero, education-num=13",2,7494,0.15343352033086277
+"marital-status=Never-married, race=White, sex=Male",3,7471,0.15296261414356496
+"income=<=50K, relationship=Own-child",2,7470,0.15294213996150854
+"hours-per-week=normal, income=<=50K, marital-status=Married-civ-spouse",3,7436,0.15224601777159003
+"education=Some-college, income=<=50K, race=White",3,7433,0.15218459522542074
+"education-num=10, income=<=50K, race=White",3,7433,0.15218459522542074
+"age=young, income=<=50K, workclass=Private",3,7430,0.15212317267925146
+"age=older, capital-loss=zero, marital-status=Married-civ-spouse",3,7413,0.15177511158429222
+"age=young, capital-loss=zero, workclass=Private",3,7402,0.1515498955816715
+"capital-loss=zero, relationship=Own-child",2,7402,0.1515498955816715
+"age=middle, education-num=9, native-country=United-States",3,7396,0.15142705048933294
+"age=middle, education=HS-grad, native-country=United-States",3,7396,0.15142705048933294
+"income=>50K, workclass=Private",2,7387,0.1512427828508251
+"capital-gain=zero, relationship=Own-child",2,7358,0.15064903157118872
+"hours-per-week=normal, relationship=Not-in-family",2,7333,0.15013717701977805
+"age=middle, hours-per-week=normal, marital-status=Married-civ-spouse",3,7331,0.15009622865566521
+"age=young, capital-gain=zero, workclass=Private",3,7328,0.15003480610949593
+"age=older, capital-loss=zero, workclass=Private",3,7324,0.1499529093812702
+"age=middle, capital-loss=zero, sex=Female",3,7307,0.14960484828631096
+"capital-loss=zero, income=<=50K, relationship=Own-child",3,7300,0.14946152901191598
+"capital-gain=zero, capital-loss=zero, hours-per-week=long",3,7298,0.14942058064780311
+"capital-gain=zero, income=<=50K, relationship=Own-child",3,7283,0.1491134679169567
+"capital-gain=zero, hours-per-week=long, native-country=United-States",3,7251,0.14845829409115105
+"age=older, marital-status=Married-civ-spouse, sex=Male",3,7250,0.14843781990909463
+"capital-loss=zero, education=Some-college, workclass=Private",3,7248,0.14839687154498177
+"capital-loss=zero, education-num=10, workclass=Private",3,7248,0.14839687154498177
+"education=HS-grad, marital-status=Married-civ-spouse",2,7243,0.14829450063469965
+"education-num=9, marital-status=Married-civ-spouse",2,7243,0.14829450063469965
+"education-num=9, education=HS-grad, marital-status=Married-civ-spouse",3,7243,0.14829450063469965
+"age=older, capital-loss=zero, hours-per-week=normal",3,7236,0.14815118136030467
+"age=older, relationship=Husband, sex=Male",3,7228,0.14798738790385324
+"age=older, relationship=Husband",2,7228,0.14798738790385324
+"age=older, marital-status=Married-civ-spouse, relationship=Husband",3,7227,0.14796691372179682
+"age=older, income=<=50K, native-country=United-States",3,7220,0.1478235944474018
+"marital-status=Never-married, sex=Female",2,7218,0.14778264608328898
+"age=older, marital-status=Married-civ-spouse, native-country=United-States",3,7190,0.14720936898570902
+"education-num=13, education=Bachelors, native-country=United-States",3,7184,0.14708652389337046
+"education-num=13, native-country=United-States",2,7184,0.14708652389337046
+"education=Bachelors, native-country=United-States",2,7184,0.14708652389337046
+"capital-gain=zero, hours-per-week=long, race=White",3,7183,0.14706604971131404
+"capital-gain=zero, capital-loss=zero, relationship=Own-child",3,7179,0.1469841529830883
+"age=older, marital-status=Married-civ-spouse, race=White",3,7173,0.14686130789074978
+"income=<=50K, relationship=Husband, workclass=Private",3,7154,0.14647229843167767
+"marital-status=Never-married, relationship=Not-in-family",2,7114,0.14565333114942058
+"age=middle, capital-gain=zero, sex=Female",3,7103,0.14542811514679987
+"capital-gain=zero, education-num=13, education=Bachelors",3,7091,0.14518242496212277
+"capital-gain=zero, education=Bachelors",2,7091,0.14518242496212277
+"capital-gain=zero, education-num=13",2,7091,0.14518242496212277
+"capital-gain=zero, income=>50K, relationship=Husband",3,7078,0.1449162605953892
+"capital-gain=zero, education-num=10, workclass=Private",3,7057,0.14448630277220426
+"capital-gain=zero, education=Some-college, workclass=Private",3,7057,0.14448630277220426
+"education=Bachelors, race=White",2,7034,0.14401539658490645
+"education-num=13, race=White",2,7034,0.14401539658490645
+"age=young, marital-status=Never-married, race=White",3,7034,0.14401539658490645
+"education-num=13, education=Bachelors, race=White",3,7034,0.14401539658490645
+"native-country=United-States, relationship=Own-child",2,7032,0.14397444822079358
+"capital-loss=zero, hours-per-week=normal, relationship=Not-in-family",3,7019,0.14370828385406004
+"hours-per-week=normal, race=White, sex=Female",3,7008,0.14348306785143933
+"capital-loss=zero, marital-status=Never-married, sex=Female",3,7008,0.14348306785143933
+"capital-loss=zero, hours-per-week=long, sex=Male",3,6969,0.1426845747512387
+"age=older, capital-gain=zero, workclass=Private",3,6962,0.1425412554768437
+"income=<=50K, marital-status=Never-married, sex=Female",3,6959,0.14247983293067443
+"education-num=10, native-country=United-States, workclass=Private",3,6945,0.14219319438188444
+"education=Some-college, native-country=United-States, workclass=Private",3,6945,0.14219319438188444
+"income=<=50K, native-country=United-States, relationship=Own-child",3,6933,0.1419475041972073
+"capital-gain=zero, marital-status=Never-married, sex=Female",3,6933,0.1419475041972073
+"hours-per-week=long, race=White, sex=Male",3,6924,0.1417632365586995
+"age=older, native-country=United-States, workclass=Private",3,6903,0.14133327873551452
+"capital-loss=zero, education-num=9, marital-status=Married-civ-spouse",3,6900,0.14127185618934524
+"capital-loss=zero, education=HS-grad, marital-status=Married-civ-spouse",3,6900,0.14127185618934524
+"age=middle, income=<=50K, marital-status=Married-civ-spouse",3,6898,0.14123090782523237
+"hours-per-week=long, native-country=United-States, sex=Male",3,6898,0.14123090782523237
+"capital-gain=zero, hours-per-week=normal, relationship=Not-in-family",3,6880,0.1408623725482167
+"age=older, capital-gain=zero, hours-per-week=normal",3,6871,0.14067810490970886
+"age=older, hours-per-week=normal, native-country=United-States",3,6866,0.14057573399942672
+"capital-loss=zero, native-country=United-States, relationship=Own-child",3,6865,0.1405552598173703
+"age=older, capital-gain=zero, marital-status=Married-civ-spouse",3,6862,0.14049383727120102
+"age=middle, marital-status=Never-married",2,6851,0.1402686212685803
+"age=older, income=<=50K, race=White",3,6839,0.1400229310839032
+"capital-loss=zero, marital-status=Never-married, relationship=Not-in-family",3,6831,0.13985913762745178
+"age=young, native-country=United-States, workclass=Private",3,6829,0.13981818926333894
+"capital-gain=zero, native-country=United-States, relationship=Own-child",3,6823,0.13969534417100038
+"hours-per-week=normal, marital-status=Never-married, race=White",3,6822,0.13967486998894393
+"age=middle, native-country=United-States, sex=Female",3,6790,0.13901969616313828
+"marital-status=Never-married, sex=Male, workclass=Private",3,6783,0.1388763768887433
+"age=middle, education-num=9, income=<=50K",3,6771,0.13863068670406617
+"age=middle, education=HS-grad, income=<=50K",3,6771,0.13863068670406617
+"income=>50K, native-country=United-States, workclass=Private",3,6765,0.1385078416117276
+"marital-status=Never-married, relationship=Own-child",2,6750,0.1382007288808812
+"hours-per-week=low, workclass=Private",2,6750,0.1382007288808812
+"education-num=9, hours-per-week=normal, sex=Male",3,6746,0.1381188321526555
+"education=HS-grad, hours-per-week=normal, sex=Male",3,6746,0.1381188321526555
+"income=>50K, race=White, workclass=Private",3,6742,0.1380369354244298
+"age=older, capital-loss=zero, relationship=Husband",3,6737,0.13793456451414765
+"hours-per-week=normal, income=<=50K, relationship=Not-in-family",3,6725,0.13768887432947055
+"age=older, race=White, workclass=Private",3,6722,0.13762745178330127
+"age=middle, education=HS-grad, race=White",3,6721,0.13760697760124482
+"age=middle, education-num=9, race=White",3,6721,0.13760697760124482
+"relationship=Not-in-family, sex=Male",2,6713,0.13744318414479342
+"capital-loss=zero, education-num=13, native-country=United-States",3,6704,0.13725891650628558
+"capital-loss=zero, education=Bachelors, native-country=United-States",3,6704,0.13725891650628558
+"education-num=10, education=Some-college, sex=Male",3,6700,0.13717701977805988
+"education-num=10, sex=Male",2,6700,0.13717701977805988
+"education=Some-college, sex=Male",2,6700,0.13717701977805988
+"education=HS-grad, marital-status=Married-civ-spouse, native-country=United-States",3,6694,0.13705417468572131
+"education-num=9, marital-status=Married-civ-spouse, native-country=United-States",3,6694,0.13705417468572131
+"capital-gain=zero, marital-status=Never-married, relationship=Not-in-family",3,6693,0.13703370050366487
+"income=<=50K, marital-status=Never-married, relationship=Own-child",3,6684,0.13684943286515705
+"capital-loss=zero, income=>50K, workclass=Private",3,6673,0.13662421686253634
+"hours-per-week=normal, sex=Female, workclass=Private",3,6667,0.13650137177019778
+"hours-per-week=normal, native-country=United-States, relationship=Not-in-family",3,6648,0.13611236231112567
+"age=middle, relationship=Not-in-family",2,6642,0.1359895172187871
+marital-status=Divorced,1,6633,0.13580524958027926
+"hours-per-week=normal, marital-status=Never-married, workclass=Private",3,6625,0.13564145612382786
+"age=middle, capital-loss=zero, marital-status=Never-married",3,6600,0.13512960157241719
+"capital-loss=zero, marital-status=Never-married, relationship=Own-child",3,6597,0.1350681790262479
+"hours-per-week=normal, income=<=50K, relationship=Husband",3,6595,0.13502723066213504
+"education-num=13, native-country=United-States, race=White",3,6586,0.1348429630236272
+"education=Bachelors, native-country=United-States, race=White",3,6586,0.1348429630236272
+"capital-gain=zero, education-num=9, marital-status=Married-civ-spouse",3,6575,0.1346177470210065
+"capital-gain=zero, education=HS-grad, marital-status=Married-civ-spouse",3,6575,0.1346177470210065
+"marital-status=Never-married, native-country=United-States, sex=Female",3,6574,0.1345972728389501
+"capital-loss=zero, hours-per-week=low, workclass=Private",3,6573,0.13457679865689365
+"age=older, race=White, relationship=Husband",3,6571,0.1345358502927808
+"age=older, native-country=United-States, relationship=Husband",3,6571,0.1345358502927808
+"capital-gain=zero, marital-status=Never-married, relationship=Own-child",3,6569,0.13449490192866795
+"capital-gain=zero, capital-loss=zero, education=Bachelors",3,6560,0.1343106342901601
+"capital-gain=zero, capital-loss=zero, education-num=13",3,6560,0.1343106342901601
+"capital-loss=zero, education=Bachelors, race=White",3,6557,0.13424921174399082
+"capital-loss=zero, education-num=13, race=White",3,6557,0.13424921174399082
+"age=young, race=White, workclass=Private",3,6535,0.13379877973874943
+"capital-gain=zero, hours-per-week=long, sex=Male",3,6528,0.13365546046435445
+"age=older, hours-per-week=normal, race=White",3,6520,0.13349166700790305
+"age=middle, income=>50K",2,6510,0.13328692518733876
+"education-num=9, marital-status=Married-civ-spouse, race=White",3,6499,0.13306170918471807
+"education=HS-grad, marital-status=Married-civ-spouse, race=White",3,6499,0.13306170918471807
+"income=<=50K, marital-status=Never-married, relationship=Not-in-family",3,6486,0.13279554481798453
+"age=middle, income=<=50K, sex=Female",3,6485,0.13277507063592808
+"age=middle, capital-gain=zero, marital-status=Never-married",3,6471,0.13248843208713812
+"education=Some-college, race=White, workclass=Private",3,6470,0.1324679579050817
+"education-num=10, race=White, workclass=Private",3,6470,0.1324679579050817
+"education=HS-grad, marital-status=Married-civ-spouse, sex=Male",3,6446,0.13197657753572745
+"education-num=9, marital-status=Married-civ-spouse, sex=Male",3,6446,0.13197657753572745
+"age=middle, hours-per-week=normal, relationship=Husband",3,6437,0.1317923098972196
+"capital-gain=zero, hours-per-week=low, workclass=Private",3,6437,0.1317923098972196
+"capital-loss=zero, relationship=Not-in-family, sex=Male",3,6412,0.13128045534580893
+"age=young, marital-status=Never-married, workclass=Private",3,6408,0.13119855861758323
+"marital-status=Never-married, native-country=United-States, relationship=Not-in-family",3,6405,0.13113713607141395
+"education=HS-grad, relationship=Husband",2,6388,0.1307890749764547
+"education-num=9, education=HS-grad, relationship=Husband",3,6388,0.1307890749764547
+"education-num=9, relationship=Husband",2,6388,0.1307890749764547
+"education=HS-grad, relationship=Husband, sex=Male",3,6387,0.13076860079439825
+"education-num=9, relationship=Husband, sex=Male",3,6387,0.13076860079439825
+"education-num=9, marital-status=Married-civ-spouse, relationship=Husband",3,6382,0.13066622988411614
+"education=HS-grad, marital-status=Married-civ-spouse, relationship=Husband",3,6382,0.13066622988411614
+"capital-loss=zero, marital-status=Divorced",2,6377,0.130563858973834
+"capital-loss=zero, education-num=10, sex=Male",3,6375,0.13052291060972115
+"capital-loss=zero, education=Some-college, sex=Male",3,6375,0.13052291060972115
+"hours-per-week=normal, income=>50K",2,6371,0.13044101388149543
+"race=White, relationship=Own-child",2,6369,0.1304000655173826
+"hours-per-week=low, income=<=50K, workclass=Private",3,6349,0.12999058187625404
+"age=middle, capital-loss=zero, relationship=Not-in-family",3,6343,0.12986773678391547
+"capital-gain=zero, education-num=13, native-country=United-States",3,6333,0.1296629949633512
+"capital-gain=zero, education=Bachelors, native-country=United-States",3,6333,0.1296629949633512
+"age=middle, income=<=50K, marital-status=Never-married",3,6328,0.1295606240530691
+"income=>50K, sex=Male, workclass=Private",3,6292,0.1288235534990377
+"income=>50K, marital-status=Married-civ-spouse, workclass=Private",3,6281,0.12859833749641703
+"marital-status=Never-married, native-country=United-States, relationship=Own-child",3,6274,0.12845501822202204
+"income=<=50K, race=White, relationship=Own-child",3,6273,0.1284345440399656
+"age=older, capital-gain=zero, relationship=Husband",3,6249,0.12794316367061137
+"capital-gain=zero, relationship=Not-in-family, sex=Male",3,6229,0.12753368002948282
+"capital-loss=zero, race=White, relationship=Own-child",3,6219,0.12732893820891855
+"marital-status=Divorced, native-country=United-States",2,6208,0.12710372220629787
+"capital-gain=zero, education=Bachelors, race=White",3,6206,0.127062773842185
+"capital-gain=zero, education-num=13, race=White",3,6206,0.127062773842185
+"education=Some-college, native-country=United-States, sex=Male",3,6204,0.12702182547807214
+"education-num=10, native-country=United-States, sex=Male",3,6204,0.12702182547807214
+"capital-gain=zero, marital-status=Divorced",2,6199,0.12691945456779002
+"age=middle, capital-gain=zero, relationship=Not-in-family",3,6192,0.12677613529339504
+"hours-per-week=normal, race=White, relationship=Not-in-family",3,6190,0.12673518692928218
+"capital-gain=zero, education-num=10, sex=Male",3,6186,0.12665329020105648
+"capital-gain=zero, education=Some-college, sex=Male",3,6186,0.12665329020105648
+"age=middle, education-num=9, workclass=Private",3,6185,0.12663281601900003
+"age=middle, education=HS-grad, workclass=Private",3,6185,0.12663281601900003
+"capital-gain=zero, race=White, relationship=Own-child",3,6182,0.12657139347283075
+occupation=Prof-specialty,1,6172,0.1263666516522665
+"education=Some-college, income=<=50K, workclass=Private",3,6166,0.12624380655992792
+"education-num=10, income=<=50K, workclass=Private",3,6166,0.12624380655992792
+occupation=Craft-repair,1,6112,0.12513820072888088
+occupation=Exec-managerial,1,6086,0.12460587199541379
+"capital-loss=zero, education=HS-grad, relationship=Husband",3,6080,0.12448302690307522
+"capital-loss=zero, education-num=9, relationship=Husband",3,6080,0.12448302690307522
+"marital-status=Never-married, race=White, relationship=Not-in-family",3,6066,0.12419638835428524
+"hours-per-week=low, native-country=United-States, workclass=Private",3,6057,0.1240121207157774
+"age=middle, marital-status=Never-married, native-country=United-States",3,6046,0.1237869047131567
+"age=middle, income=<=50K, relationship=Husband",3,6041,0.12368453380287457
+"native-country=United-States, race=White, relationship=Own-child",3,6021,0.12327505016174604
+"native-country=United-States, relationship=Not-in-family, sex=Male",3,5996,0.12276319561033537
+"age=middle, native-country=United-States, relationship=Not-in-family",3,5972,0.12227181524098112
+"capital-loss=zero, marital-status=Divorced, native-country=United-States",3,5964,0.1221080217845297
+"income=<=50K, marital-status=Divorced",2,5962,0.12206707342041685
+"capital-gain=zero, capital-loss=zero, marital-status=Divorced",3,5943,0.12167806396134474
+"education=HS-grad, native-country=United-States, relationship=Husband",3,5940,0.12161664141517546
+"education-num=9, native-country=United-States, relationship=Husband",3,5940,0.12161664141517546
+"hours-per-week=long, workclass=Private",2,5935,0.12151427050489333
+"age=middle, income=>50K, native-country=United-States",3,5932,0.12145284795872405
+"age=middle, income=<=50K, relationship=Not-in-family",3,5894,0.12067482904057983
+"education-num=10, race=White, sex=Male",3,5889,0.1205724581302977
+"education=Some-college, race=White, sex=Male",3,5889,0.1205724581302977
+"income=<=50K, relationship=Not-in-family, sex=Male",3,5887,0.12053150976618485
+"age=middle, race=White, sex=Female",3,5881,0.12040866467384628
+"age=middle, capital-loss=zero, income=>50K",3,5870,0.12018344867122559
+"relationship=Not-in-family, sex=Female",2,5870,0.12018344867122559
+"age=middle, income=>50K, race=White",3,5863,0.12004012939683059
+"education=Some-college, hours-per-week=normal",2,5861,0.11999918103271774
+"education-num=10, education=Some-college, hours-per-week=normal",3,5861,0.11999918103271774
+"education-num=10, hours-per-week=normal",2,5861,0.11999918103271774
+"capital-gain=zero, income=>50K, workclass=Private",3,5849,0.11975349084804061
+"capital-loss=zero, occupation=Craft-repair",2,5845,0.11967159411981491
+"capital-gain=zero, education-num=9, relationship=Husband",3,5809,0.11893452356578355
+"capital-gain=zero, education=HS-grad, relationship=Husband",3,5809,0.11893452356578355
+"hours-per-week=normal, income=>50K, native-country=United-States",3,5805,0.11885262683755785
+"capital-gain=zero, marital-status=Divorced, native-country=United-States",3,5796,0.11866835919905
+"education-num=9, race=White, relationship=Husband",3,5793,0.11860693665288072
+"education=HS-grad, race=White, relationship=Husband",3,5793,0.11860693665288072
+"capital-loss=zero, hours-per-week=normal, income=>50K",3,5791,0.11856598828876787
+"occupation=Craft-repair, sex=Male",2,5789,0.118525039924655
+"race=White, relationship=Not-in-family, sex=Male",3,5753,0.11778796937062365
+"capital-loss=zero, income=<=50K, marital-status=Divorced",3,5752,0.11776749518856722
+"marital-status=Never-married, race=White, sex=Female",3,5747,0.11766512427828509
+"capital-loss=zero, occupation=Prof-specialty",2,5737,0.11746038245772081
+"capital-gain=zero, income=<=50K, marital-status=Divorced",3,5722,0.11715326972687441
+"marital-status=Never-married, race=White, relationship=Own-child",3,5706,0.11682568281397158
+"age=middle, education=HS-grad, sex=Male",3,5693,0.11655951844723804
+"age=middle, education-num=9, sex=Male",3,5693,0.11655951844723804
+"hours-per-week=low, race=White, workclass=Private",3,5689,0.11647762171901233
+"marital-status=Divorced, race=White",2,5684,0.1163752508087302
+"relationship=Own-child, workclass=Private",2,5683,0.11635477662667376
+"hours-per-week=normal, income=>50K, race=White",3,5679,0.11627287989844806
+"capital-loss=zero, relationship=Not-in-family, sex=Female",3,5653,0.11574055116498096
+"capital-loss=zero, occupation=Exec-managerial",2,5640,0.11547438679824741
+"capital-gain=zero, occupation=Craft-repair",2,5634,0.11535154170590885
+"age=middle, race=White, relationship=Not-in-family",3,5624,0.11514679988534458
+"capital-loss=zero, education=Some-college, hours-per-week=normal",3,5612,0.11490110970066746
+"capital-loss=zero, education-num=10, hours-per-week=normal",3,5612,0.11490110970066746
+occupation=Adm-clerical,1,5611,0.11488063551861104
+"native-country=United-States, occupation=Exec-managerial",2,5606,0.11477826460832889
+"income=<=50K, relationship=Own-child, workclass=Private",3,5606,0.11477826460832889
+"hours-per-week=long, marital-status=Married-civ-spouse",2,5595,0.1145530486057082
+"income=>50K, relationship=Husband, workclass=Private",3,5592,0.11449162605953891
+"income=<=50K, marital-status=Divorced, native-country=United-States",3,5580,0.1142459358748618
+"hours-per-week=normal, relationship=Not-in-family, workclass=Private",3,5572,0.11408214241841039
+"age=middle, sex=Female, workclass=Private",3,5561,0.11385692641578969
+"capital-loss=zero, hours-per-week=long, workclass=Private",3,5559,0.11381597805167684
+"capital-loss=zero, relationship=Own-child, workclass=Private",3,5558,0.11379550386962041
+"education-num=13, education=Bachelors, sex=Male",3,5548,0.11359076204905615
+"education=Bachelors, sex=Male",2,5548,0.11359076204905615
+"education-num=13, sex=Male",2,5548,0.11359076204905615
+"age=middle, income=>50K, marital-status=Married-civ-spouse",3,5539,0.1134064944105483
+"capital-loss=zero, occupation=Craft-repair, sex=Male",3,5534,0.11330412350026617
+"hours-per-week=normal, income=>50K, marital-status=Married-civ-spouse",3,5526,0.11314033004381475
+"capital-gain=zero, relationship=Not-in-family, sex=Female",3,5521,0.11303795913353261
+"capital-gain=zero, relationship=Own-child, workclass=Private",3,5509,0.1127922689488555
+"native-country=United-States, occupation=Prof-specialty",2,5506,0.11273084640268621
+"occupation=Craft-repair, race=White",2,5504,0.11268989803857336
+occupation=Sales,1,5504,0.11268989803857336
+"native-country=United-States, occupation=Craft-repair",2,5503,0.11266942385651693
+"occupation=Exec-managerial, race=White",2,5474,0.11207567257688056
+"capital-gain=zero, education=Some-college, hours-per-week=normal",3,5470,0.11199377584865484
+"capital-gain=zero, education-num=10, hours-per-week=normal",3,5470,0.11199377584865484
+"marital-status=Never-married, sex=Female, workclass=Private",3,5460,0.11178903402809058
+"capital-loss=zero, marital-status=Divorced, race=White",3,5458,0.11174808566397773
+"age=middle, hours-per-week=long",2,5450,0.1115842922075263
+"hours-per-week=long, native-country=United-States, workclass=Private",3,5433,0.11123623111256706
+"income=<=50K, relationship=Not-in-family, sex=Female",3,5420,0.1109700667458335
+"native-country=United-States, relationship=Not-in-family, sex=Female",3,5420,0.1109700667458335
+"occupation=Prof-specialty, race=White",2,5419,0.11094959256377708
+"capital-loss=zero, occupation=Adm-clerical",2,5416,0.1108881700176078
+"hours-per-week=long, race=White, workclass=Private",3,5411,0.11078579910732567
+"age=middle, income=>50K, sex=Male",3,5408,0.11072437656115638
+"hours-per-week=normal, income=>50K, sex=Male",3,5406,0.11068342819704353
+"education-num=10, hours-per-week=normal, native-country=United-States",3,5402,0.11060153146881782
+"education=Some-college, hours-per-week=normal, native-country=United-States",3,5402,0.11060153146881782
+"marital-status=Never-married, relationship=Not-in-family, workclass=Private",3,5395,0.11045821219442284
+"hours-per-week=low, sex=Female",2,5394,0.11043773801236641
+"marital-status=Divorced, native-country=United-States, race=White",3,5388,0.11031489292002784
+"capital-gain=zero, capital-loss=zero, occupation=Craft-repair",3,5367,0.10988493509684288
+"age=older, hours-per-week=normal, sex=Male",3,5360,0.10974161582244789
+"age=middle, marital-status=Never-married, race=White",3,5353,0.1095982965480529
+"age=older, sex=Male, workclass=Private",3,5342,0.10937308054543221
+"age=young, sex=Male",2,5342,0.10937308054543221
+"capital-gain=zero, occupation=Prof-specialty",2,5340,0.10933213218131936
+"capital-gain=zero, occupation=Craft-repair, sex=Male",3,5333,0.10918881290692437
+"hours-per-week=long, marital-status=Married-civ-spouse, sex=Male",3,5323,0.1089840710863601
+"hours-per-week=low, marital-status=Never-married",2,5320,0.10892264854019082
+"capital-gain=zero, marital-status=Divorced, race=White",3,5305,0.10861553580934441
+"education-num=13, education=Bachelors, workclass=Private",3,5303,0.10857458744523156
+"education=Bachelors, workclass=Private",2,5303,0.10857458744523156
+"education-num=13, workclass=Private",2,5303,0.10857458744523156
+"hours-per-week=long, relationship=Husband",2,5295,0.10841079398878015
+"hours-per-week=long, relationship=Husband, sex=Male",3,5295,0.10841079398878015
+"hours-per-week=long, marital-status=Married-civ-spouse, relationship=Husband",3,5291,0.10832889726055445
+"hours-per-week=low, income=<=50K, marital-status=Never-married",3,5277,0.10804225871176447
+"capital-gain=zero, occupation=Exec-managerial",2,5276,0.10802178452970804
+"capital-gain=zero, occupation=Adm-clerical",2,5268,0.10785799107325662
+"age=middle, education-num=9, hours-per-week=normal",3,5265,0.10779656852708734
+"age=middle, education=HS-grad, hours-per-week=normal",3,5265,0.10779656852708734
+"occupation=Craft-repair, race=White, sex=Male",3,5258,0.10765324925269236
+"native-country=United-States, relationship=Own-child, workclass=Private",3,5257,0.10763277507063593
+"capital-loss=zero, occupation=Craft-repair, race=White",3,5257,0.10763277507063593
+"capital-loss=zero, native-country=United-States, occupation=Craft-repair",3,5256,0.1076123008885795
+"capital-loss=zero, hours-per-week=low, sex=Female",3,5233,0.10714139470128169
+"age=young, relationship=Own-child",2,5230,0.1070799721551124
+"age=young, income=<=50K, sex=Male",3,5221,0.10689570451660456
+"hours-per-week=long, marital-status=Married-civ-spouse, race=White",3,5219,0.10685475615249171
+"capital-loss=zero, occupation=Sales",2,5218,0.10683428197043528
+"age=young, capital-loss=zero, sex=Male",3,5218,0.10683428197043528
+"native-country=United-States, occupation=Craft-repair, sex=Male",3,5217,0.10681380778837886
+"age=middle, capital-gain=zero, income=>50K",3,5217,0.10681380778837886
+"age=young, income=<=50K, relationship=Own-child",3,5210,0.10667048851398386
+"capital-gain=zero, hours-per-week=long, workclass=Private",3,5206,0.10658859178575816
+"capital-loss=zero, hours-per-week=low, marital-status=Never-married",3,5198,0.10642479832930675
+"capital-loss=zero, native-country=United-States, occupation=Exec-managerial",3,5192,0.10630195323696819
+"age=young, capital-gain=zero, sex=Male",3,5179,0.10603578887023464
+"capital-gain=zero, hours-per-week=low, marital-status=Never-married",3,5178,0.10601531468817821
+"native-country=United-States, occupation=Exec-managerial, race=White",3,5175,0.10595389214200893
+"hours-per-week=long, income=<=50K",2,5172,0.10589246959583964
+"age=middle, marital-status=Never-married, workclass=Private",3,5167,0.10579009868555751
+"hours-per-week=long, marital-status=Married-civ-spouse, native-country=United-States",3,5159,0.1056263052291061
+"capital-loss=zero, hours-per-week=long, marital-status=Married-civ-spouse",3,5157,0.10558535686499325
+"native-country=United-States, occupation=Adm-clerical",2,5140,0.10523729577003399
+"capital-gain=zero, hours-per-week=low, sex=Female",3,5132,0.10507350231358258
+"capital-loss=zero, education=Bachelors, sex=Male",3,5131,0.10505302813152614
+"capital-loss=zero, education-num=13, sex=Male",3,5131,0.10505302813152614
+relationship=Unmarried,1,5125,0.10493018303918758
+"age=older, income=<=50K, workclass=Private",3,5112,0.10466401867245403
+"capital-loss=zero, native-country=United-States, occupation=Prof-specialty",3,5112,0.10466401867245403
+"age=young, capital-loss=zero, relationship=Own-child",3,5108,0.10458212194422833
+"capital-gain=zero, hours-per-week=normal, income=>50K",3,5108,0.10458212194422833
+"age=young, capital-gain=zero, relationship=Own-child",3,5106,0.10454117358011547
+"age=middle, capital-loss=zero, hours-per-week=long",3,5098,0.10437738012366406
+"education-num=9, education=HS-grad, sex=Female",3,5097,0.10435690594160764
+"education-num=9, sex=Female",2,5097,0.10435690594160764
+"education=HS-grad, sex=Female",2,5097,0.10435690594160764
+"income=<=50K, marital-status=Divorced, race=White",3,5088,0.1041726383030998
+"native-country=United-States, occupation=Sales",2,5078,0.10396789648253553
+"marital-status=Never-married, relationship=Own-child, workclass=Private",3,5078,0.10396789648253553
+"age=young, marital-status=Never-married, relationship=Own-child",3,5074,0.10388599975430982
+"capital-gain=zero, capital-loss=zero, occupation=Adm-clerical",3,5073,0.10386552557225338
+"capital-gain=zero, occupation=Craft-repair, race=White",3,5066,0.1037222062978584
+"capital-gain=zero, native-country=United-States, occupation=Craft-repair",3,5064,0.10368125793374555
+"capital-loss=zero, occupation=Exec-managerial, race=White",3,5061,0.10361983538757627
+"native-country=United-States, occupation=Craft-repair, race=White",3,5058,0.10355841284140699
+"race=White, relationship=Not-in-family, sex=Female",3,5052,0.10343556774906842
+"native-country=United-States, occupation=Prof-specialty, race=White",3,5041,0.10321035174644773
+"age=older, hours-per-week=normal, workclass=Private",3,5038,0.10314892920027845
+"capital-gain=zero, occupation=Sales",2,5034,0.10306703247205275
+"capital-loss=zero, occupation=Prof-specialty, race=White",3,5024,0.10286229065148847
+"hours-per-week=low, income=<=50K, sex=Female",3,5022,0.10282134228737562
+"age=older, hours-per-week=normal, income=<=50K",3,5008,0.10253470373858564
+"age=middle, education-num=10, education=Some-college",3,5003,0.10243233282830351
+"age=middle, education-num=10",2,5003,0.10243233282830351
+"age=middle, education=Some-college",2,5003,0.10243233282830351
+"age=middle, hours-per-week=long, native-country=United-States",3,5003,0.10243233282830351
+"age=middle, relationship=Not-in-family, workclass=Private",3,4999,0.1023504361000778
+"education-num=9, income=<=50K, marital-status=Married-civ-spouse",3,4993,0.10222759100773925
+"education=HS-grad, income=<=50K, marital-status=Married-civ-spouse",3,4993,0.10222759100773925
+"capital-loss=zero, hours-per-week=long, income=<=50K",3,4989,0.10214569427951353
+"education-num=13, race=White, sex=Male",3,4983,0.10202284918717497
+"education=Bachelors, race=White, sex=Male",3,4983,0.10202284918717497
+"capital-loss=zero, relationship=Unmarried",2,4981,0.10198190082306212
+"education=HS-grad, marital-status=Married-civ-spouse, workclass=Private",3,4978,0.10192047827689284
+"education-num=9, marital-status=Married-civ-spouse, workclass=Private",3,4978,0.10192047827689284
+"education=Bachelors, native-country=United-States, sex=Male",3,4975,0.10185905573072356
+"education-num=13, native-country=United-States, sex=Male",3,4975,0.10185905573072356
+"hours-per-week=long, race=White, relationship=Husband",3,4967,0.10169526227427214
+"capital-loss=zero, native-country=United-States, occupation=Adm-clerical",3,4964,0.10163383972810286
+"capital-loss=zero, education-num=9, sex=Female",3,4950,0.10134720117931288
+"capital-loss=zero, education=HS-grad, sex=Female",3,4950,0.10134720117931288
+"capital-loss=zero, education=Bachelors, workclass=Private",3,4945,0.10124483026903075
+"capital-loss=zero, education-num=13, workclass=Private",3,4945,0.10124483026903075
+"age=older, income=<=50K, sex=Male",3,4942,0.10118340772286147
+"hours-per-week=low, sex=Male",2,4938,0.10110151099463577
+"capital-gain=zero, hours-per-week=long, income=<=50K",3,4933,0.10099914008435364
+"age=middle, hours-per-week=long, race=White",3,4933,0.10099914008435364
+"education=Some-college, income=<=50K, sex=Male",3,4930,0.10093771753818435
+"education-num=10, income=<=50K, sex=Male",3,4930,0.10093771753818435
+"hours-per-week=low, native-country=United-States, sex=Female",3,4928,0.10089676917407149
+occupation=Other-service,1,4923,0.10079439826378936
+"relationship=Not-in-family, sex=Male, workclass=Private",3,4920,0.10073297571762008
+"hours-per-week=long, sex=Male, workclass=Private",3,4913,0.1005896564432251
+"occupation=Sales, race=White",2,4910,0.10052823389705581
+"capital-gain=zero, capital-loss=zero, occupation=Prof-specialty",3,4905,0.10042586298677368
+"hours-per-week=long, native-country=United-States, relationship=Husband",3,4900,0.10032349207649155
+"age=young, native-country=United-States, relationship=Own-child",3,4878,0.09987306007125016
+"hours-per-week=normal, income=>50K, relationship=Husband",3,4878,0.09987306007125016
+"hours-per-week=normal, marital-status=Never-married, sex=Male",3,4877,0.09985258588919373
+"capital-loss=zero, hours-per-week=long, relationship=Husband",3,4877,0.09985258588919373
+"education-num=10, hours-per-week=normal, race=White",3,4874,0.09979116334302444
+"education=Some-college, hours-per-week=normal, race=White",3,4874,0.09979116334302444
+"hours-per-week=low, marital-status=Never-married, native-country=United-States",3,4870,0.09970926661479874
+"age=middle, education-num=13",2,4864,0.09958642152246018
+"age=middle, education-num=13, education=Bachelors",3,4864,0.09958642152246018
+"capital-gain=zero, native-country=United-States, occupation=Exec-managerial",3,4864,0.09958642152246018
+"age=middle, education=Bachelors",2,4864,0.09958642152246018
+"capital-gain=zero, relationship=Unmarried",2,4860,0.09950452479423447
+"capital-gain=zero, education-num=9, sex=Female",3,4857,0.09944310224806518
+"capital-gain=zero, education=HS-grad, sex=Female",3,4857,0.09944310224806518
+"income=<=50K, occupation=Adm-clerical",2,4843,0.09915646369927521
+"age=middle, hours-per-week=normal, sex=Female",3,4831,0.0989107735145981
+"capital-gain=zero, capital-loss=zero, occupation=Exec-managerial",3,4830,0.09889029933254166
+"capital-gain=zero, native-country=United-States, occupation=Adm-clerical",3,4818,0.09864460914786455
+"income=<=50K, relationship=Unmarried",2,4816,0.09860366078375168
+"capital-loss=zero, occupation=Other-service",2,4811,0.09850128987346955
+"age=middle, capital-gain=zero, hours-per-week=long",3,4810,0.09848081569141313
+"capital-loss=zero, native-country=United-States, occupation=Sales",3,4810,0.09848081569141313
+"race=White, relationship=Own-child, workclass=Private",3,4809,0.0984603415093567
+"capital-gain=zero, education=Bachelors, sex=Male",3,4800,0.09827607387084886
+"capital-gain=zero, education-num=13, sex=Male",3,4800,0.09827607387084886
+"capital-loss=zero, hours-per-week=low, sex=Male",3,4792,0.09811228041439744
+"age=young, native-country=United-States, sex=Male",3,4789,0.09805085786822816
+"capital-gain=zero, hours-per-week=long, marital-status=Married-civ-spouse",3,4784,0.09794848695794603
+"age=middle, income=>50K, relationship=Husband",3,4776,0.09778469350149462
+"age=middle, capital-loss=zero, education-num=10",3,4775,0.09776421931943818
+"age=middle, capital-loss=zero, education=Some-college",3,4775,0.09776421931943818
+"education=HS-grad, income=<=50K, sex=Female",3,4767,0.09760042586298677
+"education-num=9, income=<=50K, sex=Female",3,4767,0.09760042586298677
+"capital-gain=zero, native-country=United-States, occupation=Prof-specialty",3,4761,0.0974775807706482
+"capital-gain=zero, occupation=Other-service",2,4749,0.09723189058597109
+"occupation=Craft-repair, workclass=Private",2,4748,0.09721141640391466
+"capital-gain=zero, capital-loss=zero, occupation=Sales",3,4748,0.09721141640391466
+"capital-gain=zero, occupation=Exec-managerial, race=White",3,4734,0.09692477785512468
+"income=<=50K, occupation=Craft-repair",2,4729,0.09682240694484255
+"hours-per-week=long, income=<=50K, native-country=United-States",3,4724,0.09672003603456042
+"income=<=50K, occupation=Other-service",2,4719,0.09661766512427829
+"capital-gain=zero, capital-loss=zero, relationship=Unmarried",3,4716,0.096556242578109
+"education=Bachelors, native-country=United-States, workclass=Private",3,4713,0.09649482003193972
+"education-num=13, native-country=United-States, workclass=Private",3,4713,0.09649482003193972
+"education-num=13, education=Bachelors, income=<=50K",3,4712,0.09647434584988329
+"education-num=13, income=<=50K",2,4712,0.09647434584988329
+"education=Bachelors, income=<=50K",2,4712,0.09647434584988329
+"marital-status=Divorced, workclass=Private",2,4702,0.09626960402931903
+"capital-loss=zero, income=<=50K, occupation=Adm-clerical",3,4700,0.09622865566520618
+"capital-loss=zero, income=<=50K, relationship=Unmarried",3,4699,0.09620818148314975
+"education=Bachelors, race=White, workclass=Private",3,4694,0.09610581057286761
+"education-num=13, race=White, workclass=Private",3,4694,0.09610581057286761
+"capital-gain=zero, education-num=13, workclass=Private",3,4693,0.09608533639081118
+"capital-gain=zero, education=Bachelors, workclass=Private",3,4693,0.09608533639081118
+race=Black,1,4685,0.09592154293435977
+"education-num=9, native-country=United-States, sex=Female",3,4682,0.09586012038819049
+"education=HS-grad, native-country=United-States, sex=Female",3,4682,0.09586012038819049
+"capital-gain=zero, occupation=Prof-specialty, race=White",3,4673,0.09567585274968265
+"education=HS-grad, marital-status=Never-married",2,4671,0.09563490438556979
+"education-num=9, marital-status=Never-married",2,4671,0.09563490438556979
+"age=older, hours-per-week=normal, marital-status=Married-civ-spouse",3,4671,0.09563490438556979
+"education-num=9, education=HS-grad, marital-status=Never-married",3,4671,0.09563490438556979
+"age=middle, capital-gain=zero, education-num=10",3,4666,0.09553253347528766
+"age=middle, capital-gain=zero, education=Some-college",3,4666,0.09553253347528766
+"education=Some-college, hours-per-week=normal, income=<=50K",3,4657,0.09534826583677983
+"education-num=10, hours-per-week=normal, income=<=50K",3,4657,0.09534826583677983
+"native-country=United-States, occupation=Sales, race=White",3,4652,0.09524589492649768
+"capital-loss=zero, occupation=Sales, race=White",3,4651,0.09522542074444126
+"age=older, income=>50K",2,4651,0.09522542074444126
+"age=young, race=White, sex=Male",3,4649,0.0951844723803284
+"capital-gain=zero, income=<=50K, occupation=Adm-clerical",3,4644,0.09508210147004627
+"capital-gain=zero, income=<=50K, relationship=Unmarried",3,4641,0.09502067892387699
+"hours-per-week=long, income=<=50K, race=White",3,4639,0.09497973055976414
+"capital-gain=zero, capital-loss=zero, occupation=Other-service",3,4637,0.09493878219565129
+"capital-gain=zero, native-country=United-States, occupation=Sales",3,4633,0.09485688546742557
+"capital-gain=zero, hours-per-week=low, sex=Male",3,4631,0.09481593710331272
+"capital-loss=zero, income=<=50K, occupation=Other-service",3,4624,0.09467261782891774
+"age=middle, education=Some-college, native-country=United-States",3,4607,0.09432455673395848
+"age=middle, education-num=10, native-country=United-States",3,4607,0.09432455673395848
+"education-num=9, income=<=50K, marital-status=Never-married",3,4600,0.09418123745956349
+"education=HS-grad, income=<=50K, marital-status=Never-married",3,4600,0.09418123745956349
+"age=older, marital-status=Married-civ-spouse, workclass=Private",3,4599,0.09416076327750707
+"capital-gain=zero, income=<=50K, occupation=Other-service",3,4583,0.09383317636460424
+"occupation=Adm-clerical, race=White",2,4578,0.0937308054543221
+"capital-loss=zero, income=<=50K, occupation=Craft-repair",3,4566,0.09348511526964498
+"age=middle, hours-per-week=long, sex=Male",3,4556,0.0932803734490807
+"capital-loss=zero, occupation=Craft-repair, workclass=Private",3,4549,0.09313705417468572
+"education=Some-college, sex=Male, workclass=Private",3,4545,0.09305515744646001
+"education-num=10, sex=Male, workclass=Private",3,4545,0.09305515744646001
+"capital-loss=zero, education=HS-grad, marital-status=Never-married",3,4542,0.09299373490029074
+"capital-loss=zero, education-num=9, marital-status=Never-married",3,4542,0.09299373490029074
+"age=middle, capital-loss=zero, education-num=13",3,4533,0.0928094672617829
+"age=middle, capital-loss=zero, education=Bachelors",3,4533,0.0928094672617829
+"capital-loss=zero, education-num=13, income=<=50K",3,4528,0.09270709635150076
+"capital-loss=zero, education=Bachelors, income=<=50K",3,4528,0.09270709635150076
+"capital-gain=zero, hours-per-week=long, relationship=Husband",3,4527,0.09268662216944433
+"native-country=United-States, relationship=Unmarried",2,4527,0.09268662216944433
+"capital-loss=zero, race=Black",2,4525,0.09264567380533148
+"capital-loss=zero, marital-status=Divorced, workclass=Private",3,4522,0.0925842512591622
+"capital-gain=zero, income=<=50K, occupation=Craft-repair",3,4513,0.09239998362065435
+"age=young, race=White, relationship=Own-child",3,4513,0.09239998362065435
+"education-num=9, hours-per-week=normal, marital-status=Married-civ-spouse",3,4506,0.09225666434625937
+"capital-gain=zero, education=Bachelors, income=<=50K",3,4506,0.09225666434625937
+"education=HS-grad, hours-per-week=normal, marital-status=Married-civ-spouse",3,4506,0.09225666434625937
+"capital-gain=zero, education-num=13, income=<=50K",3,4506,0.09225666434625937
+"capital-gain=zero, education=HS-grad, marital-status=Never-married",3,4505,0.09223619016420294
+"capital-gain=zero, education-num=9, marital-status=Never-married",3,4505,0.09223619016420294
+"education=Bachelors, hours-per-week=normal",2,4496,0.09205192252569509
+"education-num=13, education=Bachelors, hours-per-week=normal",3,4496,0.09205192252569509
+"education-num=13, hours-per-week=normal",2,4496,0.09205192252569509
+"age=middle, income=>50K, workclass=Private",3,4491,0.09194955161541296
+"hours-per-week=low, race=White, sex=Female",3,4488,0.09188812906924368
+"capital-gain=zero, occupation=Sales, race=White",3,4475,0.09162196470251013
+"occupation=Craft-repair, sex=Male, workclass=Private",3,4468,0.09147864542811515
+"hours-per-week=low, marital-status=Never-married, race=White",3,4463,0.091376274517833
+"education-num=10, education=Some-college, marital-status=Never-married",3,4453,0.09117153269726874
+"education-num=10, marital-status=Never-married",2,4453,0.09117153269726874
+"education=Some-college, marital-status=Never-married",2,4453,0.09117153269726874
+"hours-per-week=low, income=<=50K, sex=Male",3,4446,0.09102821342287376
+"age=young, hours-per-week=normal",2,4445,0.09100773924081733
+"income=<=50K, native-country=United-States, occupation=Adm-clerical",3,4441,0.09092584251259163
+"occupation=Sales, workclass=Private",2,4439,0.09088489414847876
+"income=<=50K, occupation=Craft-repair, sex=Male",3,4439,0.09088489414847876
+"age=young, marital-status=Never-married, sex=Male",3,4432,0.09074157487408378
+"capital-gain=zero, marital-status=Divorced, workclass=Private",3,4418,0.0904549363252938
+"capital-loss=zero, occupation=Adm-clerical, race=White",3,4417,0.09043446214323737
+"capital-gain=zero, race=Black",2,4409,0.09027066868678596
+"hours-per-week=low, native-country=United-States, sex=Male",3,4407,0.09022972032267311
+"marital-status=Divorced, native-country=United-States, workclass=Private",3,4405,0.09018877195856026
+"age=middle, hours-per-week=normal, marital-status=Never-married",3,4404,0.09016829777650383
+"capital-loss=zero, native-country=United-States, relationship=Unmarried",3,4397,0.09002497850210885
+"capital-gain=zero, occupation=Craft-repair, workclass=Private",3,4383,0.08973833995331887
+"education-num=9, income=<=50K, relationship=Husband",3,4383,0.08973833995331887
+"education=HS-grad, income=<=50K, relationship=Husband",3,4383,0.08973833995331887
+"education-num=9, relationship=Husband, workclass=Private",3,4373,0.08953359813275459
+"education=HS-grad, relationship=Husband, workclass=Private",3,4373,0.08953359813275459
+"education-num=10, income=<=50K, marital-status=Never-married",3,4366,0.08939027885835961
+"education=Some-college, income=<=50K, marital-status=Never-married",3,4366,0.08939027885835961
+"age=young, hours-per-week=normal, income=<=50K",3,4348,0.08902174358134393
+"occupation=Exec-managerial, sex=Male",2,4338,0.08881700176077965
+"capital-loss=zero, education=Some-college, marital-status=Never-married",3,4337,0.08879652757872324
+"capital-loss=zero, education-num=10, marital-status=Never-married",3,4337,0.08879652757872324
+"age=young, capital-loss=zero, hours-per-week=normal",3,4334,0.08873510503255395
+"capital-gain=zero, education-num=10, marital-status=Never-married",3,4319,0.08842799230170754
+"capital-gain=zero, education=Some-college, marital-status=Never-married",3,4319,0.08842799230170754
+"age=middle, education-num=13, native-country=United-States",3,4318,0.08840751811965113
+"age=middle, education=Bachelors, native-country=United-States",3,4318,0.08840751811965113
+"age=young, hours-per-week=low",2,4316,0.08836656975553826
+"age=young, capital-gain=zero, hours-per-week=normal",3,4311,0.08826419884525613
+"age=middle, capital-gain=zero, education=Bachelors",3,4309,0.08822325048114328
+"age=middle, capital-gain=zero, education-num=13",3,4309,0.08822325048114328
+"age=older, education-num=9, education=HS-grad",3,4304,0.08812087957086115
+"age=older, education=HS-grad",2,4304,0.08812087957086115
+"age=older, education-num=9",2,4304,0.08812087957086115
+"age=young, hours-per-week=low, income=<=50K",3,4300,0.08803898284263544
+"native-country=United-States, occupation=Adm-clerical, race=White",3,4300,0.08803898284263544
+"capital-gain=zero, occupation=Adm-clerical, race=White",3,4287,0.08777281847590189
+"education-num=9, marital-status=Never-married, native-country=United-States",3,4286,0.08775234429384546
+"education=HS-grad, marital-status=Never-married, native-country=United-States",3,4286,0.08775234429384546
+"age=young, sex=Female",2,4285,0.08773187011178904
+"capital-gain=zero, native-country=United-States, relationship=Unmarried",3,4284,0.08771139592973261
+"age=older, income=>50K, native-country=United-States",3,4280,0.0876294992015069
+"hours-per-week=low, race=White, sex=Male",3,4280,0.0876294992015069
+"income=<=50K, marital-status=Divorced, workclass=Private",3,4273,0.08748617992711191
+"native-country=United-States, race=Black",2,4269,0.0874042831988862
+"age=older, hours-per-week=normal, relationship=Husband",3,4262,0.08726096392449122
+"native-country=United-States, occupation=Craft-repair, workclass=Private",3,4258,0.0871790671962655
+"age=older, income=>50K, race=White",3,4257,0.08715859301420908
+"hours-per-week=normal, income=>50K, workclass=Private",3,4256,0.08713811883215265
+"occupation=Craft-repair, race=White, workclass=Private",3,4254,0.0870971704680398
+"capital-gain=zero, capital-loss=zero, race=Black",3,4249,0.08699479955775767
+"income=<=50K, native-country=United-States, relationship=Unmarried",3,4246,0.08693337701158839
+"hours-per-week=normal, occupation=Craft-repair",2,4246,0.08693337701158839
+"age=young, sex=Male, workclass=Private",3,4244,0.08689242864747554
+"income=<=50K, occupation=Craft-repair, race=White",3,4241,0.08683100610130626
+"age=young, income=<=50K, sex=Female",3,4237,0.08674910937308054
+"capital-loss=zero, occupation=Sales, workclass=Private",3,4224,0.086482945006347
+"income=<=50K, native-country=United-States, occupation=Craft-repair",3,4223,0.08646247082429057
+"age=young, capital-loss=zero, hours-per-week=low",3,4222,0.08644199664223415
+"hours-per-week=normal, marital-status=Divorced",2,4220,0.08640104827812128
+"age=young, capital-gain=zero, hours-per-week=low",3,4215,0.08629867736783915
+"age=middle, education-num=13, race=White",3,4215,0.08629867736783915
+"age=middle, education=Bachelors, race=White",3,4215,0.08629867736783915
+"occupation=Adm-clerical, workclass=Private",2,4208,0.08615535809344417
+"age=older, capital-loss=zero, income=>50K",3,4207,0.08613488391138774
+"capital-loss=zero, education-num=13, hours-per-week=normal",3,4206,0.0861144097293313
+"capital-loss=zero, education=Bachelors, hours-per-week=normal",3,4206,0.0861144097293313
+"relationship=Own-child, sex=Male",2,4205,0.08609393554727489
+"education=Some-college, hours-per-week=normal, workclass=Private",3,4200,0.08599156463699276
+"education-num=10, hours-per-week=normal, workclass=Private",3,4200,0.08599156463699276
+"age=older, relationship=Husband, workclass=Private",3,4198,0.08595061627287989
+"relationship=Not-in-family, sex=Female, workclass=Private",3,4195,0.08588919372671062
+"age=young, capital-loss=zero, sex=Female",3,4187,0.0857254002702592
+"native-country=United-States, occupation=Other-service",2,4183,0.0856435035420335
+"education-num=10, marital-status=Married-civ-spouse",2,4179,0.08556160681380778
+"education-num=10, education=Some-college, marital-status=Married-civ-spouse",3,4179,0.08556160681380778
+"education=Some-college, marital-status=Married-civ-spouse",2,4179,0.08556160681380778
+"education=Some-college, sex=Female",2,4178,0.08554113263175137
+"education-num=10, education=Some-college, sex=Female",3,4178,0.08554113263175137
+"education-num=10, sex=Female",2,4178,0.08554113263175137
+"age=young, capital-gain=zero, sex=Female",3,4169,0.08535686499324352
+"education-num=13, income=<=50K, native-country=United-States",3,4164,0.08525449408296139
+"hours-per-week=normal, marital-status=Never-married, relationship=Not-in-family",3,4164,0.08525449408296139
+"education=Bachelors, income=<=50K, native-country=United-States",3,4164,0.08525449408296139
+"age=middle, education=Some-college, race=White",3,4148,0.08492690717005856
+"age=middle, education-num=10, race=White",3,4148,0.08492690717005856
+"age=middle, hours-per-week=normal, relationship=Not-in-family",3,4144,0.08484501044183285
+"age=middle, marital-status=Never-married, relationship=Not-in-family",3,4138,0.08472216534949428
+"education-num=13, marital-status=Married-civ-spouse",2,4136,0.08468121698538143
+"education-num=13, education=Bachelors, marital-status=Married-civ-spouse",3,4136,0.08468121698538143
+"education=Bachelors, marital-status=Married-civ-spouse",2,4136,0.08468121698538143
+"income=<=50K, relationship=Own-child, sex=Male",3,4135,0.084660742803325
+"native-country=United-States, occupation=Sales, workclass=Private",3,4130,0.08455837189304287
+"capital-loss=zero, native-country=United-States, race=Black",3,4126,0.08447647516481717
+"income=<=50K, race=Black",2,4119,0.08433315589042217
+"age=older, capital-loss=zero, education=HS-grad",3,4111,0.08416936243397076
+"age=older, capital-loss=zero, education-num=9",3,4111,0.08416936243397076
+"capital-loss=zero, relationship=Own-child, sex=Male",3,4106,0.08406699152368863
+"capital-gain=zero, occupation=Sales, workclass=Private",3,4100,0.08394414643135006
+"education=Some-college, marital-status=Never-married, native-country=United-States",3,4094,0.0838213013390115
+"education-num=10, marital-status=Never-married, native-country=United-States",3,4094,0.0838213013390115
+"marital-status=Divorced, race=White, workclass=Private",3,4091,0.08375987879284223
+"capital-loss=zero, native-country=United-States, occupation=Other-service",3,4089,0.08371893042872937
+"marital-status=Never-married, relationship=Not-in-family, sex=Male",3,4089,0.08371893042872937
+"capital-gain=zero, relationship=Own-child, sex=Male",3,4085,0.08363703370050367
+"age=older, income=>50K, sex=Male",3,4077,0.08347324024405225
+"capital-loss=zero, hours-per-week=normal, occupation=Craft-repair",3,4073,0.08339134351582654
+"capital-loss=zero, occupation=Adm-clerical, workclass=Private",3,4072,0.08337086933377011
+"capital-loss=zero, education-num=10, sex=Female",3,4063,0.08318660169526228
+"capital-loss=zero, education=Some-college, sex=Female",3,4063,0.08318660169526228
+"occupation=Other-service, workclass=Private",2,4057,0.08306375660292371
+"age=older, income=>50K, marital-status=Married-civ-spouse",3,4052,0.08296138569264158
+"capital-loss=zero, hours-per-week=normal, marital-status=Divorced",3,4051,0.08294091151058515
+"age=young, hours-per-week=low, marital-status=Never-married",3,4038,0.0826747471438516
+"capital-gain=zero, native-country=United-States, occupation=Other-service",3,4036,0.08263379877973875
+capital-gain=positive,1,4035,0.08261332459768232
+"capital-gain=positive, capital-loss=zero",2,4035,0.08261332459768232
+"hours-per-week=long, income=<=50K, sex=Male",3,4034,0.08259285041562589
+"income=<=50K, occupation=Sales",2,4029,0.08249047950534376
+"education=Bachelors, income=<=50K, race=White",3,4029,0.08249047950534376
+"education-num=13, income=<=50K, race=White",3,4029,0.08249047950534376
+"education=HS-grad, race=White, sex=Female",3,4026,0.08242905695917448
+"education-num=9, race=White, sex=Female",3,4026,0.08242905695917448
+"capital-gain=zero, education-num=13, hours-per-week=normal",3,4020,0.08230621186683593
+"income=<=50K, native-country=United-States, occupation=Other-service",3,4020,0.08230621186683593
+"capital-gain=zero, education=Bachelors, hours-per-week=normal",3,4020,0.08230621186683593
+"hours-per-week=normal, occupation=Craft-repair, sex=Male",3,4018,0.08226526350272306
+"capital-gain=zero, native-country=United-States, race=Black",3,4011,0.08212194422832808
+"capital-loss=zero, income=<=50K, race=Black",3,4009,0.08208099586421523
+"education-num=13, hours-per-week=normal, native-country=United-States",3,4007,0.08204004750010237
+"education=Bachelors, hours-per-week=normal, native-country=United-States",3,4007,0.08204004750010237
+"marital-status=Divorced, sex=Female",2,4001,0.0819172024077638
+"hours-per-week=low, marital-status=Never-married, workclass=Private",3,4001,0.0819172024077638
+"age=young, hours-per-week=low, native-country=United-States",3,3999,0.08187625404365095
+"occupation=Exec-managerial, workclass=Private",2,3995,0.08179435731542525
+"capital-gain=zero, education=Some-college, sex=Female",3,3993,0.08175340895131239
+"capital-gain=zero, education-num=10, sex=Female",3,3993,0.08175340895131239
+"education=HS-grad, hours-per-week=normal, relationship=Husband",3,3992,0.08173293476925597
+"education-num=9, hours-per-week=normal, relationship=Husband",3,3992,0.08173293476925597
+"age=older, education=HS-grad, native-country=United-States",3,3990,0.08169198640514311
+"age=older, education-num=9, native-country=United-States",3,3990,0.08169198640514311
+"native-country=United-States, occupation=Exec-managerial, sex=Male",3,3987,0.08163056385897384
+"occupation=Exec-managerial, race=White, sex=Male",3,3980,0.08148724458457884
+"capital-gain=zero, income=<=50K, race=Black",3,3979,0.08146677040252243
+"capital-gain=zero, hours-per-week=normal, marital-status=Divorced",3,3973,0.08134392531018386
+"capital-loss=zero, occupation=Exec-managerial, sex=Male",3,3969,0.08126202858195815
+"capital-loss=zero, occupation=Other-service, workclass=Private",3,3966,0.08120060603578887
+"age=middle, education=HS-grad, marital-status=Married-civ-spouse",3,3964,0.08115965767167602
+"age=middle, education-num=9, marital-status=Married-civ-spouse",3,3964,0.08115965767167602
+"capital-gain=zero, occupation=Adm-clerical, workclass=Private",3,3960,0.0810777609434503
+"age=young, native-country=United-States, sex=Female",3,3953,0.08093444166905532
+"age=young, hours-per-week=normal, native-country=United-States",3,3953,0.08093444166905532
+"age=young, relationship=Own-child, workclass=Private",3,3949,0.08085254494082961
+"hours-per-week=normal, marital-status=Divorced, native-country=United-States",3,3947,0.08081159657671676
+"age=middle, marital-status=Never-married, sex=Male",3,3941,0.0806887514843782
+"age=older, capital-gain=zero, education=HS-grad",3,3936,0.08058638057409606
+"age=older, capital-gain=zero, education-num=9",3,3936,0.08058638057409606
+"capital-loss=zero, education=Some-college, marital-status=Married-civ-spouse",3,3933,0.08052495802792678
+"occupation=Sales, race=White, workclass=Private",3,3933,0.08052495802792678
+"capital-loss=zero, education-num=10, marital-status=Married-civ-spouse",3,3933,0.08052495802792678
+"capital-gain=zero, occupation=Other-service, workclass=Private",3,3932,0.08050448384587036
+"hours-per-week=normal, relationship=Not-in-family, sex=Male",3,3931,0.08048400966381393
+"occupation=Prof-specialty, sex=Male",2,3930,0.0804635354817575
+"age=middle, relationship=Not-in-family, sex=Male",3,3930,0.0804635354817575
+"relationship=Unmarried, sex=Female",2,3928,0.08042258711764465
+"capital-gain=zero, hours-per-week=normal, occupation=Craft-repair",3,3928,0.08042258711764465
+"education-num=9, sex=Female, workclass=Private",3,3923,0.08032021620736252
+"education=HS-grad, sex=Female, workclass=Private",3,3923,0.08032021620736252
+"income=<=50K, occupation=Other-service, workclass=Private",3,3916,0.08017689693296753
+"income=<=50K, occupation=Adm-clerical, race=White",3,3914,0.08013594856885467
+"education=Some-college, marital-status=Married-civ-spouse, native-country=United-States",3,3901,0.07986978420212112
+"education-num=10, marital-status=Married-civ-spouse, native-country=United-States",3,3901,0.07986978420212112
+"capital-loss=zero, income=<=50K, occupation=Sales",3,3898,0.07980836165595184
+"native-country=United-States, relationship=Own-child, sex=Male",3,3898,0.07980836165595184
+"hours-per-week=normal, income=<=50K, marital-status=Divorced",3,3896,0.07976741329183899
+"age=older, income=<=50K, marital-status=Married-civ-spouse",3,3892,0.07968551656361328
+"education-num=10, native-country=United-States, sex=Female",3,3890,0.07964456819950043
+"education=Some-college, native-country=United-States, sex=Female",3,3890,0.07964456819950043
+"education=Some-college, income=<=50K, sex=Female",3,3885,0.0795421972892183
+"education-num=10, income=<=50K, sex=Female",3,3885,0.0795421972892183
+"education-num=13, hours-per-week=normal, race=White",3,3881,0.07946030056099258
+"education=Bachelors, hours-per-week=normal, race=White",3,3881,0.07946030056099258
+"capital-gain=zero, income=<=50K, occupation=Sales",3,3880,0.07943982637893617
+"capital-loss=zero, marital-status=Divorced, sex=Female",3,3873,0.07929650710454117
+workclass=Self-emp-not-inc,1,3862,0.07907129110192047
+"age=middle, education-num=10, income=<=50K",3,3858,0.07898939437369477
+"age=middle, education=Some-college, income=<=50K",3,3858,0.07898939437369477
+"hours-per-week=long, income=>50K",2,3853,0.07888702346341264
+"age=middle, marital-status=Divorced",2,3852,0.07886654928135621
+"education-num=9, education=HS-grad, relationship=Not-in-family",3,3841,0.07864133327873551
+"education=HS-grad, relationship=Not-in-family",2,3841,0.07864133327873551
+"education-num=9, relationship=Not-in-family",2,3841,0.07864133327873551
+"native-country=United-States, occupation=Adm-clerical, workclass=Private",3,3837,0.0785594365505098
+"capital-loss=zero, relationship=Unmarried, sex=Female",3,3834,0.07849801400434053
+"education=HS-grad, marital-status=Never-married, workclass=Private",3,3823,0.07827279800171984
+"education-num=9, marital-status=Never-married, workclass=Private",3,3823,0.07827279800171984
+"marital-status=Married-civ-spouse, occupation=Craft-repair",2,3818,0.07817042709143769
+"hours-per-week=normal, occupation=Adm-clerical",2,3811,0.07802710781704271
+"occupation=Other-service, race=White",2,3803,0.0778633143605913
+"hours-per-week=normal, native-country=United-States, occupation=Craft-repair",3,3798,0.07776094345030916
+"age=young, marital-status=Never-married, sex=Female",3,3797,0.07774046926825273
+"capital-loss=zero, education=Bachelors, marital-status=Married-civ-spouse",3,3793,0.07765857254002703
+"capital-loss=zero, education-num=13, marital-status=Married-civ-spouse",3,3793,0.07765857254002703
+"capital-gain=zero, marital-status=Divorced, sex=Female",3,3793,0.07765857254002703
+"marital-status=Never-married, relationship=Own-child, sex=Male",3,3788,0.07755620162974489
+"hours-per-week=normal, occupation=Craft-repair, race=White",3,3781,0.0774128823553499
+"age=young, hours-per-week=normal, race=White",3,3775,0.07729003726301134
+"occupation=Adm-clerical, sex=Female",2,3769,0.07716719217067278
+"marital-status=Married-civ-spouse, occupation=Craft-repair, sex=Male",3,3768,0.07714671798861636
+"income=<=50K, relationship=Unmarried, sex=Female",3,3766,0.0771057696245035
+"hours-per-week=low, sex=Female, workclass=Private",3,3760,0.07698292453216495
+"capital-gain=zero, relationship=Unmarried, sex=Female",3,3758,0.07694197616805208
+"age=middle, hours-per-week=long, workclass=Private",3,3757,0.07692150198599566
+"income=<=50K, native-country=United-States, race=Black",3,3753,0.07683960525776995
+"education-num=10, marital-status=Married-civ-spouse, race=White",3,3750,0.07677818271160067
+"education=Some-college, marital-status=Married-civ-spouse, race=White",3,3750,0.07677818271160067
+"age=older, education-num=9, race=White",3,3746,0.07669628598337497
+"age=older, education=HS-grad, race=White",3,3746,0.07669628598337497
+"education=Bachelors, marital-status=Married-civ-spouse, race=White",3,3735,0.07647106998075427
+"education-num=13, marital-status=Married-civ-spouse, race=White",3,3735,0.07647106998075427
+"capital-gain=zero, education=Some-college, marital-status=Married-civ-spouse",3,3734,0.07645059579869784
+"capital-gain=zero, education-num=10, marital-status=Married-civ-spouse",3,3734,0.07645059579869784
+"occupation=Craft-repair, relationship=Husband",2,3731,0.07638917325252856
+"occupation=Craft-repair, relationship=Husband, sex=Male",3,3731,0.07638917325252856
+"marital-status=Divorced, native-country=United-States, sex=Female",3,3730,0.07636869907047214
+"marital-status=Married-civ-spouse, occupation=Craft-repair, relationship=Husband",3,3728,0.07632775070635928
+"income=<=50K, marital-status=Divorced, sex=Female",3,3727,0.07630727652430286
+"income=<=50K, occupation=Adm-clerical, workclass=Private",3,3726,0.07628680234224643
+"age=older, sex=Female",2,3722,0.07620490561402073
+"age=older, income=>50K, relationship=Husband",3,3719,0.07614348306785144
+"capital-loss=zero, occupation=Other-service, race=White",3,3711,0.07597968961140003
+"age=middle, capital-loss=zero, marital-status=Divorced",3,3707,0.07589779288317432
+"capital-loss=zero, education=HS-grad, relationship=Not-in-family",3,3704,0.07583637033700504
+"capital-loss=zero, education-num=9, relationship=Not-in-family",3,3704,0.07583637033700504
+"age=young, hours-per-week=low, race=White",3,3703,0.0758158961549486
+"capital-loss=zero, occupation=Exec-managerial, workclass=Private",3,3702,0.07579542197289219
+"race=White, relationship=Unmarried",2,3701,0.07577494779083575
+"education=Some-college, hours-per-week=normal, sex=Male",3,3700,0.07575447360877934
+"education-num=10, hours-per-week=normal, sex=Male",3,3700,0.07575447360877934
+"education=Some-college, marital-status=Never-married, race=White",3,3697,0.07569305106261005
+"education-num=10, marital-status=Never-married, race=White",3,3697,0.07569305106261005
+"education=Bachelors, marital-status=Married-civ-spouse, native-country=United-States",3,3693,0.07561115433438434
+"education-num=13, marital-status=Married-civ-spouse, native-country=United-States",3,3693,0.07561115433438434
+"native-country=United-States, occupation=Exec-managerial, workclass=Private",3,3690,0.07554973178821506
+"income=<=50K, native-country=United-States, occupation=Sales",3,3689,0.07552925760615864
+"hours-per-week=normal, marital-status=Never-married, sex=Female",3,3689,0.07552925760615864
+"capital-gain=positive, capital-loss=zero, native-country=United-States",3,3686,0.07546783505998936
+"capital-gain=positive, native-country=United-States",2,3686,0.07546783505998936
+"education-num=10, marital-status=Married-civ-spouse, sex=Male",3,3686,0.07546783505998936
+"education=Some-college, marital-status=Married-civ-spouse, sex=Male",3,3686,0.07546783505998936
+"relationship=Unmarried, workclass=Private",2,3680,0.0753449899676508
+"income=<=50K, occupation=Craft-repair, workclass=Private",3,3679,0.07532451578559436
+"capital-gain=zero, occupation=Other-service, race=White",3,3675,0.07524261905736866
+"capital-loss=zero, hours-per-week=normal, occupation=Adm-clerical",3,3675,0.07524261905736866
+"capital-gain=zero, occupation=Exec-managerial, sex=Male",3,3672,0.07518119651119938
+"education=HS-grad, marital-status=Never-married, race=White",3,3668,0.07509929978297367
+"education-num=9, marital-status=Never-married, race=White",3,3668,0.07509929978297367
+"education-num=13, marital-status=Married-civ-spouse, sex=Male",3,3662,0.0749764546906351
+"education=Bachelors, marital-status=Married-civ-spouse, sex=Male",3,3662,0.0749764546906351
+"education-num=9, income=<=50K, relationship=Not-in-family",3,3661,0.07495598050857868
+"education=HS-grad, income=<=50K, relationship=Not-in-family",3,3661,0.07495598050857868
+"education=Some-college, relationship=Husband, sex=Male",3,3658,0.0748945579624094
+"education-num=10, education=Some-college, relationship=Husband",3,3658,0.0748945579624094
+"education=Some-college, relationship=Husband",2,3658,0.0748945579624094
+"education-num=10, relationship=Husband, sex=Male",3,3658,0.0748945579624094
+"education-num=10, relationship=Husband",2,3658,0.0748945579624094
+"capital-loss=zero, occupation=Adm-clerical, sex=Female",3,3657,0.07487408378035297
+"education-num=10, marital-status=Married-civ-spouse, relationship=Husband",3,3655,0.07483313541624012
+"education=Some-college, marital-status=Married-civ-spouse, relationship=Husband",3,3655,0.07483313541624012
+"age=middle, occupation=Craft-repair",2,3654,0.07481266123418369
+"income=<=50K, occupation=Other-service, race=White",3,3647,0.07466934195978871
+"capital-loss=zero, workclass=Self-emp-not-inc",2,3644,0.07460791941361943
+"education=Bachelors, relationship=Husband",2,3636,0.07444412595716801
+"education-num=13, relationship=Husband",2,3636,0.07444412595716801
+"education=Bachelors, relationship=Husband, sex=Male",3,3636,0.07444412595716801
+"education-num=13, relationship=Husband, sex=Male",3,3636,0.07444412595716801
+"education-num=13, education=Bachelors, relationship=Husband",3,3636,0.07444412595716801
+"education=Bachelors, sex=Male, workclass=Private",3,3635,0.07442365177511158
+"education-num=13, sex=Male, workclass=Private",3,3635,0.07442365177511158
+"education-num=13, marital-status=Married-civ-spouse, relationship=Husband",3,3634,0.07440317759305516
+"education=Bachelors, marital-status=Married-civ-spouse, relationship=Husband",3,3634,0.07440317759305516
+"capital-gain=zero, education=HS-grad, relationship=Not-in-family",3,3629,0.07430080668277303
+"occupation=Exec-managerial, race=White, workclass=Private",3,3629,0.07430080668277303
+"capital-gain=zero, education-num=9, relationship=Not-in-family",3,3629,0.07430080668277303
+"capital-loss=zero, marital-status=Married-civ-spouse, occupation=Craft-repair",3,3628,0.0742803325007166
+"marital-status=Divorced, relationship=Not-in-family",2,3628,0.0742803325007166
+"capital-loss=zero, occupation=Prof-specialty, sex=Male",3,3627,0.07425985831866017
+"age=middle, education=Some-college, workclass=Private",3,3627,0.07425985831866017
+"age=middle, education-num=10, workclass=Private",3,3627,0.07425985831866017
+"age=older, capital-gain=zero, income=>50K",3,3625,0.07421890995454732
+"age=middle, marital-status=Divorced, native-country=United-States",3,3619,0.07409606486220875
+"age=middle, capital-gain=zero, marital-status=Divorced",3,3616,0.07403464231603947
+"age=young, race=White, sex=Female",3,3614,0.07399369395192662
+"age=middle, occupation=Prof-specialty",2,3607,0.07385037467753164
+"marital-status=Married-civ-spouse, occupation=Exec-managerial",2,3600,0.07370705540313664
+"capital-loss=zero, race=White, relationship=Unmarried",3,3588,0.07346136521845953
+"hours-per-week=long, income=>50K, race=White",3,3587,0.0734408910364031
+"capital-gain=zero, hours-per-week=normal, occupation=Adm-clerical",3,3583,0.07335899430817738
+"education=HS-grad, native-country=United-States, relationship=Not-in-family",3,3581,0.07331804594406453
+"education-num=9, native-country=United-States, relationship=Not-in-family",3,3581,0.07331804594406453
+"capital-gain=positive, race=White",2,3578,0.07325662339789525
+"capital-gain=positive, capital-loss=zero, race=White",3,3578,0.07325662339789525
+"race=White, workclass=Self-emp-not-inc",2,3576,0.0732156750337824
+"capital-gain=zero, occupation=Adm-clerical, sex=Female",3,3575,0.07319520085172597
+"capital-loss=zero, relationship=Unmarried, workclass=Private",3,3575,0.07319520085172597
+"age=older, capital-loss=zero, sex=Female",3,3567,0.07303140739527456
+"race=White, relationship=Own-child, sex=Male",3,3563,0.07294951066704886
+"age=young, hours-per-week=normal, workclass=Private",3,3557,0.07282666557471029
+"hours-per-week=normal, marital-status=Divorced, race=White",3,3557,0.07282666557471029
+"occupation=Sales, sex=Male",2,3557,0.07282666557471029
+"hours-per-week=long, income=>50K, native-country=United-States",3,3554,0.07276524302854101
+"hours-per-week=normal, relationship=Own-child",2,3549,0.07266287211825888
+"age=young, hours-per-week=normal, marital-status=Never-married",3,3549,0.07266287211825888
+"capital-loss=zero, occupation=Craft-repair, relationship=Husband",3,3547,0.07262192375414603
+"hours-per-week=long, marital-status=Married-civ-spouse, workclass=Private",3,3525,0.07217149174890464
+"age=middle, income=<=50K, marital-status=Divorced",3,3521,0.07208959502067892
+"income=<=50K, occupation=Sales, race=White",3,3516,0.07198722411039679
+"marital-status=Married-civ-spouse, occupation=Craft-repair, race=White",3,3516,0.07198722411039679
+"capital-gain=zero, relationship=Unmarried, workclass=Private",3,3515,0.07196674992834036
+"occupation=Adm-clerical, race=White, workclass=Private",3,3514,0.07194627574628394
+"occupation=Prof-specialty, race=White, sex=Male",3,3513,0.07192580156422751
+"native-country=United-States, workclass=Self-emp-not-inc",2,3510,0.07186437901805823
+"age=older, income=<=50K, relationship=Husband",3,3509,0.0718439048360018
+"hours-per-week=long, income=<=50K, workclass=Private",3,3504,0.07174153392571966
+"age=middle, education-num=9, relationship=Husband",3,3503,0.07172105974366325
+"age=middle, education=HS-grad, relationship=Husband",3,3503,0.07172105974366325
+"capital-gain=zero, race=White, relationship=Unmarried",3,3498,0.0716186888333811
+"age=middle, hours-per-week=normal, income=>50K",3,3497,0.07159821465132468
+"native-country=United-States, relationship=Unmarried, sex=Female",3,3496,0.07157774046926825
+"native-country=United-States, occupation=Adm-clerical, sex=Female",3,3493,0.07151631792309897
+"age=middle, capital-loss=zero, occupation=Craft-repair",3,3491,0.07147536955898612
+"age=middle, occupation=Craft-repair, sex=Male",3,3490,0.07145489537692969
+"income=<=50K, relationship=Unmarried, workclass=Private",3,3488,0.07141394701281684
+"hours-per-week=normal, native-country=United-States, occupation=Adm-clerical",3,3488,0.07141394701281684
+"capital-gain=zero, education-num=13, marital-status=Married-civ-spouse",3,3486,0.07137299864870399
+"capital-gain=zero, education=Bachelors, marital-status=Married-civ-spouse",3,3486,0.07137299864870399
+"hours-per-week=normal, income=<=50K, relationship=Own-child",3,3483,0.0713115761025347
+"capital-gain=zero, occupation=Exec-managerial, workclass=Private",3,3482,0.07129110192047827
+"hours-per-week=normal, occupation=Craft-repair, workclass=Private",3,3477,0.07118873101019614
+"capital-gain=zero, workclass=Self-emp-not-inc",2,3474,0.07112730846402686
+"capital-loss=zero, hours-per-week=normal, relationship=Own-child",3,3472,0.07108636009991401
+"hours-per-week=low, relationship=Own-child",2,3471,0.07106588591785758
+"capital-loss=zero, marital-status=Divorced, relationship=Not-in-family",3,3471,0.07106588591785758
+"hours-per-week=long, income=>50K, sex=Male",3,3467,0.07098398918963188
+"age=older, capital-gain=zero, sex=Female",3,3465,0.07094304082551903
+"income=<=50K, occupation=Adm-clerical, sex=Female",3,3460,0.07084066991523688
+"capital-gain=zero, marital-status=Married-civ-spouse, occupation=Craft-repair",3,3460,0.07084066991523688
+"hours-per-week=low, income=<=50K, relationship=Own-child",3,3458,0.07079972155112403
+"native-country=United-States, occupation=Prof-specialty, sex=Male",3,3457,0.0707792473690676
+"marital-status=Married-civ-spouse, native-country=United-States, occupation=Craft-repair",3,3457,0.0707792473690676
+"occupation=Craft-repair, race=White, relationship=Husband",3,3454,0.07071782482289833
+"capital-gain=zero, hours-per-week=normal, relationship=Own-child",3,3445,0.07053355718439049
+"capital-loss=zero, hours-per-week=long, income=>50K",3,3443,0.07049260882027764
+"capital-loss=zero, education=Some-college, relationship=Husband",3,3440,0.07043118627410835
+"capital-loss=zero, education-num=10, relationship=Husband",3,3440,0.07043118627410835
+"income=<=50K, race=White, relationship=Unmarried",3,3439,0.07041071209205192
+"marital-status=Divorced, native-country=United-States, relationship=Not-in-family",3,3431,0.07024691863560051
+"education=Some-college, native-country=United-States, relationship=Husband",3,3430,0.07022644445354408
+"education-num=10, native-country=United-States, relationship=Husband",3,3430,0.07022644445354408
+"occupation=Prof-specialty, workclass=Private",2,3409,0.06979648663035912
+"income=<=50K, occupation=Sales, workclass=Private",3,3403,0.06967364153802055
+"hours-per-week=normal, relationship=Not-in-family, sex=Female",3,3402,0.06965316735596414
+"native-country=United-States, occupation=Other-service, workclass=Private",3,3401,0.0696326931739077
+"education-num=10, race=White, sex=Female",3,3400,0.06961221899185127
+"education=Some-college, race=White, sex=Female",3,3400,0.06961221899185127
+"age=middle, education=Bachelors, sex=Male",3,3391,0.06942795135334344
+"age=middle, education-num=13, sex=Male",3,3391,0.06942795135334344
+"capital-loss=zero, hours-per-week=low, relationship=Own-child",3,3388,0.06936652880717416
+"income=<=50K, occupation=Prof-specialty",2,3388,0.06936652880717416
+"native-country=United-States, occupation=Craft-repair, relationship=Husband",3,3388,0.06936652880717416
+"age=middle, capital-gain=zero, occupation=Craft-repair",3,3386,0.0693255804430613
+"capital-gain=zero, hours-per-week=low, relationship=Own-child",3,3382,0.0692436837148356
+"capital-gain=zero, occupation=Craft-repair, relationship=Husband",3,3382,0.0692436837148356
+"relationship=Own-child, sex=Female",2,3376,0.06912083862249703
+"capital-loss=zero, race=White, workclass=Self-emp-not-inc",3,3373,0.06905941607632775
+"age=middle, hours-per-week=long, marital-status=Married-civ-spouse",3,3373,0.06905941607632775
+"capital-gain=zero, marital-status=Divorced, relationship=Not-in-family",3,3370,0.06899799353015847
+"age=middle, occupation=Exec-managerial",2,3363,0.06885467425576348
+"age=middle, capital-loss=zero, occupation=Prof-specialty",3,3357,0.06873182916342492
+"age=middle, education-num=13, workclass=Private",3,3356,0.06871135498136849
+"age=middle, education=Bachelors, workclass=Private",3,3356,0.06871135498136849
+"marital-status=Divorced, race=White, sex=Female",3,3354,0.06867040661725564
+"capital-gain=positive, native-country=United-States, race=White",3,3353,0.06864993243519922
+"hours-per-week=long, relationship=Husband, workclass=Private",3,3348,0.06854756152491707
+"capital-gain=zero, occupation=Prof-specialty, sex=Male",3,3338,0.06834281970435281
+"capital-loss=zero, occupation=Sales, sex=Male",3,3336,0.06830187134023996
+"income=<=50K, relationship=Own-child, sex=Female",3,3335,0.06828139715818353
+"native-country=United-States, occupation=Other-service, race=White",3,3332,0.06821997461201425
+"native-country=United-States, race=White, workclass=Self-emp-not-inc",3,3332,0.06821997461201425
+"hours-per-week=normal, occupation=Prof-specialty",2,3330,0.0681790262479014
+"capital-loss=zero, education=Bachelors, relationship=Husband",3,3327,0.06811760370173212
+"capital-loss=zero, education-num=13, relationship=Husband",3,3327,0.06811760370173212
+"education=Bachelors, race=White, relationship=Husband",3,3326,0.06809712951967568
+"education-num=13, race=White, relationship=Husband",3,3326,0.06809712951967568
+"age=young, education-num=10, education=Some-college",3,3325,0.06807665533761927
+"age=young, education=Some-college",2,3325,0.06807665533761927
+"age=young, education-num=10",2,3325,0.06807665533761927
+"age=middle, education-num=10, sex=Male",3,3325,0.06807665533761927
+"age=middle, education=Some-college, sex=Male",3,3325,0.06807665533761927
+"hours-per-week=normal, income=<=50K, occupation=Craft-repair",3,3324,0.06805618115556283
+"marital-status=Married-civ-spouse, occupation=Exec-managerial, race=White",3,3317,0.06791286188116785
+"age=older, native-country=United-States, sex=Female",3,3314,0.06785143933499857
+"education-num=13, education=Bachelors, income=>50K",3,3313,0.06783096515294214
+"age=young, sex=Female, workclass=Private",3,3313,0.06783096515294214
+"education-num=13, income=>50K",2,3313,0.06783096515294214
+"education=Bachelors, income=>50K",2,3313,0.06783096515294214
+"education-num=10, race=White, relationship=Husband",3,3311,0.06779001678882929
+"education=Some-college, race=White, relationship=Husband",3,3311,0.06779001678882929
+"education=HS-grad, race=White, relationship=Not-in-family",3,3309,0.06774906842471644
+"education-num=9, race=White, relationship=Not-in-family",3,3309,0.06774906842471644
+"capital-loss=zero, native-country=United-States, workclass=Self-emp-not-inc",3,3308,0.06772859424266
+"native-country=United-States, race=White, relationship=Unmarried",3,3304,0.06764669751443429
+"marital-status=Married-civ-spouse, native-country=United-States, occupation=Exec-managerial",3,3302,0.06760574915032144
+"age=young, hours-per-week=low, workclass=Private",3,3299,0.06754432660415216
+"age=middle, native-country=United-States, occupation=Craft-repair",3,3297,0.06750337824003931
+"capital-loss=zero, relationship=Own-child, sex=Female",3,3296,0.06748290405798288
+"hours-per-week=low, marital-status=Never-married, relationship=Own-child",3,3287,0.06729863641947505
+"hours-per-week=normal, relationship=Unmarried",2,3286,0.06727816223741862
+"age=middle, marital-status=Divorced, race=White",3,3285,0.06725768805536218
+"native-country=United-States, occupation=Sales, sex=Male",3,3284,0.06723721387330577
+"hours-per-week=low, native-country=United-States, relationship=Own-child",3,3277,0.06709389459891077
+"age=young, education-num=10, income=<=50K",3,3277,0.06709389459891077
+"age=young, education=Some-college, income=<=50K",3,3277,0.06709389459891077
+"age=middle, occupation=Craft-repair, race=White",3,3277,0.06709389459891077
+"capital-gain=zero, relationship=Own-child, sex=Female",3,3273,0.06701199787068507
+"capital-loss=zero, marital-status=Married-civ-spouse, occupation=Exec-managerial",3,3273,0.06701199787068507
+"education-num=13, native-country=United-States, relationship=Husband",3,3272,0.06699152368862864
+"education=Bachelors, native-country=United-States, relationship=Husband",3,3272,0.06699152368862864
+"hours-per-week=normal, income=<=50K, occupation=Adm-clerical",3,3269,0.06693010114245936
+"hours-per-week=normal, occupation=Exec-managerial",2,3268,0.06690962696040294
+"capital-gain=zero, education=Some-college, relationship=Husband",3,3268,0.06690962696040294
+"capital-gain=zero, education-num=10, relationship=Husband",3,3268,0.06690962696040294
+"occupation=Sales, race=White, sex=Male",3,3264,0.06682773023217722
+"capital-gain=zero, capital-loss=zero, workclass=Self-emp-not-inc",3,3256,0.06666393677572581
+"age=young, capital-loss=zero, education-num=10",3,3252,0.0665820400475001
+"age=young, capital-loss=zero, education=Some-college",3,3252,0.0665820400475001
+"capital-loss=zero, income=<=50K, occupation=Prof-specialty",3,3250,0.06654109168338725
+"race=Black, workclass=Private",2,3249,0.06652061750133083
+"marital-status=Married-civ-spouse, occupation=Exec-managerial, sex=Male",3,3248,0.0665001433192744
+"education=Some-college, marital-status=Never-married, workclass=Private",3,3242,0.06637729822693583
+"education-num=10, marital-status=Never-married, workclass=Private",3,3242,0.06637729822693583
+"hours-per-week=normal, native-country=United-States, relationship=Own-child",3,3237,0.0662749273166537
+"age=young, capital-gain=zero, education-num=10",3,3233,0.06619303058842799
+"age=young, capital-gain=zero, education=Some-college",3,3233,0.06619303058842799
+"sex=Male, workclass=Self-emp-not-inc",2,3233,0.06619303058842799
+"occupation=Exec-managerial, relationship=Husband, sex=Male",3,3231,0.06615208222431514
+"marital-status=Married-civ-spouse, occupation=Exec-managerial, relationship=Husband",3,3231,0.06615208222431514
+"occupation=Exec-managerial, relationship=Husband",2,3231,0.06615208222431514
+"marital-status=Divorced, race=White, relationship=Not-in-family",3,3228,0.06609065967814585
+"hours-per-week=long, income=>50K, marital-status=Married-civ-spouse",3,3219,0.06590639203963802
+"capital-gain=zero, race=White, workclass=Self-emp-not-inc",3,3213,0.06578354694729946
+"capital-gain=zero, income=<=50K, occupation=Prof-specialty",3,3212,0.06576307276524303
+"native-country=United-States, relationship=Unmarried, workclass=Private",3,3208,0.06568117603701733
+"age=middle, native-country=United-States, occupation=Prof-specialty",3,3196,0.0654354858523402
+"age=older, education-num=9, income=<=50K",3,3187,0.06525121821383235
+"age=older, education=HS-grad, income=<=50K",3,3187,0.06525121821383235
+"marital-status=Married-civ-spouse, occupation=Prof-specialty",2,3182,0.06514884730355022
+"capital-loss=zero, occupation=Prof-specialty, workclass=Private",3,3181,0.06512837312149379
+"capital-loss=zero, hours-per-week=normal, relationship=Unmarried",3,3180,0.06510789893943737
+"income=<=50K, occupation=Exec-managerial",2,3178,0.06506695057532452
+"income=<=50K, marital-status=Divorced, relationship=Not-in-family",3,3175,0.06500552802915524
+"age=middle, hours-per-week=long, relationship=Husband",3,3172,0.06494410548298596
+"age=middle, hours-per-week=long, income=<=50K",3,3165,0.06480078620859096
+"capital-gain=zero, native-country=United-States, workclass=Self-emp-not-inc",3,3160,0.06469841529830883
+"capital-gain=zero, occupation=Sales, sex=Male",3,3157,0.06463699275213955
+"age=middle, capital-gain=zero, occupation=Prof-specialty",3,3155,0.0645960443880267
+"occupation=Other-service, race=White, workclass=Private",3,3149,0.06447319929568814
+"age=older, income=<=50K, sex=Female",3,3148,0.0644527251136317
+"capital-loss=zero, race=Black, workclass=Private",3,3146,0.06441177674951885
+"hours-per-week=normal, marital-status=Divorced, workclass=Private",3,3137,0.06422750911101102
+workclass=Local-gov,1,3136,0.06420703492895459
+"native-country=United-States, relationship=Own-child, sex=Female",3,3134,0.06416608656484174
+"relationship=Own-child, sex=Male, workclass=Private",3,3129,0.0640637156545596
+"capital-gain=zero, hours-per-week=normal, relationship=Unmarried",3,3127,0.06402276729044674
+"age=middle, occupation=Prof-specialty, race=White",3,3125,0.0639818189263339
+"education=Bachelors, hours-per-week=normal, workclass=Private",3,3118,0.0638384996519389
+"education-num=13, hours-per-week=normal, workclass=Private",3,3118,0.0638384996519389
+"hours-per-week=normal, income=<=50K, relationship=Unmarried",3,3116,0.06379755128782605
+"age=middle, capital-loss=zero, occupation=Exec-managerial",3,3113,0.06373612874165677
+"age=middle, education-num=10, hours-per-week=normal",3,3112,0.06371565455960035
+"age=middle, education=Some-college, hours-per-week=normal",3,3112,0.06371565455960035
+"capital-gain=positive, sex=Male",2,3097,0.06340854182875394
+"capital-loss=zero, hours-per-week=normal, occupation=Prof-specialty",3,3097,0.06340854182875394
+"capital-gain=positive, capital-loss=zero, sex=Male",3,3097,0.06340854182875394
+"education-num=13, income=<=50K, workclass=Private",3,3090,0.06326522255435896
+"education=Bachelors, income=<=50K, workclass=Private",3,3090,0.06326522255435896
+"hours-per-week=normal, race=Black",2,3077,0.0629990581876254
+"age=young, education-num=10, native-country=United-States",3,3076,0.06297858400556898
+"age=young, education=Some-college, native-country=United-States",3,3076,0.06297858400556898
+"capital-gain=zero, race=Black, workclass=Private",3,3076,0.06297858400556898
+"education=HS-grad, hours-per-week=normal, sex=Female",3,3074,0.06293763564145613
+"education-num=9, hours-per-week=normal, sex=Female",3,3074,0.06293763564145613
+"age=middle, native-country=United-States, occupation=Exec-managerial",3,3073,0.0629171614593997
+"hours-per-week=normal, occupation=Adm-clerical, race=White",3,3060,0.06265099709266615
+"capital-loss=zero, income=<=50K, occupation=Exec-managerial",3,3060,0.06265099709266615
+"capital-loss=zero, hours-per-week=normal, occupation=Exec-managerial",3,3056,0.06256910036444044
+"hours-per-week=long, income=>50K, relationship=Husband",3,3051,0.06246672945415831
+"capital-gain=zero, education=Bachelors, relationship=Husband",3,3050,0.06244625527210188
+"capital-gain=zero, education-num=13, relationship=Husband",3,3050,0.06244625527210188
+"education=Bachelors, hours-per-week=normal, sex=Male",3,3049,0.06242578109004545
+"education-num=13, hours-per-week=normal, sex=Male",3,3049,0.06242578109004545
+"capital-loss=zero, sex=Male, workclass=Self-emp-not-inc",3,3044,0.06232341017976332
+"income=<=50K, native-country=United-States, occupation=Prof-specialty",3,3041,0.062261987633594036
+"age=middle, relationship=Unmarried",2,3038,0.062200565087424754
+"occupation=Adm-clerical, race=White, sex=Female",3,3035,0.06213914254125548
+"capital-gain=zero, income=<=50K, occupation=Exec-managerial",3,3028,0.06199582326686049
+"marital-status=Never-married, relationship=Not-in-family, sex=Female",3,3025,0.06193440072069121
+"hours-per-week=normal, native-country=United-States, occupation=Exec-managerial",3,3024,0.061913926538634784
+"occupation=Prof-specialty, race=White, workclass=Private",3,3023,0.06189345235657835
+occupation=Machine-op-inspct,1,3022,0.06187297817452193
+"education=Bachelors, income=>50K, native-country=United-States",3,3020,0.06183202981040908
+"education-num=13, income=>50K, native-country=United-States",3,3020,0.06183202981040908
+"age=middle, hours-per-week=low",2,3017,0.061770607264239795
+"capital-gain=zero, marital-status=Married-civ-spouse, occupation=Exec-managerial",3,3012,0.061668236353957656
+"race=White, sex=Male, workclass=Self-emp-not-inc",3,3010,0.061627287989844806
+"hours-per-week=normal, marital-status=Never-married, relationship=Own-child",3,3009,0.06160681380778838
+"age=older, race=White, sex=Female",3,3006,0.0615453912616191
+"age=young, hours-per-week=low, relationship=Own-child",3,3005,0.061524917079562674
+"education-num=13, income=>50K, race=White",3,3005,0.061524917079562674
+"education=Bachelors, income=>50K, race=White",3,3005,0.061524917079562674
+"native-country=United-States, occupation=Prof-specialty, workclass=Private",3,2999,0.06140207198722411
+"occupation=Exec-managerial, race=White, relationship=Husband",3,2998,0.061381597805167686
+"education=HS-grad, relationship=Not-in-family, workclass=Private",3,2998,0.061381597805167686
+"education-num=9, relationship=Not-in-family, workclass=Private",3,2998,0.061381597805167686
+"hours-per-week=low, race=White, relationship=Own-child",3,2994,0.06129970107694198
+"education-num=10, sex=Female, workclass=Private",3,2990,0.06121780434871627
+"education=Some-college, sex=Female, workclass=Private",3,2990,0.06121780434871627
+"hours-per-week=low, sex=Male, workclass=Private",3,2990,0.06121780434871627
+"age=middle, occupation=Exec-managerial, race=White",3,2988,0.061176855984603415
+"age=young, education=Some-college, marital-status=Never-married",3,2974,0.06089021743581344
+"age=young, education-num=10, marital-status=Never-married",3,2974,0.06089021743581344
+"capital-loss=zero, hours-per-week=normal, race=Black",3,2973,0.06086974325375701
+"native-country=United-States, occupation=Exec-managerial, relationship=Husband",3,2971,0.060828794889644155
+"hours-per-week=normal, native-country=United-States, occupation=Prof-specialty",3,2967,0.06074689816141845
+"capital-loss=zero, education-num=13, income=>50K",3,2966,0.060726423979362024
+"capital-loss=zero, education=Bachelors, income=>50K",3,2966,0.060726423979362024
+"age=middle, capital-loss=zero, relationship=Unmarried",3,2964,0.060685475615249174
+"marital-status=Never-married, relationship=Own-child, sex=Female",3,2962,0.06064452725113632
+"capital-loss=zero, workclass=Local-gov",2,2961,0.06062405306907989
+"capital-gain=zero, hours-per-week=long, income=>50K",3,2958,0.06056263052291061
+"capital-gain=zero, occupation=Prof-specialty, workclass=Private",3,2952,0.060439785430572046
+"age=middle, capital-gain=zero, occupation=Exec-managerial",3,2949,0.06037836288440277
+"native-country=United-States, sex=Male, workclass=Self-emp-not-inc",3,2945,0.06029646615617706
+"education-num=9, hours-per-week=low",2,2942,0.06023504361000778
+"education-num=9, education=HS-grad, hours-per-week=low",3,2942,0.06023504361000778
+"education=HS-grad, hours-per-week=low",2,2942,0.06023504361000778
+"native-country=United-States, workclass=Local-gov",2,2941,0.06021456942795135
+"education=Some-college, hours-per-week=low",2,2935,0.060091724335612794
+"age=older, relationship=Not-in-family",2,2935,0.060091724335612794
+"education-num=10, hours-per-week=low",2,2935,0.060091724335612794
+"education-num=10, education=Some-college, hours-per-week=low",3,2935,0.060091724335612794
+"native-country=United-States, race=Black, workclass=Private",3,2933,0.06005077597149994
+"capital-loss=zero, occupation=Exec-managerial, relationship=Husband",3,2933,0.06005077597149994
+"capital-gain=zero, hours-per-week=normal, occupation=Prof-specialty",3,2923,0.05984603415093567
+"age=middle, capital-loss=zero, hours-per-week=low",3,2922,0.05982555996887924
+"age=older, education-num=9, sex=Male",3,2920,0.05978461160476639
+"age=older, education=HS-grad, sex=Male",3,2920,0.05978461160476639
+"income=<=50K, race=Black, workclass=Private",3,2917,0.05972318905859711
+"capital-loss=zero, occupation=Machine-op-inspct",2,2917,0.05972318905859711
+"capital-gain=zero, hours-per-week=normal, occupation=Exec-managerial",3,2915,0.05968224069448425
+"income=<=50K, native-country=United-States, occupation=Exec-managerial",3,2912,0.05962081814831498
+"education-num=9, education=HS-grad, occupation=Craft-repair",3,2911,0.059600343966258545
+"education-num=9, occupation=Craft-repair",2,2911,0.059600343966258545
+"education=HS-grad, occupation=Craft-repair",2,2911,0.059600343966258545
+"age=middle, marital-status=Never-married, sex=Female",3,2910,0.05957986978420212
+"income=>50K, occupation=Exec-managerial",2,2908,0.05953892142008927
+"occupation=Adm-clerical, sex=Female, workclass=Private",3,2907,0.05951844723803284
+"income=<=50K, occupation=Prof-specialty, race=White",3,2905,0.05947749887391999
+"hours-per-week=normal, native-country=United-States, relationship=Unmarried",3,2904,0.05945702469186356
+"capital-gain=zero, hours-per-week=normal, race=Black",3,2902,0.05941607632775071
+"capital-gain=zero, sex=Male, workclass=Self-emp-not-inc",3,2895,0.05927275705335572
+"education-num=9, hours-per-week=normal, marital-status=Never-married",3,2889,0.059149911961017154
+"capital-loss=zero, marital-status=Married-civ-spouse, occupation=Prof-specialty",3,2889,0.059149911961017154
+"education=HS-grad, hours-per-week=normal, marital-status=Never-married",3,2889,0.059149911961017154
+"hours-per-week=normal, race=White, relationship=Own-child",3,2886,0.05908848941484788
+"age=middle, capital-gain=zero, relationship=Unmarried",3,2885,0.05906801523279145
+"age=middle, income=<=50K, relationship=Unmarried",3,2884,0.05904754105073502
+"occupation=Machine-op-inspct, workclass=Private",2,2882,0.05900659268662217
+"hours-per-week=normal, occupation=Exec-managerial, race=White",3,2880,0.058965644322509315
+"marital-status=Married-civ-spouse, occupation=Craft-repair, workclass=Private",3,2879,0.05894517014045289
+"age=young, education=Some-college, race=White",3,2870,0.058760902501945045
+"age=young, education-num=10, race=White",3,2870,0.058760902501945045
+"marital-status=Divorced, sex=Female, workclass=Private",3,2870,0.058760902501945045
+"hours-per-week=normal, occupation=Prof-specialty, race=White",3,2862,0.05859710904549363
+"hours-per-week=normal, occupation=Adm-clerical, workclass=Private",3,2859,0.05853568649932435
+"capital-loss=zero, education=Some-college, hours-per-week=low",3,2859,0.05853568649932435
+"capital-loss=zero, education-num=10, hours-per-week=low",3,2859,0.05853568649932435
+"marital-status=Married-civ-spouse, occupation=Prof-specialty, race=White",3,2859,0.05853568649932435
+"capital-loss=zero, education=HS-grad, hours-per-week=low",3,2856,0.058474263953155074
+"capital-loss=zero, education-num=9, hours-per-week=low",3,2856,0.058474263953155074
+"age=middle, income=<=50K, occupation=Craft-repair",3,2856,0.058474263953155074
+"capital-gain=zero, workclass=Local-gov",2,2853,0.05841284140698579
+"age=middle, occupation=Craft-repair, workclass=Private",3,2853,0.05841284140698579
+"hours-per-week=low, marital-status=Never-married, sex=Female",3,2846,0.058269522132590804
+"age=middle, capital-gain=zero, hours-per-week=low",3,2845,0.05824904795053438
+"age=older, education-num=9, workclass=Private",3,2843,0.05820809958642152
+"age=older, education=HS-grad, workclass=Private",3,2843,0.05820809958642152
+"age=young, education-num=9, education=HS-grad",3,2837,0.05808525449408296
+"age=young, education-num=9",2,2837,0.05808525449408296
+"age=young, education=HS-grad",2,2837,0.05808525449408296
+"age=middle, marital-status=Divorced, workclass=Private",3,2833,0.05800335776585725
+"capital-gain=zero, occupation=Machine-op-inspct",2,2832,0.057982883583800826
+"age=young, relationship=Own-child, sex=Male",3,2828,0.05790098685557512
+"relationship=Unmarried, sex=Female, workclass=Private",3,2825,0.05783956430940584
+"capital-gain=zero, education-num=10, hours-per-week=low",3,2824,0.05781909012734941
+"capital-gain=zero, education=Some-college, hours-per-week=low",3,2824,0.05781909012734941
+"capital-gain=positive, native-country=United-States, sex=Male",3,2819,0.05771671921706728
+"hours-per-week=normal, native-country=United-States, race=Black",3,2811,0.05755292576061587
+occupation=Missing,1,2809,0.05751197739650301
+"occupation=Craft-repair, relationship=Husband, workclass=Private",3,2809,0.05751197739650301
+"race=White, relationship=Own-child, sex=Female",3,2806,0.05745055485033373
+"education-num=9, marital-status=Never-married, sex=Male",3,2806,0.05745055485033373
+"marital-status=Married-civ-spouse, native-country=United-States, occupation=Prof-specialty",3,2806,0.05745055485033373
+"education=HS-grad, marital-status=Never-married, sex=Male",3,2806,0.05745055485033373
+"age=older, capital-loss=zero, relationship=Not-in-family",3,2806,0.05745055485033373
+"age=young, education=HS-grad, income=<=50K",3,2804,0.05740960648622088
+"age=young, education-num=9, income=<=50K",3,2804,0.05740960648622088
+"occupation=Missing, workclass=Missing",2,2799,0.05730723557593874
+workclass=Missing,1,2799,0.05730723557593874
+"education=HS-grad, hours-per-week=low, income=<=50K",3,2797,0.05726628721182589
+"education-num=9, hours-per-week=low, income=<=50K",3,2797,0.05726628721182589
+"education-num=13, income=>50K, sex=Male",3,2792,0.05716391630154375
+"education=Bachelors, income=>50K, sex=Male",3,2792,0.05716391630154375
+"age=middle, education=Bachelors, income=<=50K",3,2788,0.057082019573318044
+"income=<=50K, occupation=Exec-managerial, race=White",3,2788,0.057082019573318044
+"age=middle, education-num=13, income=<=50K",3,2788,0.057082019573318044
+"age=middle, education-num=13, hours-per-week=normal",3,2786,0.057041071209205194
+"age=middle, education=Bachelors, hours-per-week=normal",3,2786,0.057041071209205194
+"income=<=50K, workclass=Self-emp-not-inc",2,2785,0.05702059702714877
+"capital-gain=positive, race=White, sex=Male",3,2785,0.05702059702714877
+"income=>50K, occupation=Prof-specialty",2,2784,0.05700012284509234
+"capital-gain=zero, education-num=9, hours-per-week=low",3,2784,0.05700012284509234
+"capital-gain=zero, education=HS-grad, hours-per-week=low",3,2784,0.05700012284509234
+"capital-loss=zero, occupation=Machine-op-inspct, workclass=Private",3,2783,0.05697964866303591
+"education=Some-college, hours-per-week=low, income=<=50K",3,2783,0.05697964866303591
+"education-num=10, hours-per-week=low, income=<=50K",3,2783,0.05697964866303591
+"education-num=13, income=>50K, marital-status=Married-civ-spouse",3,2780,0.05691822611686663
+"education=Bachelors, income=>50K, marital-status=Married-civ-spouse",3,2780,0.05691822611686663
+"capital-loss=zero, education-num=9, occupation=Craft-repair",3,2779,0.056897751934810205
+"capital-loss=zero, education=HS-grad, occupation=Craft-repair",3,2779,0.056897751934810205
+"capital-loss=zero, native-country=United-States, workclass=Local-gov",3,2777,0.05685680357069735
+"age=young, capital-loss=zero, education=HS-grad",3,2771,0.05673395847835879
+"age=young, capital-loss=zero, education-num=9",3,2771,0.05673395847835879
+"hours-per-week=low, marital-status=Married-civ-spouse",2,2766,0.05663158756807665
+"age=middle, occupation=Adm-clerical",2,2761,0.05652921665779452
+"age=young, capital-gain=zero, education-num=9",3,2760,0.056508742475738095
+"age=young, capital-gain=zero, education=HS-grad",3,2760,0.056508742475738095
+"age=older, education=HS-grad, hours-per-week=normal",3,2756,0.05642684574751239
+"education=Bachelors, income=<=50K, sex=Male",3,2756,0.05642684574751239
+"age=older, education-num=9, hours-per-week=normal",3,2756,0.05642684574751239
+"education-num=13, income=<=50K, sex=Male",3,2756,0.05642684574751239
+"education-num=9, occupation=Craft-repair, sex=Male",3,2752,0.05634494901928668
+"education=HS-grad, occupation=Craft-repair, sex=Male",3,2752,0.05634494901928668
+"education=Some-college, hours-per-week=low, native-country=United-States",3,2746,0.05622210392694812
+"education-num=10, hours-per-week=low, native-country=United-States",3,2746,0.05622210392694812
+"race=White, relationship=Unmarried, sex=Female",3,2741,0.056119733016665986
+"education=Bachelors, hours-per-week=normal, income=<=50K",3,2730,0.05589451701404529
+"education-num=13, hours-per-week=normal, income=<=50K",3,2730,0.05589451701404529
+"education-num=10, education=Some-college, relationship=Not-in-family",3,2729,0.055874042831988865
+"education=Some-college, relationship=Not-in-family",2,2729,0.055874042831988865
+"education-num=10, relationship=Not-in-family",2,2729,0.055874042831988865
+"capital-gain=zero, capital-loss=zero, occupation=Machine-op-inspct",3,2727,0.05583309446787601
+"education=HS-grad, hours-per-week=low, native-country=United-States",3,2725,0.05579214610376315
+"education-num=9, hours-per-week=low, native-country=United-States",3,2725,0.05579214610376315
+"education=Some-college, marital-status=Married-civ-spouse, workclass=Private",3,2719,0.055669301011424595
+"education-num=10, marital-status=Married-civ-spouse, workclass=Private",3,2719,0.055669301011424595
+"age=middle, relationship=Not-in-family, sex=Female",3,2712,0.055525981737029606
+"education-num=9, native-country=United-States, occupation=Craft-repair",3,2711,0.05550550755497318
+"education=HS-grad, native-country=United-States, occupation=Craft-repair",3,2711,0.05550550755497318
+"capital-gain=zero, occupation=Machine-op-inspct, workclass=Private",3,2710,0.05548503337291675
+"age=young, hours-per-week=normal, sex=Male",3,2710,0.05548503337291675
+"age=older, capital-gain=zero, relationship=Not-in-family",3,2709,0.055464559190860324
+"age=middle, native-country=United-States, relationship=Unmarried",3,2709,0.055464559190860324
+"capital-loss=zero, occupation=Missing",2,2708,0.0554440850088039
+"hours-per-week=normal, income=<=50K, race=Black",3,2707,0.055423610826747474
+"marital-status=Married-civ-spouse, occupation=Prof-specialty, sex=Male",3,2705,0.05538266246263462
+"occupation=Exec-managerial, sex=Male, workclass=Private",3,2702,0.055321239916465335
+"age=older, native-country=United-States, relationship=Not-in-family",3,2700,0.055280291552352485
+"occupation=Other-service, sex=Female",2,2698,0.05523934318823963
+"capital-loss=zero, occupation=Missing, workclass=Missing",3,2698,0.05523934318823963
+"capital-loss=zero, workclass=Missing",2,2698,0.05523934318823963
+"income=>50K, native-country=United-States, occupation=Exec-managerial",3,2694,0.05515744646001392
+"race=White, relationship=Unmarried, workclass=Private",3,2694,0.05515744646001392
+"occupation=Prof-specialty, relationship=Husband",2,2693,0.0551369722779575
+"occupation=Prof-specialty, relationship=Husband, sex=Male",3,2693,0.0551369722779575
+"capital-gain=zero, occupation=Exec-managerial, relationship=Husband",3,2693,0.0551369722779575
+"capital-loss=zero, income=<=50K, workclass=Self-emp-not-inc",3,2691,0.05509602391384464
+"marital-status=Married-civ-spouse, occupation=Prof-specialty, relationship=Husband",3,2691,0.05509602391384464
+"hours-per-week=normal, relationship=Own-child, workclass=Private",3,2690,0.055075549731788215
+"income=>50K, occupation=Exec-managerial, race=White",3,2686,0.05499365300356251
+"capital-gain=zero, education=HS-grad, occupation=Craft-repair",3,2686,0.05499365300356251
+"capital-gain=zero, education-num=9, occupation=Craft-repair",3,2686,0.05499365300356251
+"age=older, hours-per-week=long",2,2685,0.05497317882150608
+"capital-gain=positive, capital-loss=zero, marital-status=Married-civ-spouse",3,2683,0.054932230457393226
+"capital-gain=positive, marital-status=Married-civ-spouse",2,2683,0.054932230457393226
+"education-num=13, education=Bachelors, marital-status=Never-married",3,2681,0.054891282093280376
+"education-num=13, marital-status=Never-married",2,2681,0.054891282093280376
+"education=Bachelors, marital-status=Never-married",2,2681,0.054891282093280376
+"capital-gain=zero, capital-loss=zero, workclass=Local-gov",3,2678,0.054829859547111094
+"capital-gain=zero, native-country=United-States, workclass=Local-gov",3,2674,0.05474796281888539
+"hours-per-week=normal, marital-status=Married-civ-spouse, occupation=Craft-repair",3,2665,0.05456369518037754
+"age=middle, capital-loss=zero, occupation=Adm-clerical",3,2664,0.05454322099832112
+education=Masters,1,2657,0.05439990172392613
+"education-num=14, education=Masters",2,2657,0.05439990172392613
+education-num=14,1,2657,0.05439990172392613
+"occupation=Sales, sex=Male, workclass=Private",3,2656,0.0543794275418697
+"income=<=50K, occupation=Machine-op-inspct",2,2650,0.05425658244953114
+"capital-loss=zero, occupation=Other-service, sex=Female",3,2648,0.05421563408541829
+"age=middle, hours-per-week=low, income=<=50K",3,2644,0.05413373735719258
+"education=HS-grad, occupation=Craft-repair, race=White",3,2640,0.054051840628966875
+"education-num=9, occupation=Craft-repair, race=White",3,2640,0.054051840628966875
+"capital-gain=zero, income=<=50K, workclass=Self-emp-not-inc",3,2640,0.054051840628966875
+"age=older, hours-per-week=normal, income=>50K",3,2637,0.053990418082797594
+"age=older, income=>50K, workclass=Private",3,2637,0.053990418082797594
+"capital-gain=zero, occupation=Missing",2,2635,0.05394946971868474
+"capital-gain=zero, marital-status=Married-civ-spouse, occupation=Prof-specialty",3,2634,0.05392899553662831
+"marital-status=Divorced, sex=Male",2,2632,0.053888047172515455
+"capital-loss=zero, education=Some-college, relationship=Not-in-family",3,2632,0.053888047172515455
+"capital-loss=zero, education-num=10, relationship=Not-in-family",3,2632,0.053888047172515455
+"capital-loss=zero, hours-per-week=low, marital-status=Married-civ-spouse",3,2631,0.05386757299045903
+"age=young, education-num=9, native-country=United-States",3,2627,0.05378567626223332
+"age=young, education=HS-grad, native-country=United-States",3,2627,0.05378567626223332
+"capital-gain=zero, workclass=Missing",2,2625,0.05374472789812047
+"capital-gain=zero, occupation=Missing, workclass=Missing",3,2625,0.05374472789812047
+"income=<=50K, occupation=Other-service, sex=Female",3,2620,0.053642356987838334
+"hours-per-week=low, relationship=Own-child, workclass=Private",3,2617,0.05358093444166905
+"capital-gain=zero, occupation=Other-service, sex=Female",3,2615,0.0535399860775562
+"hours-per-week=normal, marital-status=Divorced, sex=Female",3,2613,0.053499037713443345
+"age=middle, hours-per-week=low, native-country=United-States",3,2611,0.053458089349330495
+"hours-per-week=normal, occupation=Craft-repair, relationship=Husband",3,2605,0.05333524425699193
+"age=older, education-num=9, marital-status=Married-civ-spouse",3,2592,0.053069079890258386
+"age=older, education=HS-grad, marital-status=Married-civ-spouse",3,2592,0.053069079890258386
+"capital-gain=zero, education=Some-college, relationship=Not-in-family",3,2588,0.05298718316203268
+"capital-gain=zero, education-num=10, relationship=Not-in-family",3,2588,0.05298718316203268
+"education-num=13, marital-status=Married-civ-spouse, workclass=Private",3,2585,0.0529257606158634
+"capital-gain=zero, education-num=13, income=>50K",3,2585,0.0529257606158634
+"education=Bachelors, marital-status=Married-civ-spouse, workclass=Private",3,2585,0.0529257606158634
+"capital-gain=zero, education=Bachelors, income=>50K",3,2585,0.0529257606158634
+"hours-per-week=low, relationship=Not-in-family",2,2583,0.05288481225175054
+"capital-gain=positive, workclass=Private",2,2580,0.052823389705581265
+"capital-loss=zero, income=>50K, occupation=Exec-managerial",3,2580,0.052823389705581265
+"capital-gain=positive, capital-loss=zero, workclass=Private",3,2580,0.052823389705581265
+"age=middle, capital-gain=zero, occupation=Adm-clerical",3,2578,0.05278244134146841
+"capital-loss=zero, income=<=50K, occupation=Machine-op-inspct",3,2575,0.05272101879529913
+"age=middle, education-num=13, marital-status=Married-civ-spouse",3,2573,0.05268007043118628
+"education-num=10, relationship=Own-child",2,2573,0.05268007043118628
+"education-num=10, education=Some-college, relationship=Own-child",3,2573,0.05268007043118628
+"education=Some-college, relationship=Own-child",2,2573,0.05268007043118628
+"age=middle, education=Bachelors, marital-status=Married-civ-spouse",3,2573,0.05268007043118628
+"income=<=50K, race=White, workclass=Self-emp-not-inc",3,2567,0.05255722533884771
+"income=<=50K, marital-status=Married-civ-spouse, occupation=Craft-repair",3,2566,0.05253675115679129
+"capital-loss=zero, education-num=13, marital-status=Never-married",3,2564,0.05249580279267843
+"capital-loss=zero, education=Bachelors, marital-status=Never-married",3,2564,0.05249580279267843
+"marital-status=Divorced, relationship=Not-in-family, workclass=Private",3,2561,0.05243438024650915
+"native-country=United-States, occupation=Machine-op-inspct",2,2561,0.05243438024650915
+"education=Some-college, income=<=50K, relationship=Not-in-family",3,2559,0.0523934318823963
+"education-num=10, income=<=50K, relationship=Not-in-family",3,2559,0.0523934318823963
+"education-num=10, native-country=United-States, relationship=Not-in-family",3,2559,0.0523934318823963
+"education=Some-college, native-country=United-States, relationship=Not-in-family",3,2559,0.0523934318823963
+"race=White, workclass=Local-gov",2,2559,0.0523934318823963
+"relationship=Own-child, sex=Female, workclass=Private",3,2554,0.05229106097211417
+"marital-status=Married-civ-spouse, workclass=Self-emp-not-inc",2,2554,0.05229106097211417
+"education-num=10, income=<=50K, relationship=Own-child",3,2544,0.0520863191515499
+"income=<=50K, occupation=Missing",2,2544,0.0520863191515499
+"education=Some-college, income=<=50K, relationship=Own-child",3,2544,0.0520863191515499
+"income=<=50K, occupation=Machine-op-inspct, workclass=Private",3,2541,0.052024896605380615
+"native-country=United-States, occupation=Missing",2,2540,0.05200442242332419
+"age=middle, hours-per-week=normal, occupation=Craft-repair",3,2535,0.05190205151304205
+"capital-gain=zero, income=<=50K, occupation=Machine-op-inspct",3,2534,0.051881577330985626
+"income=<=50K, workclass=Missing",2,2534,0.051881577330985626
+"capital-gain=zero, capital-loss=zero, occupation=Missing",3,2534,0.051881577330985626
+"income=<=50K, occupation=Missing, workclass=Missing",3,2534,0.051881577330985626
+"hours-per-week=normal, occupation=Adm-clerical, sex=Female",3,2533,0.0518611031489292
+"education-num=10, hours-per-week=low, race=White",3,2532,0.051840628966872776
+"education=Some-college, hours-per-week=low, race=White",3,2532,0.051840628966872776
+"native-country=United-States, occupation=Missing, workclass=Missing",3,2530,0.05179968060275992
+"native-country=United-States, workclass=Missing",2,2530,0.05179968060275992
+"income=<=50K, native-country=United-States, workclass=Self-emp-not-inc",3,2530,0.05179968060275992
+"age=middle, race=Black",2,2525,0.05169730969247779
+"capital-gain=zero, capital-loss=zero, workclass=Missing",3,2524,0.051676835510421355
+"capital-gain=zero, education-num=13, marital-status=Never-married",3,2520,0.05159493878219565
+"capital-gain=zero, education=Bachelors, marital-status=Never-married",3,2520,0.05159493878219565
+"capital-loss=zero, hours-per-week=low, relationship=Not-in-family",3,2519,0.05157446460013922
+"age=middle, native-country=United-States, occupation=Adm-clerical",3,2518,0.0515539904180828
+"hours-per-week=normal, relationship=Unmarried, sex=Female",3,2514,0.05147209368985709
+"income=>50K, occupation=Prof-specialty, race=White",3,2514,0.05147209368985709
+"capital-gain=zero, education=Some-college, relationship=Own-child",3,2512,0.051431145325744235
+"capital-gain=zero, education-num=10, relationship=Own-child",3,2512,0.051431145325744235
+"age=middle, occupation=Sales",2,2506,0.05130830023340568
+"income=<=50K, occupation=Craft-repair, relationship=Husband",3,2506,0.05130830023340568
+"capital-loss=zero, education-num=10, relationship=Own-child",3,2505,0.051287826051349246
+"hours-per-week=low, income=<=50K, relationship=Not-in-family",3,2505,0.051287826051349246
+"capital-loss=zero, education=Some-college, relationship=Own-child",3,2505,0.051287826051349246
+"capital-loss=zero, marital-status=Divorced, sex=Male",3,2504,0.05126735186929282
+"education-num=13, education=Bachelors, relationship=Not-in-family",3,2503,0.051246877687236396
+"education-num=9, education=HS-grad, income=>50K",3,2503,0.051246877687236396
+"age=older, race=White, relationship=Not-in-family",3,2503,0.051246877687236396
+"education=HS-grad, income=>50K",2,2503,0.051246877687236396
+"education-num=13, relationship=Not-in-family",2,2503,0.051246877687236396
+"education-num=9, income=>50K",2,2503,0.051246877687236396
+"education=Bachelors, relationship=Not-in-family",2,2503,0.051246877687236396
+"age=older, income=<=50K, relationship=Not-in-family",3,2500,0.051185455141067114
+"education-num=9, hours-per-week=long",2,2499,0.05116498095901069
+"education=HS-grad, hours-per-week=long",2,2499,0.05116498095901069
+"education-num=9, education=HS-grad, hours-per-week=long",3,2499,0.05116498095901069
+"age=middle, hours-per-week=normal, marital-status=Divorced",3,2491,0.051001187502559275
+"capital-gain=positive, income=>50K",2,2491,0.051001187502559275
+"capital-gain=positive, capital-loss=zero, income=>50K",3,2491,0.051001187502559275
+"marital-status=Married-civ-spouse, occupation=Sales",2,2491,0.051001187502559275
+"income=>50K, occupation=Exec-managerial, sex=Male",3,2487,0.05091929077433357
+"capital-loss=zero, income=>50K, occupation=Prof-specialty",3,2487,0.05091929077433357
+"marital-status=Married-civ-spouse, sex=Female",2,2480,0.05077597149993858
+"marital-status=Divorced, native-country=United-States, sex=Male",3,2478,0.05073502313582572
+"education-num=13, education=Bachelors, sex=Female",3,2477,0.0507145489537693
+"education=Bachelors, sex=Female",2,2477,0.0507145489537693
+"education-num=13, sex=Female",2,2477,0.0507145489537693
+"age=older, hours-per-week=long, race=White",3,2475,0.05067360058965644
+"age=older, capital-loss=zero, hours-per-week=long",3,2474,0.050653126407600016
+"hours-per-week=low, marital-status=Never-married, sex=Male",3,2474,0.050653126407600016
+"capital-loss=zero, native-country=United-States, occupation=Machine-op-inspct",3,2468,0.05053028131526145
+"capital-gain=zero, hours-per-week=low, relationship=Not-in-family",3,2467,0.05050980713320503
+"age=older, hours-per-week=long, native-country=United-States",3,2465,0.05046885876909218
+"income=>50K, native-country=United-States, occupation=Prof-specialty",3,2465,0.05046885876909218
+"capital-loss=zero, income=<=50K, occupation=Missing",3,2465,0.05046885876909218
+"education-num=13, income=>50K, relationship=Husband",3,2462,0.050407436222922895
+"education=Bachelors, income=>50K, relationship=Husband",3,2462,0.050407436222922895
+"hours-per-week=low, marital-status=Married-civ-spouse, race=White",3,2460,0.05036648785881004
+"capital-gain=zero, hours-per-week=low, marital-status=Married-civ-spouse",3,2455,0.05026411694852791
+"capital-loss=zero, income=<=50K, workclass=Missing",3,2455,0.05026411694852791
+"education=HS-grad, hours-per-week=low, race=White",3,2452,0.050202694402358625
+"education-num=9, hours-per-week=low, race=White",3,2452,0.050202694402358625
+"income=>50K, marital-status=Married-civ-spouse, occupation=Exec-managerial",3,2451,0.0501822202203022
+"capital-loss=zero, native-country=United-States, occupation=Missing",3,2449,0.05014127185618934
+"hours-per-week=low, marital-status=Married-civ-spouse, native-country=United-States",3,2447,0.05010032349207649
+"capital-loss=zero, occupation=Prof-specialty, relationship=Husband",3,2446,0.05007984931002007
+"age=middle, hours-per-week=low, race=White",3,2443,0.050018426763850786

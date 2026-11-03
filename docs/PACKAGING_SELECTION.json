@@ -1,0 +1,825 @@
+{
+  "copied": [
+    {
+      "path": "adult project/adult/adult.data",
+      "source": "adult project/adult/adult.data",
+      "bytes": 3974305,
+      "sha256": "5b00264637dbfec36bdeaab5676b0b309ff9eb788d63554ca0a249491c86603d"
+    },
+    {
+      "path": "adult project/adult/adult.names",
+      "source": "adult project/adult/adult.names",
+      "bytes": 5229,
+      "sha256": "c248284c0b5de30c9e1958d6cdd168a34a654758b620e68f46aefa83fc0a576a"
+    },
+    {
+      "path": "adult project/adult/adult.test",
+      "source": "adult project/adult/adult.test",
+      "bytes": 2003153,
+      "sha256": "a2a9044bc167a35b2361efbabec64e89d69ce82d9790d2980119aac5fd7e9c05"
+    },
+    {
+      "path": "adult project/adult/Index",
+      "source": "adult project/adult/Index",
+      "bytes": 140,
+      "sha256": "c53c35ce8a0eb10c12dd4b73830f3c94ae212bb388389d3763bce63e8d6bc684"
+    },
+    {
+      "path": "adult project/adult/old.adult.names",
+      "source": "adult project/adult/old.adult.names",
+      "bytes": 4267,
+      "sha256": "43cca99f2bdbff47fc2f7e29a27a5c85e7f69dbcf56b99db8cf4f5b68d639408"
+    },
+    {
+      "path": "adult project/evaluation.py",
+      "source": "adult project/evaluation.py",
+      "bytes": 18263,
+      "sha256": "c2c4bab65a6426170fd425f659d4a21d43fa5a6e84a5bd5eeea75b71019de170"
+    },
+    {
+      "path": "adult project/evaluation_demo.md",
+      "source": "adult project/evaluation_demo.md",
+      "bytes": 13158,
+      "sha256": "c3844f6d9377c6fc017dac71dc0dccc726fbda6c6b3d02d9572801df3fd93586"
+    },
+    {
+      "path": "adult project/models.py",
+      "source": "adult project/models.py",
+      "bytes": 11606,
+      "sha256": "1324ff06f62320e8837604464025e5111277c90353e4e038d43010dd0c98b4b6"
+    },
+    {
+      "path": "adult project/outputs/evaluation/adult_comparison/accuracy_comparison.png",
+      "source": "adult project/outputs/evaluation/adult_comparison/accuracy_comparison.png",
+      "bytes": 132404,
+      "sha256": "1e02188af05529442dc02a2192f91ba2408c5cc2236a719854e56b0ca3adcdf6"
+    },
+    {
+      "path": "adult project/outputs/evaluation/adult_comparison/adult_all_schemes_results.csv",
+      "source": "adult project/outputs/evaluation/adult_comparison/adult_all_schemes_results.csv",
+      "bytes": 1935,
+      "sha256": "71450f0294d03d120bd7e65d3540c4c088524364e948863cc7efed68f1b27838"
+    },
+    {
+      "path": "adult project/outputs/evaluation/adult_comparison/adult_all_schemes_results.xlsx",
+      "source": "adult project/outputs/evaluation/adult_comparison/adult_all_schemes_results.xlsx",
+      "bytes": 6683,
+      "sha256": "4cc51dc6015ee29762325df81c873a3b0c20aff534d07494b5a7df6d70845965"
+    },
+    {
+      "path": "adult project/outputs/evaluation/adult_comparison/f1_comparison.png",
+      "source": "adult project/outputs/evaluation/adult_comparison/f1_comparison.png",
+      "bytes": 121993,
+      "sha256": "1f2b2d075429cc663633901660dd29073badb1b862ec7a6bfa11f97116d15442"
+    },
+    {
+      "path": "adult project/outputs/evaluation/adult_comparison/roc_auc_comparison.png",
+      "source": "adult project/outputs/evaluation/adult_comparison/roc_auc_comparison.png",
+      "bytes": 132279,
+      "sha256": "6f79e91553c31c1506f75b935532adef59cced6f913c10c9c12609dbe1745bf2"
+    },
+    {
+      "path": "adult project/outputs/evaluation/adult_scheme1/confusion_matrices.png",
+      "source": "adult project/outputs/evaluation/adult_scheme1/confusion_matrices.png",
+      "bytes": 136692,
+      "sha256": "058577a6a5830dfef15dd1ea2442dd2741e52468f6c7fc5f70f9eb5ad925517e"
+    },
+    {
+      "path": "adult project/outputs/evaluation/adult_scheme1/decision_tree.png",
+      "source": "adult project/outputs/evaluation/adult_scheme1/decision_tree.png",
+      "bytes": 582647,
+      "sha256": "d0b944cdb21f4929cc8377bffc800d605f6f9f2b71eff8e3c3a3bc5eb4c142bb"
+    },
+    {
+      "path": "adult project/outputs/evaluation/adult_scheme1/metrics.csv",
+      "source": "adult project/outputs/evaluation/adult_scheme1/metrics.csv",
+      "bytes": 653,
+      "sha256": "7c643dd1b7f26dcd4e5357ab93de8f62b4c78d6f53cd0306fe62f7a9947c0aa4"
+    },
+    {
+      "path": "adult project/outputs/evaluation/adult_scheme1/metrics.xlsx",
+      "source": "adult project/outputs/evaluation/adult_scheme1/metrics.xlsx",
+      "bytes": 5836,
+      "sha256": "b324241fce84179878c64a653992fe2c5025b535f8ea008afad10d9f3b9e0fdd"
+    },
+    {
+      "path": "adult project/outputs/evaluation/adult_scheme1/roc_curves.png",
+      "source": "adult project/outputs/evaluation/adult_scheme1/roc_curves.png",
+      "bytes": 227093,
+      "sha256": "359829dc41ed2e312744eeec52bd6a9dfe29350b833057193457fe079e7b00d9"
+    },
+    {
+      "path": "adult project/outputs/evaluation/scheme2/scheme2_confusion_matrices.png",
+      "source": "adult project/outputs/evaluation/scheme2/scheme2_confusion_matrices.png",
+      "bytes": 136631,
+      "sha256": "8ba182873b64772918539053ec526d083a62eaecc0815e32eedfbe7b2b790872"
+    },
+    {
+      "path": "adult project/outputs/evaluation/scheme2/scheme2_results.csv",
+      "source": "adult project/outputs/evaluation/scheme2/scheme2_results.csv",
+      "bytes": 652,
+      "sha256": "717fb62acfb0db98b7dbab598540427c4d25a9de9b3a1641bd5edba2777ff215"
+    },
+    {
+      "path": "adult project/outputs/evaluation/scheme2/scheme2_results.xlsx",
+      "source": "adult project/outputs/evaluation/scheme2/scheme2_results.xlsx",
+      "bytes": 5846,
+      "sha256": "7791558135051cfb6887e36aa4fe2f7116512b48e847bdfd3363cf7086b9b3d2"
+    },
+    {
+      "path": "adult project/outputs/evaluation/scheme2/scheme2_roc.png",
+      "source": "adult project/outputs/evaluation/scheme2/scheme2_roc.png",
+      "bytes": 227053,
+      "sha256": "c7e82fb8615210f28e50592c5903ad152eba82492916ada833ec18b4609e775a"
+    },
+    {
+      "path": "adult project/outputs/evaluation/scheme2/scheme2_tree.png",
+      "source": "adult project/outputs/evaluation/scheme2/scheme2_tree.png",
+      "bytes": 580282,
+      "sha256": "d181479c301725d8236c9a924530462232cf5475c0cab7dab522da6be574c6f4"
+    },
+    {
+      "path": "adult project/outputs/evaluation/scheme3/scheme3_confusion_matrices.png",
+      "source": "adult project/outputs/evaluation/scheme3/scheme3_confusion_matrices.png",
+      "bytes": 139942,
+      "sha256": "668e41109cb3d07ad75cfa3b1b87b3b46ceb21a74479398490fb04a94a03fcf4"
+    },
+    {
+      "path": "adult project/outputs/evaluation/scheme3/scheme3_results.csv",
+      "source": "adult project/outputs/evaluation/scheme3/scheme3_results.csv",
+      "bytes": 653,
+      "sha256": "d4f1d553b9efac04af01ed5fc889d771dee22c97e61faa162cbae01e0025eabb"
+    },
+    {
+      "path": "adult project/outputs/evaluation/scheme3/scheme3_results.xlsx",
+      "source": "adult project/outputs/evaluation/scheme3/scheme3_results.xlsx",
+      "bytes": 5839,
+      "sha256": "7b64b8c4250b6e929e9d6c25cdf49a86f01afece202ea5f040e75c156de9c6ee"
+    },
+    {
+      "path": "adult project/outputs/evaluation/scheme3/scheme3_roc.png",
+      "source": "adult project/outputs/evaluation/scheme3/scheme3_roc.png",
+      "bytes": 230246,
+      "sha256": "3e2e44476a0a4ff009dc62e1e90a7274a59785c788a3ad21f42869dce62caeaa"
+    },
+    {
+      "path": "adult project/outputs/evaluation/scheme3/scheme3_tree.png",
+      "source": "adult project/outputs/evaluation/scheme3/scheme3_tree.png",
+      "bytes": 580472,
+      "sha256": "420603f6a75739758c44d344a23107d119a8ee2863b97b558739f820bbd32665"
+    },
+    {
+      "path": "adult project/outputs/models/adult_apriori/adult_apriori_frequent_itemsets.csv",
+      "source": "adult project/outputs/models/adult_apriori/adult_apriori_frequent_itemsets.csv",
+      "bytes": 156693,
+      "sha256": "7f224bcfcccb53084f0b0eab7048917eebf2e6dfb01b1a4f98050b25b741d44d"
+    },
+    {
+      "path": "adult project/outputs/models/adult_apriori/adult_apriori_rules.csv",
+      "source": "adult project/outputs/models/adult_apriori/adult_apriori_rules.csv",
+      "bytes": 223800,
+      "sha256": "513b61e6e62b98d4398cb3ba6f7790a24384544d0f386a5bb01d99f173b303f5"
+    },
+    {
+      "path": "adult project/outputs/models/adult_apriori/adult_apriori_summary.csv",
+      "source": "adult project/outputs/models/adult_apriori/adult_apriori_summary.csv",
+      "bytes": 144,
+      "sha256": "16b4ed0a5f7fec259c8c08b142a5285f70c2d9fd6f48cbacca525d2ab8440dda"
+    },
+    {
+      "path": "adult project/outputs/models/scheme1.joblib",
+      "source": "adult project/outputs/models/scheme1.joblib",
+      "bytes": 35411761,
+      "sha256": "03e86cbaaefcf56a02233a98683fe5c449df4ed34e4514d76eccde1a8934b8b6"
+    },
+    {
+      "path": "adult project/outputs/models/scheme2.joblib",
+      "source": "adult project/outputs/models/scheme2.joblib",
+      "bytes": 37590104,
+      "sha256": "abd1dabe7e5dbd18e85ab7a206b0baa070aa4d105051c9270e6051f039997b7b"
+    },
+    {
+      "path": "adult project/outputs/models/scheme3.joblib",
+      "source": "adult project/outputs/models/scheme3.joblib",
+      "bytes": 37732691,
+      "sha256": "662ef7606de0a99ee311f2b085d9cc8be689cc3e733d29c2ff33fbdcf8b2cfac"
+    },
+    {
+      "path": "adult project/outputs/preprocessing/cleaned_data.csv",
+      "source": "adult project/outputs/preprocessing/cleaned_data.csv",
+      "bytes": 5418174,
+      "sha256": "e01546f967a4637242310185694eaba5a3edab55789bc140f65cc0e8154c8984"
+    },
+    {
+      "path": "adult project/outputs/preprocessing/figures/01_missing_values.png",
+      "source": "adult project/outputs/preprocessing/figures/01_missing_values.png",
+      "bytes": 216232,
+      "sha256": "61ac363ed1332065c5e00f0ae30866e3c1cc4d7551f06c41fe67e8c68fb785db"
+    },
+    {
+      "path": "adult project/outputs/preprocessing/figures/02_income_distribution.png",
+      "source": "adult project/outputs/preprocessing/figures/02_income_distribution.png",
+      "bytes": 97736,
+      "sha256": "97ee8c930ce0c1471bc95bf818113c0a781818fb99316150bce6f92a1cd692ac"
+    },
+    {
+      "path": "adult project/outputs/preprocessing/figures/03_numeric_distributions.png",
+      "source": "adult project/outputs/preprocessing/figures/03_numeric_distributions.png",
+      "bytes": 330374,
+      "sha256": "27aff13546022ef85d3ac982ff147be90a439231df6a248cd6b4bfb74f9e9a60"
+    },
+    {
+      "path": "adult project/outputs/preprocessing/figures/04_numeric_correlations.png",
+      "source": "adult project/outputs/preprocessing/figures/04_numeric_correlations.png",
+      "bytes": 245883,
+      "sha256": "c0af1f6e8e9dd5c2cf219b9fb18c39e328229753ca6ea05e82853a7e0fab4188"
+    },
+    {
+      "path": "adult project/outputs/preprocessing/processed_data.joblib",
+      "source": "adult project/outputs/preprocessing/processed_data.joblib",
+      "bytes": 4664346,
+      "sha256": "4de60f51b534a869dc6d51cb35a6a81591108c478c765b48d398cc3cad43e683"
+    },
+    {
+      "path": "adult project/outputs/preprocessing/scheme1.joblib",
+      "source": "adult project/outputs/preprocessing/scheme1.joblib",
+      "bytes": 1569097,
+      "sha256": "684953d3ea3fcad0ac1889523f643bda18a71e42bb9070a2d3f14aa502138dfa"
+    },
+    {
+      "path": "adult project/outputs/preprocessing/scheme2.joblib",
+      "source": "adult project/outputs/preprocessing/scheme2.joblib",
+      "bytes": 1040787,
+      "sha256": "54b58756942759036f5454868d2267df5dd41e218b5de3c316e48a28258e21bf"
+    },
+    {
+      "path": "adult project/outputs/preprocessing/scheme3.joblib",
+      "source": "adult project/outputs/preprocessing/scheme3.joblib",
+      "bytes": 1040791,
+      "sha256": "067594c97517684d1bf5bab6d046b77d9d8097b3d3aaba8dfd02c38038d9b861"
+    },
+    {
+      "path": "adult project/preprocessing.py",
+      "source": "adult project/preprocessing.py",
+      "bytes": 26856,
+      "sha256": "ac46b2c4406c58b7b95423f989536321398981512fcf732b8209370aaa85175d"
+    },
+    {
+      "path": "adult project/presentation/Adult_Evaluation_Final.pptx",
+      "source": "adult project/presentation/Adult_Evaluation_Final.pptx",
+      "bytes": 38791,
+      "sha256": "83f24cd0043eb18f1fa0620c9bffd81e8147c92d6b6fe0502c7b485859ec4e6a"
+    },
+    {
+      "path": "adult project/presentation/Adult_Evaluation_逐页演讲稿.md",
+      "source": "adult project/presentation/Adult_Evaluation_逐页演讲稿.md",
+      "bytes": 4380,
+      "sha256": "57e24f45a00fab42d953e9a6148c57bd912d868886b2711f6dba71cd6bf8410b"
+    },
+    {
+      "path": "adult project/README.md",
+      "source": "adult project/README.md",
+      "bytes": 6759,
+      "sha256": "870177f5cb26144e2f696c8608366859f691eaaf7b006590b907e50e9320d5ac"
+    },
+    {
+      "path": "adult project/requirements.txt",
+      "source": "adult project/requirements.txt",
+      "bytes": 225,
+      "sha256": "c684a6a0ad0829dd787714061dc7f01128f5e74efb230cf312e81e2f53d57c24"
+    },
+    {
+      "path": "cross_dataset_comparison/compare_baselines.py",
+      "source": "cross_dataset_comparison/compare_baselines.py",
+      "bytes": 16625,
+      "sha256": "d223693455114913e8d4d3ac3929e65a52371b7f33afb2943512a5e9729aae5f"
+    },
+    {
+      "path": "cross_dataset_comparison/outputs/adult_scheme2_reference.csv",
+      "source": "cross_dataset_comparison/outputs/adult_scheme2_reference.csv",
+      "bytes": 1063,
+      "sha256": "8f4e333ff517a75d49780df52f903019b7cf5f7f77ce6b8731a869c92f79505b"
+    },
+    {
+      "path": "cross_dataset_comparison/outputs/cross_dataset_cv_accuracy.png",
+      "source": "cross_dataset_comparison/outputs/cross_dataset_cv_accuracy.png",
+      "bytes": 64719,
+      "sha256": "1ed2c53d17c822e0638a4fd18bdc528d372bca7b71f94a5855ab20cd5a2291d9"
+    },
+    {
+      "path": "cross_dataset_comparison/outputs/cross_dataset_metrics.csv",
+      "source": "cross_dataset_comparison/outputs/cross_dataset_metrics.csv",
+      "bytes": 1916,
+      "sha256": "e6c4421e5bedf8a05adcfd03600400990270c3284edced6b922a6949214f69e9"
+    },
+    {
+      "path": "cross_dataset_comparison/outputs/cross_dataset_metrics.png",
+      "source": "cross_dataset_comparison/outputs/cross_dataset_metrics.png",
+      "bytes": 148386,
+      "sha256": "2b44c9e57152a50fa3c859e7140f94992d8d91b34ca29201b870d6b19cd4b919"
+    },
+    {
+      "path": "cross_dataset_comparison/outputs/experiment_config.json",
+      "source": "cross_dataset_comparison/outputs/experiment_config.json",
+      "bytes": 2549,
+      "sha256": "8256199f2e9f2ef63740f0c24712dc55417e27ffc6baa57b4a972fa57d146427"
+    },
+    {
+      "path": "cross_dataset_comparison/outputs/mushroom/confusion_matrices.csv",
+      "source": "cross_dataset_comparison/outputs/mushroom/confusion_matrices.csv",
+      "bytes": 366,
+      "sha256": "46745d12540aa33ff7419327d3bc16a3e061dda27c3ff35d20dbef3bbaba043f"
+    },
+    {
+      "path": "cross_dataset_comparison/outputs/mushroom/confusion_matrices.png",
+      "source": "cross_dataset_comparison/outputs/mushroom/confusion_matrices.png",
+      "bytes": 114234,
+      "sha256": "276243cb6876cba8f3b74678d7d092b3bc1ce1866f48aae386bfe78d2ccaf681"
+    },
+    {
+      "path": "cross_dataset_comparison/outputs/mushroom/cv_scores_10fold.csv",
+      "source": "cross_dataset_comparison/outputs/mushroom/cv_scores_10fold.csv",
+      "bytes": 2019,
+      "sha256": "1722b34470f7079f7f924a49b9fa1cefae5120d65a35e1fe81335d34fbca6d70"
+    },
+    {
+      "path": "cross_dataset_comparison/outputs/mushroom/metrics_10fold_holdout.csv",
+      "source": "cross_dataset_comparison/outputs/mushroom/metrics_10fold_holdout.csv",
+      "bytes": 981,
+      "sha256": "be5138f051d4cd1e36c621515ea993b024a761e64ae75e37d49af1d41362eb10"
+    },
+    {
+      "path": "cross_dataset_comparison/outputs/mushroom/models.joblib",
+      "source": "cross_dataset_comparison/outputs/mushroom/models.joblib",
+      "bytes": 342018,
+      "sha256": "775ff40e45337b6499ea0da4fc388a949e58c3fd6c748f6d34a47109d4e741af"
+    },
+    {
+      "path": "cross_dataset_comparison/outputs/mushroom/split_and_cv_assignments.csv",
+      "source": "cross_dataset_comparison/outputs/mushroom/split_and_cv_assignments.csv",
+      "bytes": 126314,
+      "sha256": "cbfcb3e3d556e9325ccd15c9c8391009f99b1a564c91785e6d8543f415c47620"
+    },
+    {
+      "path": "cross_dataset_comparison/outputs/mushroom/test_predictions.csv",
+      "source": "cross_dataset_comparison/outputs/mushroom/test_predictions.csv",
+      "bytes": 228512,
+      "sha256": "798f379643b153edb15102c32fabb23d6ddcff52bcd1a48b209cad653c9cf2d7"
+    },
+    {
+      "path": "cross_dataset_comparison/outputs/run_manifest.json",
+      "source": "cross_dataset_comparison/outputs/run_manifest.json",
+      "bytes": 561,
+      "sha256": "c0ff8c18012b78c715cddc332c4a59e7ac3602d069302bff8604984e2525fad7"
+    },
+    {
+      "path": "cross_dataset_comparison/outputs/source_preservation.json",
+      "source": "cross_dataset_comparison/outputs/source_preservation.json",
+      "bytes": 20907,
+      "sha256": "653be4823c4874824a1dc19435d5ef732a68fe41682a36acda4e43e39d39faf0"
+    },
+    {
+      "path": "cross_dataset_comparison/README.md",
+      "source": "cross_dataset_comparison/README.md",
+      "bytes": 5626,
+      "sha256": "ceb7c78f2c6bc55bb15f6b1589084a784186b9069d49268c0e519dbd4ba78c40"
+    },
+    {
+      "path": "cross_dataset_comparison/跨数据集分析_报告正文.md",
+      "source": "cross_dataset_comparison/跨数据集分析_报告正文.md",
+      "bytes": 20391,
+      "sha256": "0357a98d019c2570ea83f111e8db26e2db71883693f3fe49334bece1aff0282f"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/association_rules.py",
+      "source": "Data mining project/mushroom_preprocessing/association_rules.py",
+      "bytes": 9394,
+      "sha256": "c128765e8d3f4d2a27171d5c8fd82d5d80575acb8257a2f176a050783b09aae4"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/data/agaricus-lepiota.data",
+      "source": "Data mining project/mushroom_preprocessing/data/agaricus-lepiota.data",
+      "bytes": 373704,
+      "sha256": "e65d082030501a3ebcbcd7c9f7c71aa9d28fdfff463bf4cf4716a3fe13ac360e"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/data/agaricus-lepiota.names",
+      "source": "Data mining project/mushroom_preprocessing/data/agaricus-lepiota.names",
+      "bytes": 6816,
+      "sha256": "79e440566900901a5900febc1f3c9659e3746e306a5fa1aed4d084a1e4da76fd"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/evaluate_models.py",
+      "source": "Data mining project/mushroom_preprocessing/evaluate_models.py",
+      "bytes": 24524,
+      "sha256": "2f879716babc850e32421c18712187d8d50d4495479db76b62f75995e8012cea"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/linear_svm_models.py",
+      "source": "Data mining project/mushroom_preprocessing/linear_svm_models.py",
+      "bytes": 2578,
+      "sha256": "ba660fe891a85ea0208f9f02d63e5b6b8d2a6fb161d1f2fe0ddf22ecdc064188"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/model_tuning.py",
+      "source": "Data mining project/mushroom_preprocessing/model_tuning.py",
+      "bytes": 7966,
+      "sha256": "e67cc54e74b8586696dcac9ec4ef6e9b26566739c210465ed7106a475eff78dd"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/data/mushroom_audit_with_missing.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/data/mushroom_audit_with_missing.csv",
+      "bytes": 382129,
+      "sha256": "0df7573924b7a06785dbd7f1ed95db39e690ee13fd409da82b505afd77fdd7f2"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/data/mushroom_complete_cases.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/data/mushroom_complete_cases.csv",
+      "bytes": 254271,
+      "sha256": "32b42aa2c90eee11d709810ba0e159f891ec57a5f4098afc7832e4ee93795694"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/data/mushroom_modeling_base.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/data/mushroom_modeling_base.csv",
+      "bytes": 365871,
+      "sha256": "3c5737981510dcfad5d4812dadd467cc0d49ac36f7c54914bd7b2578d250a82b"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/data/mushroom_without_stalk_root.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/data/mushroom_without_stalk_root.csv",
+      "bytes": 349612,
+      "sha256": "3cbadb5ac137ff1748dec62bda3ab9ee2a272e89a1ef1539ac0b4a4fb4aa4036"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/figures/class_by_odor.png",
+      "source": "Data mining project/mushroom_preprocessing/output/figures/class_by_odor.png",
+      "bytes": 49822,
+      "sha256": "8b75319c93219233092ead627681395528b5631627905539a818ab1e3bd5149f"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/figures/class_distribution.png",
+      "source": "Data mining project/mushroom_preprocessing/output/figures/class_distribution.png",
+      "bytes": 41267,
+      "sha256": "addd80b6a4d694222298e22b5dbed78d01e315fc6e5570db33a2e869613dd52a"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/figures/confusion_matrix_decision_tree.png",
+      "source": "Data mining project/mushroom_preprocessing/output/figures/confusion_matrix_decision_tree.png",
+      "bytes": 47322,
+      "sha256": "fac859115d6ff9e8ed9d74f8305ea6c2f27abe8d1d229f7ce1e62a99d1cb24d4"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/figures/confusion_matrix_decision_tree_normalized.png",
+      "source": "Data mining project/mushroom_preprocessing/output/figures/confusion_matrix_decision_tree_normalized.png",
+      "bytes": 50245,
+      "sha256": "dbdf9beaa003461abb30381f098953554173efb6f6ba48ec235371a030eb12f1"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/figures/confusion_matrix_linear_svm.png",
+      "source": "Data mining project/mushroom_preprocessing/output/figures/confusion_matrix_linear_svm.png",
+      "bytes": 47037,
+      "sha256": "c4e923d8fb37e413744863c755a0b3157d1e3897bc4ed6814326467fda108423"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/figures/confusion_matrix_linear_svm_normalized.png",
+      "source": "Data mining project/mushroom_preprocessing/output/figures/confusion_matrix_linear_svm_normalized.png",
+      "bytes": 50076,
+      "sha256": "7f9b401144cbf67793f3094a41349c6f475be913c4f2bfbd16435f0f04c8c99a"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/figures/confusion_matrix_logistic_regression.png",
+      "source": "Data mining project/mushroom_preprocessing/output/figures/confusion_matrix_logistic_regression.png",
+      "bytes": 49857,
+      "sha256": "0c4b9f6e705727a07cacab6e68556eb1dfe25468afb93a1c022e000a1497618f"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/figures/confusion_matrix_logistic_regression_normalized.png",
+      "source": "Data mining project/mushroom_preprocessing/output/figures/confusion_matrix_logistic_regression_normalized.png",
+      "bytes": 54805,
+      "sha256": "9a9b61e230d8275585f1dd120f6ca989023633b3b18bc03bcf490a54e581021e"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/figures/confusion_matrix_random_forest.png",
+      "source": "Data mining project/mushroom_preprocessing/output/figures/confusion_matrix_random_forest.png",
+      "bytes": 49283,
+      "sha256": "1e49514d649fb1c4f46eb446e35fa65c15d411c3f291c91adaa453f0b1435197"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/figures/confusion_matrix_random_forest_normalized.png",
+      "source": "Data mining project/mushroom_preprocessing/output/figures/confusion_matrix_random_forest_normalized.png",
+      "bytes": 52492,
+      "sha256": "4c7c4f1ec81c25dbb30b06d665bde475107f5650d99e00635e4a74e1037ce747"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/figures/decision_tree_structure.png",
+      "source": "Data mining project/mushroom_preprocessing/output/figures/decision_tree_structure.png",
+      "bytes": 584677,
+      "sha256": "85e4400ffca60109270e7b5d64612d8d48f4502fc3323ca9e36b6be9f6db7113"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/figures/missing_values.png",
+      "source": "Data mining project/mushroom_preprocessing/output/figures/missing_values.png",
+      "bytes": 38603,
+      "sha256": "dc90f24955f8aeb1efa3dcdb479587aca3e99f75c3e5451ce773d4a7de6afe73"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/figures/roc_curve_comparison.png",
+      "source": "Data mining project/mushroom_preprocessing/output/figures/roc_curve_comparison.png",
+      "bytes": 93080,
+      "sha256": "7f18f3a52d3a4799391f021a6e61526cc6d9aa8a7263ef5cfef6eaa8fad8bc9e"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/apriori_class_rules.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/apriori_class_rules.csv",
+      "bytes": 14079,
+      "sha256": "7d6c8406c71eab32a70c05a7882c1528bf53a17ae47f5335a0ee5817e08d82f7"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/apriori_frequent_itemsets.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/apriori_frequent_itemsets.csv",
+      "bytes": 72270,
+      "sha256": "f05f8c7c7fbd8b6be9929f3ab2b56bcabb3df91b5cf40742d1b8f982db4290ad"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/apriori_rules.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/apriori_rules.csv",
+      "bytes": 251047,
+      "sha256": "e19ca0cbf13d0879bb592b5fed32fe68cd35bdbbd85e54e9b14004c0f63a6f02"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/apriori_support_confidence_grid.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/apriori_support_confidence_grid.csv",
+      "bytes": 318,
+      "sha256": "30b180aacc57c554a9830e133369503c3b28961a3ed602ae38557715afb64160"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/audit_summary.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/audit_summary.csv",
+      "bytes": 288,
+      "sha256": "31350710750afb48e743c76b0090080536c1a4161a168e02704d9c999072c42c"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/class_distribution.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/class_distribution.csv",
+      "bytes": 80,
+      "sha256": "bd979294dbcff7116c493e256297b1f313a23108c134e41b72a242bc83c2a9df"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/confusion_matrix_decision_tree.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/confusion_matrix_decision_tree.csv",
+      "bytes": 96,
+      "sha256": "47e74a69dd120c5f7fe0b4f98a328a3519fb975e786586745ab347b48d108afe"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/confusion_matrix_decision_tree_normalized.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/confusion_matrix_decision_tree_normalized.csv",
+      "bytes": 100,
+      "sha256": "6155e22269610586b4f52a958ca77cd10b1a194101441e4f06d659577f2e7038"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/confusion_matrix_linear_svm.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/confusion_matrix_linear_svm.csv",
+      "bytes": 96,
+      "sha256": "47e74a69dd120c5f7fe0b4f98a328a3519fb975e786586745ab347b48d108afe"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/confusion_matrix_linear_svm_normalized.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/confusion_matrix_linear_svm_normalized.csv",
+      "bytes": 100,
+      "sha256": "6155e22269610586b4f52a958ca77cd10b1a194101441e4f06d659577f2e7038"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/confusion_matrix_logistic_regression.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/confusion_matrix_logistic_regression.csv",
+      "bytes": 96,
+      "sha256": "8ca41a4ac3ae1046ff8a2b36bf44637baceb5540c7513fbb5a8e28ffca6dd5f7"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/confusion_matrix_logistic_regression_normalized.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/confusion_matrix_logistic_regression_normalized.csv",
+      "bytes": 110,
+      "sha256": "0a0fdef13037fb150f7978cd1a32052958fc0168317a8a4dedbeaa0a5030da6d"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/confusion_matrix_random_forest.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/confusion_matrix_random_forest.csv",
+      "bytes": 96,
+      "sha256": "47e74a69dd120c5f7fe0b4f98a328a3519fb975e786586745ab347b48d108afe"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/confusion_matrix_random_forest_normalized.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/confusion_matrix_random_forest_normalized.csv",
+      "bytes": 100,
+      "sha256": "6155e22269610586b4f52a958ca77cd10b1a194101441e4f06d659577f2e7038"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/constant_attributes.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/constant_attributes.csv",
+      "bytes": 31,
+      "sha256": "6c9e67b0b935eba847c9e7f339d820e7d388c787ea5c16853b46ba15cc5e81fa"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/missing_values_summary.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/missing_values_summary.csv",
+      "bytes": 507,
+      "sha256": "eb9c3e2f7358974794562daf09df04bcffb4ca3c6fcc90a3eeeb7f38a5143ab7"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/model_metrics.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/model_metrics.csv",
+      "bytes": 202,
+      "sha256": "cc9441756c92c625c947ed58f84530744f6535ce0c74af07baff6963dbc6be31"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/schema_and_missingness.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/schema_and_missingness.csv",
+      "bytes": 1277,
+      "sha256": "19e561277a686aa4e4d590ecc4a80079935b94845972f1555da319bc6d2bcbe4"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/tuning_baseline_vs_tuned.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/tuning_baseline_vs_tuned.csv",
+      "bytes": 433,
+      "sha256": "cc225c07d1e7b8712547cfa025cb1b299243eebe50ea9fe6f6ccbc4a230f9fc2"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/tuning_best_params.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/tuning_best_params.csv",
+      "bytes": 879,
+      "sha256": "4e52783e6ce14f049d4ae72d539c99f8ccb9c3b183e887caade48c41250c2d45"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/tuning_cv_results_decision_tree.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/tuning_cv_results_decision_tree.csv",
+      "bytes": 1748,
+      "sha256": "2fd7fa7fcef2ed81932b19b7eb60d66f1a6c5a96ff5da77bc3e93f39d2aa1fe1"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/tuning_cv_results_linear_svm.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/tuning_cv_results_linear_svm.csv",
+      "bytes": 950,
+      "sha256": "eb919385f59257463f7e4388a9caec394352d7e269dc2845c1b39c4ccb3099eb"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/tuning_cv_results_logistic_regression.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/tuning_cv_results_logistic_regression.csv",
+      "bytes": 1808,
+      "sha256": "b04a5bb9c0b0d66aed688a3377f7ec3528752d16d9f3ddd4f1da99ce7823605f"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/output/tables/tuning_cv_results_random_forest.csv",
+      "source": "Data mining project/mushroom_preprocessing/output/tables/tuning_cv_results_random_forest.csv",
+      "bytes": 721,
+      "sha256": "7718ef5eaad6741d9ba8c8de67588be554cbaa58eb6a13fe08c13bee70e0b83e"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/preprocess_mushroom.py",
+      "source": "Data mining project/mushroom_preprocessing/preprocess_mushroom.py",
+      "bytes": 10174,
+      "sha256": "8ad07b09dbcf1001abbbf9bd81bb91c6eedceb236f80d3a10ea630233f9d2ccd"
+    },
+    {
+      "path": "Data mining project/mushroom_preprocessing/tree_models.py",
+      "source": "Data mining project/mushroom_preprocessing/tree_models.py",
+      "bytes": 3471,
+      "sha256": "708385b3dce0fdc4a75c818e647ec4508e9129ceecf680eb83e11553e2932f83"
+    },
+    {
+      "path": "Data mining project/requirements.txt",
+      "source": "Data mining project/requirements.txt",
+      "bytes": 235,
+      "sha256": "af7f98e924d6350d76a7db26d0fca359e4216773a6f5bfbaa361c527d7e73431"
+    },
+    {
+      "path": "reports/CDS535_Group_TeamName_Template_Members.docx",
+      "source": "final_report/template_version/CDS535_Group_TeamName_Template_Members.docx",
+      "bytes": 5394220,
+      "sha256": "cc22ad57f6c850edda4dd5f1b0ef99dc753deda8356b9231b0146bee078d3438"
+    },
+    {
+      "path": "reports/CDS535_Adult_Mushroom_Report_Chinese_Members.docx",
+      "source": "final_report/template_version/CDS535_Adult_Mushroom_Report_Chinese_Members.docx",
+      "bytes": 14759595,
+      "sha256": "9913fedef22e13cd07164e1161f570dd200cabb79b47bbd4c090a4e7ae61aba4"
+    }
+  ],
+  "excluded": [
+    {
+      "source": "adult project/outputs/run_20261025_232148/preprocessing/cleaned_data.csv",
+      "reason": "Duplicate historical run directory"
+    },
+    {
+      "source": "adult project/outputs/run_20261025_232148/preprocessing/figures/01_missing_values.png",
+      "reason": "Duplicate historical run directory"
+    },
+    {
+      "source": "adult project/outputs/run_20261025_232148/preprocessing/figures/02_income_distribution.png",
+      "reason": "Duplicate historical run directory"
+    },
+    {
+      "source": "adult project/outputs/run_20261025_232148/preprocessing/figures/03_numeric_distributions.png",
+      "reason": "Duplicate historical run directory"
+    },
+    {
+      "source": "adult project/outputs/run_20261025_232148/preprocessing/figures/04_numeric_correlations.png",
+      "reason": "Duplicate historical run directory"
+    },
+    {
+      "source": "adult project/outputs/run_20261025_232148/preprocessing/processed_data.joblib",
+      "reason": "Duplicate historical run directory"
+    },
+    {
+      "source": "adult project/outputs/run_20261025_232148/preprocessing/scheme1.joblib",
+      "reason": "Duplicate historical run directory"
+    },
+    {
+      "source": "adult project/outputs/run_20261025_232148/preprocessing/scheme2.joblib",
+      "reason": "Duplicate historical run directory"
+    },
+    {
+      "source": "adult project/outputs/run_20261025_232148/preprocessing/scheme3.joblib",
+      "reason": "Duplicate historical run directory"
+    },
+    {
+      "source": "adult project/verification/full_data_preprocessing/preprocessing/cleaned_data.csv",
+      "reason": "Historical integration tests and duplicated preprocessing artifacts"
+    },
+    {
+      "source": "adult project/verification/full_data_preprocessing/preprocessing/figures/01_missing_values.png",
+      "reason": "Historical integration tests and duplicated preprocessing artifacts"
+    },
+    {
+      "source": "adult project/verification/full_data_preprocessing/preprocessing/figures/02_income_distribution.png",
+      "reason": "Historical integration tests and duplicated preprocessing artifacts"
+    },
+    {
+      "source": "adult project/verification/full_data_preprocessing/preprocessing/figures/03_numeric_distributions.png",
+      "reason": "Historical integration tests and duplicated preprocessing artifacts"
+    },
+    {
+      "source": "adult project/verification/full_data_preprocessing/preprocessing/figures/04_numeric_correlations.png",
+      "reason": "Historical integration tests and duplicated preprocessing artifacts"
+    },
+    {
+      "source": "adult project/verification/full_data_preprocessing/preprocessing/processed_data.joblib",
+      "reason": "Historical integration tests and duplicated preprocessing artifacts"
+    },
+    {
+      "source": "adult project/verification/full_data_preprocessing/preprocessing/scheme1.joblib",
+      "reason": "Historical integration tests and duplicated preprocessing artifacts"
+    },
+    {
+      "source": "adult project/verification/full_data_preprocessing/preprocessing/scheme2.joblib",
+      "reason": "Historical integration tests and duplicated preprocessing artifacts"
+    },
+    {
+      "source": "adult project/verification/full_data_preprocessing/preprocessing/scheme3.joblib",
+      "reason": "Historical integration tests and duplicated preprocessing artifacts"
+    },
+    {
+      "source": "adult project/verification/full_data_preprocessing.log",
+      "reason": "Historical integration tests and duplicated preprocessing artifacts"
+    },
+    {
+      "source": "adult project/verification/full_data_preprocessing_report.json",
+      "reason": "Historical integration tests and duplicated preprocessing artifacts"
+    },
+    {
+      "source": "adult project/verification/full_data_preprocessing_warnings.log",
+      "reason": "Historical integration tests and duplicated preprocessing artifacts"
+    },
+    {
+      "source": "adult project/verification/integration_console.log",
+      "reason": "Historical integration tests and duplicated preprocessing artifacts"
+    },
+    {
+      "source": "adult project/verification/integration_report.json",
+      "reason": "Historical integration tests and duplicated preprocessing artifacts"
+    },
+    {
+      "source": "adult project/verification/integration_warnings.log",
+      "reason": "Historical integration tests and duplicated preprocessing artifacts"
+    },
+    {
+      "source": "adult project/verification/original_reference.log",
+      "reason": "Historical integration tests and duplicated preprocessing artifacts"
+    },
+    {
+      "source": "adult project/verification/sample_cli.log",
+      "reason": "Historical integration tests and duplicated preprocessing artifacts"
+    },
+    {
+      "source": "adult project/verification/source_preservation.json",
+      "reason": "Historical integration tests and duplicated preprocessing artifacts"
+    }
+  ],
+  "all_10_current_project_python_files_included": true,
+  "other_workspace_drafts_and_archives_not_selected": [
+    "adult_project/",
+    "adult_project_three_files/",
+    "adult/",
+    "modeling/",
+    "old ZIP archives",
+    "report build scripts and QA renders"
+  ]
+}

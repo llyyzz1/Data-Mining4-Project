@@ -1,0 +1,19 @@
+{
+  "status": "complete",
+  "mushroom": {
+    "rows": 8124,
+    "features": 21,
+    "train_rows": 6499,
+    "test_rows": 1625,
+    "question_mark_count": 2480,
+    "actual_nan_count": 0,
+    "positive_label": "poisonous=1",
+    "preprocessing_note": "沿用原读取方式。? 作为独立类别编码；SimpleImputer 不会填补普通字符串 ?。"
+  },
+  "classifier_parameters_match_adult": true,
+  "cv_folds": 10,
+  "mushroom_cv_score_rows": 40,
+  "comparison_rows": 8,
+  "original_projects_unchanged": true,
+  "adult_retrained": false
+}

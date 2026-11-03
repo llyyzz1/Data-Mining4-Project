@@ -1,0 +1,5 @@
+Dataset,Preprocessing,Model,CV folds,CV Accuracy (mean),Accuracy,Precision,Recall,F1,ROC-AUC,Kappa,Train rows,Test rows,Source
+Mushroom,Original missing category,Decision Tree,10,0.9996923076923077,1.0,1.0,1.0,1.0,1.0,1.0,6499,1625,G:\GPTLEARNING\Data mining project\mushroom_preprocessing\output\data\mushroom_modeling_base.csv
+Mushroom,Original missing category,Random Forest,10,1.0,1.0,1.0,1.0,1.0,1.0,1.0,6499,1625,G:\GPTLEARNING\Data mining project\mushroom_preprocessing\output\data\mushroom_modeling_base.csv
+Mushroom,Original missing category,Logistic Regression,10,0.9993846153846153,0.9993846153846154,1.0,0.9987228607918263,0.9993610223642172,1.0,0.9987675510214916,6499,1625,G:\GPTLEARNING\Data mining project\mushroom_preprocessing\output\data\mushroom_modeling_base.csv
+Mushroom,Original missing category,SVM,10,0.9993846153846153,1.0,1.0,1.0,1.0,1.0,1.0,6499,1625,G:\GPTLEARNING\Data mining project\mushroom_preprocessing\output\data\mushroom_modeling_base.csv

@@ -1,0 +1,19 @@
+# Cache and local environments only. Required data and saved models are included.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.vscode/
+.idea/
+.env
+.env.*
+!.env.example
+~$*
+Thumbs.db
+.DS_Store
+*.log
+# Do not ignore outputs/, *.csv, *.png or *.joblib: these are project evidence.

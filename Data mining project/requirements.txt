@@ -1,0 +1,7 @@
+# Data mining project - Python 3.14.6
+# Install: pip install -r requirements.txt
+# Versions match the project .venv; they reproduce all committed outputs byte-for-byte.
+pandas==3.0.6
+numpy==2.5.4
+scikit-learn==1.9.1
+matplotlib==3.11.2

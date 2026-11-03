@@ -1,0 +1,5 @@
+min_support,min_confidence,max_itemset_len,frequent_itemsets,itemsets_len_1,itemsets_len_2,itemsets_len_3,itemsets_len_4,rules,class_rules,runtime_sec
+0.5,0.8,4,76,12,29,27,8,119,0,0.08
+0.4,0.8,4,267,20,77,108,62,478,2,0.15
+0.3,0.8,4,888,27,136,319,406,1868,106,0.33
+0.2,0.8,4,3935,42,334,1138,2421,8669,547,1.16

@@ -1,0 +1,2 @@
+instances,features_before_cleaning,features_after_removing_constants,duplicate_rows,total_missing_values,stalk_root_missing,stalk_root_missing_percent,complete_case_instances,edible_instances,poisonous_instances,constant_attributes
+8124,22,21,0,2480,2480,30.53,5644,4208,3916,veil-type
